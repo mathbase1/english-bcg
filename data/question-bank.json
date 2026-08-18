@@ -1,0 +1,3378 @@
+{
+  "meta": {
+    "title": "AQA GCSE English Language Mock Paper Bank",
+    "subtitle": "Original AQA-style GCSE English Language practice papers with secure OpenAI-assisted marking",
+    "version": "3.0.0",
+    "notes": [
+      "All sources, extracts and questions are original mock materials and are not official AQA papers.",
+      "Each generated paper contains four questions worth 4, 8, 20 and 40 marks and is designed for 1 hour 25 minutes.",
+      "The browser saves the selected paper pack and student responses locally on that device."
+    ]
+  },
+  "paperTypes": [
+    {
+      "id": "Paper 1",
+      "title": "Explorations in Creative Reading and Writing",
+      "time": "1 hour 25 minutes",
+      "totalMarks": 72,
+      "sectionA": "Reading: one literature fiction text",
+      "sectionB": "Writing: descriptive or narrative writing",
+      "questionPattern": [
+        4,
+        8,
+        20,
+        40
+      ]
+    },
+    {
+      "id": "Paper 2",
+      "title": "Writers' Viewpoints and Perspectives",
+      "time": "1 hour 25 minutes",
+      "totalMarks": 72,
+      "sectionA": "Reading: one non-fiction text and one literary non-fiction text",
+      "sectionB": "Writing: writing to present a viewpoint",
+      "questionPattern": [
+        4,
+        8,
+        20,
+        40
+      ]
+    }
+  ],
+  "packs": [
+    {
+      "id": "p1-harbour",
+      "paper": "Paper 1",
+      "title": "Harbour at Dawn",
+      "theme": "arrival and secrecy",
+      "sourceA": {
+        "label": "Source A",
+        "title": "Harbour at Dawn",
+        "genre": "Literature fiction (original mock)",
+        "period": "21st-century style fiction",
+        "lines": [
+          "The harbour did not appear all at once; it gathered itself out of the fog in pieces.",
+          "First came the bell, striking somewhere beyond the water.",
+          "Then Mara saw the black posts of the pier, beaded with rain.",
+          "Ropes knocked softly against wooden masts.",
+          "A gull swooped low enough to stir the mist above her head.",
+          "Everything smelled of salt, oil and wet rope.",
+          "She kept one hand in her pocket around the folded note.",
+          "It had become soft at the edges from being opened so often.",
+          "Ahead of her, a single lamp burned in the harbour office, pale and stubborn.",
+          "For a moment she wanted to turn back to the bus shelter and wait for daylight.",
+          "But the bell rang again, and the sound seemed less like a warning than a summons.",
+          "Mara lifted her case and walked on, straight into the bright circle of the lamp."
+        ]
+      },
+      "questions": [
+        {
+          "id": "p1-harbour-q1",
+          "questionNumber": "Question 1",
+          "section": "Section A: Reading",
+          "markCategory": 4,
+          "questionType": "select-true-statements",
+          "assessmentObjective": "AO1",
+          "instructionsTop": "Read again the first part of Source A, lines 1 to 4.",
+          "focusLines": "Lines 1 to 4",
+          "questionText": "Choose four statements below which are TRUE.",
+          "rubric": {
+            "name": "AO1 selection",
+            "maxScore": 4,
+            "notes": "Award 1 mark for each correct statement chosen, up to 4 marks. No explanation is required."
+          },
+          "options": [
+            "A. The harbour appears gradually out of the fog.",
+            "B. The water is shining brightly in the sun.",
+            "C. A bell is striking somewhere beyond the water.",
+            "D. The pier posts are black and wet with rain.",
+            "E. Mara is running along the pier.",
+            "F. Ropes knock softly against wooden masts.",
+            "G. A crowd is waiting by the harbour wall.",
+            "H. Boats are already leaving the harbour."
+          ],
+          "correctOptions": [
+            "A",
+            "C",
+            "D",
+            "F"
+          ]
+        },
+        {
+          "id": "p1-harbour-q2",
+          "questionNumber": "Question 2",
+          "section": "Section A: Reading",
+          "markCategory": 8,
+          "questionType": "language-analysis",
+          "assessmentObjective": "AO2",
+          "instructionsTop": "Look in detail at Lines 4 to 8 of Source A.",
+          "focusLines": "Lines 4 to 8",
+          "questionText": "How does the writer use language to describe the harbour and Mara's feelings?",
+          "bulletPoints": [
+            "You could include the writer's choice of words and phrases",
+            "You could include language features and techniques",
+            "You could include the effects on the reader"
+          ],
+          "rubric": {
+            "name": "AO2 language analysis",
+            "maxScore": 8,
+            "notes": "Reward clear explanation of language choices, precise references, and relevant effects."
+          }
+        },
+        {
+          "id": "p1-harbour-q3",
+          "questionNumber": "Question 3",
+          "section": "Section A: Reading",
+          "markCategory": 8,
+          "questionType": "structure-analysis",
+          "assessmentObjective": "AO2",
+          "instructionsTop": "You now need to think about the whole of the source.",
+          "focusLines": "Whole source",
+          "questionText": "How has the writer structured the source to interest you as a reader?",
+          "bulletPoints": [
+            "You could write about what the writer focuses your attention on at the beginning",
+            "You could write about how and why the writer changes this focus as the source develops",
+            "You could write about structural features, shifts, contrasts and endings"
+          ],
+          "rubric": {
+            "name": "AO2 structure analysis",
+            "maxScore": 8,
+            "notes": "Reward understanding of structural methods and their effects across the source, supported by relevant references."
+          }
+        },
+        {
+          "id": "p1-harbour-q4",
+          "questionNumber": "Question 4",
+          "section": "Section A: Reading",
+          "markCategory": 20,
+          "questionType": "evaluation",
+          "assessmentObjective": "AO4",
+          "instructionsTop": "Focus this part of your answer on the second half of the source.",
+          "focusLines": "Lines 7 to the end",
+          "statement": "A student said, \"Mara seems frightened at first, but by the end of the source she seems drawn towards the harbour.\"",
+          "questionText": "To what extent do you agree? In your response, you could: write about your own impressions of the character or setting; evaluate how the writer has created these impressions; support your ideas with references from the text.",
+          "rubric": {
+            "name": "AO4 evaluation",
+            "maxScore": 20,
+            "notes": "Reward a clear, critical response to the statement with judgements supported by apt textual references and explanation of methods."
+          }
+        },
+        {
+          "id": "p1-harbour-q5",
+          "questionNumber": "Question 5",
+          "section": "Section B: Writing",
+          "markCategory": 40,
+          "questionType": "creative-writing",
+          "assessmentObjective": "AO5 / AO6",
+          "instructionsTop": "Write a description suggested by this picture, or write a story suggested by this title.",
+          "questionText": "Either write a description of a place that seems strange or half-hidden, or write a story about arriving somewhere before sunrise.",
+          "bulletPoints": [
+            "Communicate clearly and imaginatively",
+            "Organise ideas and use a range of vocabulary and sentence forms",
+            "Use accurate spelling, punctuation and grammar"
+          ],
+          "rubric": {
+            "name": "AO5/AO6 creative writing",
+            "maxScore": 40,
+            "notes": "Award up to 24 marks for content and organisation and up to 16 marks for technical accuracy."
+          }
+        }
+      ]
+    },
+    {
+      "id": "p1-fairground",
+      "paper": "Paper 1",
+      "title": "The Closed Fairground",
+      "theme": "memory and unease",
+      "sourceA": {
+        "label": "Source A",
+        "title": "The Closed Fairground",
+        "genre": "Literature fiction (original mock)",
+        "period": "21st-century style fiction",
+        "lines": [
+          "The locked gates of the fairground glittered with last night's rain.",
+          "Beyond them, the rides stood completely still.",
+          "Bright bulbs rimmed the ferris wheel, but none of them were lit.",
+          "A torn poster slapped against a kiosk in the wind.",
+          "The smell of damp wood and old sugar drifted through the railings.",
+          "Jonah pressed his face closer and peered between the bars.",
+          "He had not been back since the summer his brother won a goldfish here and dropped it on the walk home.",
+          "Even now, he could picture the tiny silver body flashing on the pavement.",
+          "At the centre of the fairground, one painted horse on the carousel had come loose and leaned at an awkward angle.",
+          "It looked less like a toy than a warning.",
+          "When a speaker crackled into life with a burst of static, Jonah jumped back so sharply that his elbow struck the gate.",
+          "Then the music stopped, and the fairground seemed to hold its breath."
+        ]
+      },
+      "questions": [
+        {
+          "id": "p1-fairground-q1",
+          "questionNumber": "Question 1",
+          "section": "Section A: Reading",
+          "markCategory": 4,
+          "questionType": "select-true-statements",
+          "assessmentObjective": "AO1",
+          "instructionsTop": "Read again the first part of Source A, lines 1 to 4.",
+          "focusLines": "Lines 1 to 4",
+          "questionText": "Choose four statements below which are TRUE.",
+          "rubric": {
+            "name": "AO1 selection",
+            "maxScore": 4,
+            "notes": "Award 1 mark for each correct statement chosen, up to 4 marks. No explanation is required."
+          },
+          "options": [
+            "A. The gates are locked and wet with rain.",
+            "B. Music is playing across the fairground.",
+            "C. The rides are standing completely still.",
+            "D. The ferris wheel bulbs are brightly lit.",
+            "E. A torn poster slaps against a kiosk in the wind.",
+            "F. The ferris wheel bulbs are not lit.",
+            "G. Jonah is already inside the fairground.",
+            "H. Crowds are queuing at the gate."
+          ],
+          "correctOptions": [
+            "A",
+            "C",
+            "E",
+            "F"
+          ]
+        },
+        {
+          "id": "p1-fairground-q2",
+          "questionNumber": "Question 2",
+          "section": "Section A: Reading",
+          "markCategory": 8,
+          "questionType": "language-analysis",
+          "assessmentObjective": "AO2",
+          "instructionsTop": "Look in detail at Lines 5 to 9 of Source A.",
+          "focusLines": "Lines 5 to 9",
+          "questionText": "How does the writer use language to present the fairground as both familiar and unsettling?",
+          "bulletPoints": [
+            "You could include the writer's choice of words and phrases",
+            "You could include language features and techniques",
+            "You could include the effects on the reader"
+          ],
+          "rubric": {
+            "name": "AO2 language analysis",
+            "maxScore": 8,
+            "notes": "Reward clear explanation of language choices, precise references, and relevant effects."
+          }
+        },
+        {
+          "id": "p1-fairground-q3",
+          "questionNumber": "Question 3",
+          "section": "Section A: Reading",
+          "markCategory": 8,
+          "questionType": "structure-analysis",
+          "assessmentObjective": "AO2",
+          "instructionsTop": "You now need to think about the whole of the source.",
+          "focusLines": "Whole source",
+          "questionText": "How has the writer structured the source to hold your interest?",
+          "bulletPoints": [
+            "You could write about what the writer focuses your attention on at the beginning",
+            "You could write about how and why the writer changes this focus as the source develops",
+            "You could write about structural features, shifts, contrasts and endings"
+          ],
+          "rubric": {
+            "name": "AO2 structure analysis",
+            "maxScore": 8,
+            "notes": "Reward understanding of structural methods and their effects across the source, supported by relevant references."
+          }
+        },
+        {
+          "id": "p1-fairground-q4",
+          "questionNumber": "Question 4",
+          "section": "Section A: Reading",
+          "markCategory": 20,
+          "questionType": "evaluation",
+          "assessmentObjective": "AO4",
+          "instructionsTop": "Focus this part of your answer on the second half of the source.",
+          "focusLines": "Lines 7 to the end",
+          "statement": "A student said, \"The fairground feels lifeless, but it also seems ready to wake up at any moment.\"",
+          "questionText": "To what extent do you agree? In your response, you could: write about your own impressions of the character or setting; evaluate how the writer has created these impressions; support your ideas with references from the text.",
+          "rubric": {
+            "name": "AO4 evaluation",
+            "maxScore": 20,
+            "notes": "Reward a clear, critical response to the statement with judgements supported by apt textual references and explanation of methods."
+          }
+        },
+        {
+          "id": "p1-fairground-q5",
+          "questionNumber": "Question 5",
+          "section": "Section B: Writing",
+          "markCategory": 40,
+          "questionType": "creative-writing",
+          "assessmentObjective": "AO5 / AO6",
+          "instructionsTop": "Write a description suggested by this picture, or write a story suggested by this title.",
+          "questionText": "Either write a description of an abandoned place, or write a story about returning to somewhere full of memories.",
+          "bulletPoints": [
+            "Communicate clearly and imaginatively",
+            "Organise ideas and use a range of vocabulary and sentence forms",
+            "Use accurate spelling, punctuation and grammar"
+          ],
+          "rubric": {
+            "name": "AO5/AO6 creative writing",
+            "maxScore": 40,
+            "notes": "Award up to 24 marks for content and organisation and up to 16 marks for technical accuracy."
+          }
+        }
+      ]
+    },
+    {
+      "id": "p1-library",
+      "paper": "Paper 1",
+      "title": "The Library Stairwell",
+      "theme": "curiosity and suspense",
+      "sourceA": {
+        "label": "Source A",
+        "title": "The Library Stairwell",
+        "genre": "Literature fiction (original mock)",
+        "period": "21st-century style fiction",
+        "lines": [
+          "The public library had already closed when Lina noticed the light under the basement door.",
+          "Upstairs, every shelf stood in perfect shadow.",
+          "Only the returns desk glowed faintly from the streetlamp outside.",
+          "Dust drifted through the beam like ash in slow motion.",
+          "She should have gone home, but the light below seemed too deliberate to ignore.",
+          "Each stair creaked differently as she descended, as though the building were testing her step by step.",
+          "The air changed first: warmer, drier, carrying the faint smell of metal and paper glue.",
+          "Then she heard the steady turning of a page.",
+          "At the bottom of the stairwell she saw a room she had never known existed, lined with narrow cabinets and labelled boxes.",
+          "Someone sat at a desk inside, back turned, writing with a fountain pen.",
+          "Lina felt a thrill of discovery, followed immediately by the colder knowledge that she was not meant to be there.",
+          "The chair began to turn."
+        ]
+      },
+      "questions": [
+        {
+          "id": "p1-library-q1",
+          "questionNumber": "Question 1",
+          "section": "Section A: Reading",
+          "markCategory": 4,
+          "questionType": "select-true-statements",
+          "assessmentObjective": "AO1",
+          "instructionsTop": "Read again the first part of Source A, lines 1 to 4.",
+          "focusLines": "Lines 1 to 4",
+          "questionText": "Choose four statements below which are TRUE.",
+          "rubric": {
+            "name": "AO1 selection",
+            "maxScore": 4,
+            "notes": "Award 1 mark for each correct statement chosen, up to 4 marks. No explanation is required."
+          },
+          "options": [
+            "A. The library had already closed.",
+            "B. There is a light under the basement door.",
+            "C. Every shelf upstairs is in shadow.",
+            "D. People are speaking loudly in the entrance hall.",
+            "E. The returns desk glows faintly from the streetlamp outside.",
+            "F. Lina is sitting at the returns desk.",
+            "G. Rain is hammering against the windows.",
+            "H. The basement door is hanging open."
+          ],
+          "correctOptions": [
+            "A",
+            "B",
+            "C",
+            "E"
+          ]
+        },
+        {
+          "id": "p1-library-q2",
+          "questionNumber": "Question 2",
+          "section": "Section A: Reading",
+          "markCategory": 8,
+          "questionType": "language-analysis",
+          "assessmentObjective": "AO2",
+          "instructionsTop": "Look in detail at Lines 5 to 8 of Source A.",
+          "focusLines": "Lines 5 to 8",
+          "questionText": "How does the writer use language to make Lina's descent into the basement seem tense and mysterious?",
+          "bulletPoints": [
+            "You could include the writer's choice of words and phrases",
+            "You could include language features and techniques",
+            "You could include the effects on the reader"
+          ],
+          "rubric": {
+            "name": "AO2 language analysis",
+            "maxScore": 8,
+            "notes": "Reward clear explanation of language choices, precise references, and relevant effects."
+          }
+        },
+        {
+          "id": "p1-library-q3",
+          "questionNumber": "Question 3",
+          "section": "Section A: Reading",
+          "markCategory": 8,
+          "questionType": "structure-analysis",
+          "assessmentObjective": "AO2",
+          "instructionsTop": "You now need to think about the whole of the source.",
+          "focusLines": "Whole source",
+          "questionText": "How has the writer structured the source to build suspense?",
+          "bulletPoints": [
+            "You could write about what the writer focuses your attention on at the beginning",
+            "You could write about how and why the writer changes this focus as the source develops",
+            "You could write about structural features, shifts, contrasts and endings"
+          ],
+          "rubric": {
+            "name": "AO2 structure analysis",
+            "maxScore": 8,
+            "notes": "Reward understanding of structural methods and their effects across the source, supported by relevant references."
+          }
+        },
+        {
+          "id": "p1-library-q4",
+          "questionNumber": "Question 4",
+          "section": "Section A: Reading",
+          "markCategory": 20,
+          "questionType": "evaluation",
+          "assessmentObjective": "AO4",
+          "instructionsTop": "Focus this part of your answer on the second half of the source.",
+          "focusLines": "Lines 7 to the end",
+          "statement": "A student said, \"The ending is effective because it turns curiosity into danger.\"",
+          "questionText": "To what extent do you agree? In your response, you could: write about your own impressions of the character or setting; evaluate how the writer has created these impressions; support your ideas with references from the text.",
+          "rubric": {
+            "name": "AO4 evaluation",
+            "maxScore": 20,
+            "notes": "Reward a clear, critical response to the statement with judgements supported by apt textual references and explanation of methods."
+          }
+        },
+        {
+          "id": "p1-library-q5",
+          "questionNumber": "Question 5",
+          "section": "Section B: Writing",
+          "markCategory": 40,
+          "questionType": "creative-writing",
+          "assessmentObjective": "AO5 / AO6",
+          "instructionsTop": "Write a description suggested by this picture, or write a story suggested by this title.",
+          "questionText": "Either write a description of exploring a building after hours, or write a story about discovering a hidden room.",
+          "bulletPoints": [
+            "Communicate clearly and imaginatively",
+            "Organise ideas and use a range of vocabulary and sentence forms",
+            "Use accurate spelling, punctuation and grammar"
+          ],
+          "rubric": {
+            "name": "AO5/AO6 creative writing",
+            "maxScore": 40,
+            "notes": "Award up to 24 marks for content and organisation and up to 16 marks for technical accuracy."
+          }
+        }
+      ]
+    },
+    {
+      "id": "p1-bridge",
+      "paper": "Paper 1",
+      "title": "The Bridge After the Flood",
+      "theme": "community and change",
+      "sourceA": {
+        "label": "Source A",
+        "title": "The Bridge After the Flood",
+        "genre": "Literature fiction (original mock)",
+        "period": "21st-century style fiction",
+        "lines": [
+          "By noon, the river had dropped enough for the old bridge to show itself again.",
+          "Its stone back rose out of the brown water like the spine of some patient animal.",
+          "Branches and plastic bottles clung to the arches.",
+          "Mud striped the handrail where the flood had reached and then withdrawn.",
+          "Nadia crossed the square carrying a broom borrowed from the café.",
+          "Every doorway wore the same mark of yesterday's disaster.",
+          "Shopkeepers spoke quietly as they swept, as if loud voices might call the rain back.",
+          "When Nadia stepped onto the bridge, her boots left clear prints on the wet stone.",
+          "She stopped halfway to look at the fields beyond the village, flattened and shining under a sudden patch of blue sky.",
+          "For the first time since the storm began, she imagined what the place might look like repaired.",
+          "Someone behind her started to laugh: not because anything was funny, but because the bridge was still here.",
+          "A moment later, several more voices joined in."
+        ]
+      },
+      "questions": [
+        {
+          "id": "p1-bridge-q1",
+          "questionNumber": "Question 1",
+          "section": "Section A: Reading",
+          "markCategory": 4,
+          "questionType": "select-true-statements",
+          "assessmentObjective": "AO1",
+          "instructionsTop": "Read again the first part of Source A, lines 1 to 4.",
+          "focusLines": "Lines 1 to 4",
+          "questionText": "Choose four statements below which are TRUE.",
+          "rubric": {
+            "name": "AO1 selection",
+            "maxScore": 4,
+            "notes": "Award 1 mark for each correct statement chosen, up to 4 marks. No explanation is required."
+          },
+          "options": [
+            "A. The river has dropped enough for the bridge to show again.",
+            "B. The bridge is hidden by thick fog.",
+            "C. The bridge rises out of brown water.",
+            "D. Branches and plastic bottles cling to the arches.",
+            "E. Mud stripes the handrail.",
+            "F. The water is clear and shallow.",
+            "G. The bridge is made of metal.",
+            "H. Nadia is already sweeping the bridge."
+          ],
+          "correctOptions": [
+            "A",
+            "C",
+            "D",
+            "E"
+          ]
+        },
+        {
+          "id": "p1-bridge-q2",
+          "questionNumber": "Question 2",
+          "section": "Section A: Reading",
+          "markCategory": 8,
+          "questionType": "language-analysis",
+          "assessmentObjective": "AO2",
+          "instructionsTop": "Look in detail at Lines 6 to 10 of Source A.",
+          "focusLines": "Lines 6 to 10",
+          "questionText": "How does the writer use language to show both damage and hope in this part of the source?",
+          "bulletPoints": [
+            "You could include the writer's choice of words and phrases",
+            "You could include language features and techniques",
+            "You could include the effects on the reader"
+          ],
+          "rubric": {
+            "name": "AO2 language analysis",
+            "maxScore": 8,
+            "notes": "Reward clear explanation of language choices, precise references, and relevant effects."
+          }
+        },
+        {
+          "id": "p1-bridge-q3",
+          "questionNumber": "Question 3",
+          "section": "Section A: Reading",
+          "markCategory": 8,
+          "questionType": "structure-analysis",
+          "assessmentObjective": "AO2",
+          "instructionsTop": "You now need to think about the whole of the source.",
+          "focusLines": "Whole source",
+          "questionText": "How has the writer structured the source to move from destruction towards recovery?",
+          "bulletPoints": [
+            "You could write about what the writer focuses your attention on at the beginning",
+            "You could write about how and why the writer changes this focus as the source develops",
+            "You could write about structural features, shifts, contrasts and endings"
+          ],
+          "rubric": {
+            "name": "AO2 structure analysis",
+            "maxScore": 8,
+            "notes": "Reward understanding of structural methods and their effects across the source, supported by relevant references."
+          }
+        },
+        {
+          "id": "p1-bridge-q4",
+          "questionNumber": "Question 4",
+          "section": "Section A: Reading",
+          "markCategory": 20,
+          "questionType": "evaluation",
+          "assessmentObjective": "AO4",
+          "instructionsTop": "Focus this part of your answer on the second half of the source.",
+          "focusLines": "Lines 7 to the end",
+          "statement": "A student said, \"Although the source begins with flood damage, it becomes increasingly hopeful.\"",
+          "questionText": "To what extent do you agree? In your response, you could: write about your own impressions of the character or setting; evaluate how the writer has created these impressions; support your ideas with references from the text.",
+          "rubric": {
+            "name": "AO4 evaluation",
+            "maxScore": 20,
+            "notes": "Reward a clear, critical response to the statement with judgements supported by apt textual references and explanation of methods."
+          }
+        },
+        {
+          "id": "p1-bridge-q5",
+          "questionNumber": "Question 5",
+          "section": "Section B: Writing",
+          "markCategory": 40,
+          "questionType": "creative-writing",
+          "assessmentObjective": "AO5 / AO6",
+          "instructionsTop": "Write a description suggested by this picture, or write a story suggested by this title.",
+          "questionText": "Either write a description of a place after extreme weather, or write a story about a community rebuilding something important.",
+          "bulletPoints": [
+            "Communicate clearly and imaginatively",
+            "Organise ideas and use a range of vocabulary and sentence forms",
+            "Use accurate spelling, punctuation and grammar"
+          ],
+          "rubric": {
+            "name": "AO5/AO6 creative writing",
+            "maxScore": 40,
+            "notes": "Award up to 24 marks for content and organisation and up to 16 marks for technical accuracy."
+          }
+        }
+      ]
+    },
+    {
+      "id": "p1-busdepot",
+      "paper": "Paper 1",
+      "title": "The Winter Bus Depot",
+      "theme": "routine and decision",
+      "sourceA": {
+        "label": "Source A",
+        "title": "The Winter Bus Depot",
+        "genre": "Literature fiction (original mock)",
+        "period": "21st-century style fiction",
+        "lines": [
+          "Snow had frozen in thin ridges across the depot yard, turning tyre marks into pale grooves.",
+          "At that hour, the buses looked larger than usual, silent and blind behind frosted windows.",
+          "Orange light from the maintenance shed spread across the ground in a shallow fan.",
+          "Inside the office, a radio whispered the early news to no one.",
+          "Imran stood at the timetable board with his gloves still on.",
+          "He had checked the same cancelled route three times already, as if repetition might change the chalked word.",
+          "Behind him, a kettle clicked off.",
+          "The mechanic who usually joked through every winter morning said nothing at all.",
+          "Imran thought of the village at the end of the route, cut off again, and of the old woman who always waited with exact change and a shopping trolley.",
+          "He imagined the road under drifts, the hedges erased, the engine struggling uphill.",
+          "Then he reached for the marker pen and wrote a new departure time in the corner of the board.",
+          "It was a small act, but it felt like a promise."
+        ]
+      },
+      "questions": [
+        {
+          "id": "p1-busdepot-q1",
+          "questionNumber": "Question 1",
+          "section": "Section A: Reading",
+          "markCategory": 4,
+          "questionType": "select-true-statements",
+          "assessmentObjective": "AO1",
+          "instructionsTop": "Read again the first part of Source A, lines 1 to 4.",
+          "focusLines": "Lines 1 to 4",
+          "questionText": "Choose four statements below which are TRUE.",
+          "rubric": {
+            "name": "AO1 selection",
+            "maxScore": 4,
+            "notes": "Award 1 mark for each correct statement chosen, up to 4 marks. No explanation is required."
+          },
+          "options": [
+            "A. Snow has frozen in ridges across the yard.",
+            "B. The buses look large, silent and blind.",
+            "C. Orange light comes from the maintenance shed.",
+            "D. Children are waiting at the depot gates.",
+            "E. A radio is whispering the early news.",
+            "F. The windows are wide open.",
+            "G. The buses are moving in and out of the depot.",
+            "H. The yard is filled with summer heat."
+          ],
+          "correctOptions": [
+            "A",
+            "B",
+            "C",
+            "E"
+          ]
+        },
+        {
+          "id": "p1-busdepot-q2",
+          "questionNumber": "Question 2",
+          "section": "Section A: Reading",
+          "markCategory": 8,
+          "questionType": "language-analysis",
+          "assessmentObjective": "AO2",
+          "instructionsTop": "Look in detail at Lines 8 to 12 of Source A.",
+          "focusLines": "Lines 8 to 12",
+          "questionText": "How does the writer use language to present Imran's sense of duty in this part of the source?",
+          "bulletPoints": [
+            "You could include the writer's choice of words and phrases",
+            "You could include language features and techniques",
+            "You could include the effects on the reader"
+          ],
+          "rubric": {
+            "name": "AO2 language analysis",
+            "maxScore": 8,
+            "notes": "Reward clear explanation of language choices, precise references, and relevant effects."
+          }
+        },
+        {
+          "id": "p1-busdepot-q3",
+          "questionNumber": "Question 3",
+          "section": "Section A: Reading",
+          "markCategory": 8,
+          "questionType": "structure-analysis",
+          "assessmentObjective": "AO2",
+          "instructionsTop": "You now need to think about the whole of the source.",
+          "focusLines": "Whole source",
+          "questionText": "How has the writer structured the source to show Imran moving from hesitation to action?",
+          "bulletPoints": [
+            "You could write about what the writer focuses your attention on at the beginning",
+            "You could write about how and why the writer changes this focus as the source develops",
+            "You could write about structural features, shifts, contrasts and endings"
+          ],
+          "rubric": {
+            "name": "AO2 structure analysis",
+            "maxScore": 8,
+            "notes": "Reward understanding of structural methods and their effects across the source, supported by relevant references."
+          }
+        },
+        {
+          "id": "p1-busdepot-q4",
+          "questionNumber": "Question 4",
+          "section": "Section A: Reading",
+          "markCategory": 20,
+          "questionType": "evaluation",
+          "assessmentObjective": "AO4",
+          "instructionsTop": "Focus this part of your answer on the second half of the source.",
+          "focusLines": "Lines 7 to the end",
+          "statement": "A student said, \"Imran's final decision matters because the writer makes even a small action feel important.\"",
+          "questionText": "To what extent do you agree? In your response, you could: write about your own impressions of the character or setting; evaluate how the writer has created these impressions; support your ideas with references from the text.",
+          "rubric": {
+            "name": "AO4 evaluation",
+            "maxScore": 20,
+            "notes": "Reward a clear, critical response to the statement with judgements supported by apt textual references and explanation of methods."
+          }
+        },
+        {
+          "id": "p1-busdepot-q5",
+          "questionNumber": "Question 5",
+          "section": "Section B: Writing",
+          "markCategory": 40,
+          "questionType": "creative-writing",
+          "assessmentObjective": "AO5 / AO6",
+          "instructionsTop": "Write a description suggested by this picture, or write a story suggested by this title.",
+          "questionText": "Either write a description of a cold morning at work, or write a story about making a difficult practical decision.",
+          "bulletPoints": [
+            "Communicate clearly and imaginatively",
+            "Organise ideas and use a range of vocabulary and sentence forms",
+            "Use accurate spelling, punctuation and grammar"
+          ],
+          "rubric": {
+            "name": "AO5/AO6 creative writing",
+            "maxScore": 40,
+            "notes": "Award up to 24 marks for content and organisation and up to 16 marks for technical accuracy."
+          }
+        }
+      ]
+    },
+    {
+      "id": "p2-schoolday",
+      "paper": "Paper 2",
+      "title": "School and Rest",
+      "theme": "education and pressure",
+      "sourceA": {
+        "label": "Source A",
+        "title": "School and Rest — modern text",
+        "genre": "Article / speech (original mock)",
+        "period": "21st-century non-fiction",
+        "lines": [
+          "By the final bell, students should be able to shut their books and breathe.",
+          "Instead, many of us carry school in our pockets all evening through revision apps, alert messages and homework reminders.",
+          "A single missed notification can feel like a small disaster.",
+          "Teachers may not intend to create that pressure, but the constant stream of updates makes school feel endless.",
+          "I know classmates who check their phones during dinner in case a task has been changed.",
+          "There is a difference between encouraging hard work and creating an atmosphere in which rest feels irresponsible.",
+          "Young people need time to read for pleasure, help at home, play sport or simply be quiet.",
+          "If schools want resilient students, they should protect recovery time as carefully as lesson time.",
+          "Work matters, but so does the chance to step away from it.",
+          "Without that balance, learning becomes a treadmill rather than an education."
+        ]
+      },
+      "sourceB": {
+        "label": "Source B",
+        "title": "School and Rest — older text",
+        "genre": "Literary non-fiction / memoir (original mock)",
+        "period": "19th- or 20th-century style non-fiction",
+        "lines": [
+          "When I was twelve, the school day ended not with a message on a screen but with the slam of a wooden gate.",
+          "We ran from it as prisoners run from a cell, scattering into lanes, fields and back gardens.",
+          "No master could recall us by sending a warning to our pockets because our pockets contained marbles, not machines.",
+          "Homework existed, certainly, but it belonged to the table by the lamp after tea and never followed us to the riverbank.",
+          "Those loose hours taught us a second education.",
+          "We learned which trees bent in the wind and which streams could be crossed on one jump.",
+          "We argued, made up, invented rules and broke them.",
+          "By dusk we returned scratched, loud and gloriously tired.",
+          "It did not occur to any of us that idleness was shameful.",
+          "It was simply childhood doing its necessary work."
+        ]
+      },
+      "questions": [
+        {
+          "id": "p2-schoolday-q1",
+          "questionNumber": "Question 1",
+          "section": "Section A: Reading",
+          "markCategory": 4,
+          "questionType": "select-true-statements",
+          "assessmentObjective": "AO1",
+          "instructionsTop": "Read again Source A, lines 1 to 8.",
+          "focusLines": "Source A, lines 1 to 8",
+          "questionText": "Choose four statements below which are TRUE.",
+          "options": [
+            "A. Students receive homework reminders on their phones.",
+            "B. The writer says teachers deliberately want to exhaust students.",
+            "C. Some students check their phones during dinner.",
+            "D. The writer argues that rest time is important.",
+            "E. The writer believes homework should be banned completely.",
+            "F. The writer thinks schools should protect recovery time.",
+            "G. The writer says students should spend every evening revising.",
+            "H. The writer thinks balance matters."
+          ],
+          "correctOptions": [
+            "A",
+            "C",
+            "D",
+            "F"
+          ],
+          "rubric": {
+            "name": "AO1 selection",
+            "maxScore": 4,
+            "notes": "Award 1 mark for each correct statement chosen, up to 4 marks."
+          }
+        },
+        {
+          "id": "p2-schoolday-q2",
+          "questionNumber": "Question 2",
+          "section": "Section A: Reading",
+          "markCategory": 8,
+          "questionType": "summary-compare",
+          "assessmentObjective": "AO1 / AO4",
+          "instructionsTop": "You need to refer to both Source A and Source B for this question.",
+          "focusLines": "Whole sources",
+          "questionText": "Use details from both sources to write a summary of the different ways the writers experience time away from school.",
+          "bulletPoints": [
+            "Write a summary of the differences and similarities",
+            "Use clear references to both sources",
+            "Focus on what each writer says about the topic"
+          ],
+          "rubric": {
+            "name": "AO1/AO4 summary",
+            "maxScore": 8,
+            "notes": "Reward clear, comparative summary using relevant references from both sources."
+          }
+        },
+        {
+          "id": "p2-schoolday-q3",
+          "questionNumber": "Question 3",
+          "section": "Section A: Reading",
+          "markCategory": 12,
+          "questionType": "writer-methods-viewpoint",
+          "assessmentObjective": "AO3",
+          "instructionsTop": "You now need to refer only to Source A from lines 1 to the end.",
+          "focusLines": "Whole Source A",
+          "questionText": "How does the writer use language and structure in Source A to present the pressure students feel outside school?",
+          "bulletPoints": [
+            "You could write about the writer's tone and viewpoint",
+            "You could write about language features and structural choices",
+            "You could write about how the writer shapes the reader's response"
+          ],
+          "rubric": {
+            "name": "AO3 analysis of viewpoint",
+            "maxScore": 12,
+            "notes": "Reward analysis of how the writer uses methods to present ideas and influence the reader."
+          }
+        },
+        {
+          "id": "p2-schoolday-q4",
+          "questionNumber": "Question 4",
+          "section": "Section A: Reading",
+          "markCategory": 16,
+          "questionType": "compare-perspectives",
+          "assessmentObjective": "AO3",
+          "instructionsTop": "For this question, compare how the writers convey their different perspectives or feelings.",
+          "focusLines": "Both sources",
+          "questionText": "Compare how the writers convey their different perspectives on time away from school in Source A and Source B.",
+          "bulletPoints": [
+            "Compare the writers' different ideas and perspectives",
+            "Compare how they use methods to convey these views",
+            "Support your answer with references to both sources"
+          ],
+          "rubric": {
+            "name": "AO3 comparison",
+            "maxScore": 16,
+            "notes": "Reward developed comparison of perspectives and methods across both sources."
+          }
+        },
+        {
+          "id": "p2-schoolday-q5",
+          "questionNumber": "Question 5",
+          "section": "Section B: Writing",
+          "markCategory": 40,
+          "questionType": "viewpoint-writing",
+          "assessmentObjective": "AO5 / AO6",
+          "instructionsTop": "Write an article, letter, speech or essay presenting a viewpoint.",
+          "questionText": "“Schools should do more to protect young people's free time.” Write a speech for your school or college in which you present your viewpoint on this statement.",
+          "bulletPoints": [
+            "Present a clear viewpoint and develop your ideas",
+            "Use structure and language to influence your reader",
+            "Use accurate spelling, punctuation and grammar"
+          ],
+          "rubric": {
+            "name": "AO5/AO6 viewpoint writing",
+            "maxScore": 40,
+            "notes": "Award up to 24 marks for content and organisation and up to 16 marks for technical accuracy."
+          }
+        }
+      ]
+    },
+    {
+      "id": "p2-seaside",
+      "paper": "Paper 2",
+      "title": "The Seaside",
+      "theme": "tourism and enjoyment",
+      "sourceA": {
+        "label": "Source A",
+        "title": "The Seaside — modern text",
+        "genre": "Article / speech (original mock)",
+        "period": "21st-century non-fiction",
+        "lines": [
+          "On the first warm weekend of the year, our town fills as if someone has tipped out a box of bright pieces.",
+          "Buckets knock against knees, dogs drag their owners towards the beach and the queue at the chip shop forms before noon.",
+          "To visitors, this energy looks cheerful; to residents, it can feel like being gently invaded.",
+          "Parking spaces vanish, music escapes from every open car door and discarded wrappers collect in the grass by the promenade benches.",
+          "Yet by Monday morning, when the wind returns and the beach is empty apart from a tractor smoothing the sand, the place looks almost embarrassed by its own silence.",
+          "Seaside towns survive on visitors and resent them at the same time.",
+          "We complain about crowds all summer, then worry the moment the crowds disappear.",
+          "That contradiction is not hypocrisy; it is simply the economics of living somewhere beautiful.",
+          "Beauty attracts people.",
+          "People bring noise, mess and money."
+        ]
+      },
+      "sourceB": {
+        "label": "Source B",
+        "title": "The Seaside — older text",
+        "genre": "Literary non-fiction / memoir (original mock)",
+        "period": "19th- or 20th-century style non-fiction",
+        "lines": [
+          "I first saw the sea from the roof of the coach, standing on the seat because all the adults before me seemed suddenly to have grown taller.",
+          "The water flashed so hard in the sun that it looked like torn metal.",
+          "At once the whole party began shouting, not from fear but from a kind of delighted disbelief that such brightness could be real.",
+          "The town itself smelled of tar, salt and hot bread.",
+          "Ladies took the air beneath fluttering parasols while small boys ran towards the waves with the confidence of puppies.",
+          "Every stall appeared to promise some fresh wonder: shells, knives, printed cards, sweetmeats in jars.",
+          "I had never seen so much buying and laughing in one place.",
+          "To me, the seaside was abundance made visible.",
+          "Even the gulls seemed to cry out not for food but for excitement.",
+          "I thought no person could arrive there and remain dull."
+        ]
+      },
+      "questions": [
+        {
+          "id": "p2-seaside-q1",
+          "questionNumber": "Question 1",
+          "section": "Section A: Reading",
+          "markCategory": 4,
+          "questionType": "select-true-statements",
+          "assessmentObjective": "AO1",
+          "instructionsTop": "Read again Source A, lines 1 to 8.",
+          "focusLines": "Source A, lines 1 to 8",
+          "questionText": "Choose four statements below which are TRUE.",
+          "options": [
+            "A. The modern writer says the chip shop queue starts late in the evening.",
+            "B. The modern writer suggests visitors can feel invasive to residents.",
+            "C. The modern writer says the beach is quiet again by Monday morning.",
+            "D. The modern writer thinks seaside towns could survive without visitors.",
+            "E. The modern writer says beauty attracts people.",
+            "F. The modern writer says visitors bring only benefits.",
+            "G. The modern writer says crowds create noise and litter.",
+            "H. The modern writer says the promenade is being rebuilt."
+          ],
+          "correctOptions": [
+            "B",
+            "C",
+            "E",
+            "G"
+          ],
+          "rubric": {
+            "name": "AO1 selection",
+            "maxScore": 4,
+            "notes": "Award 1 mark for each correct statement chosen, up to 4 marks."
+          }
+        },
+        {
+          "id": "p2-seaside-q2",
+          "questionNumber": "Question 2",
+          "section": "Section A: Reading",
+          "markCategory": 8,
+          "questionType": "summary-compare",
+          "assessmentObjective": "AO1 / AO4",
+          "instructionsTop": "You need to refer to both Source A and Source B for this question.",
+          "focusLines": "Whole sources",
+          "questionText": "Use details from both sources to write a summary of what the seaside offers, and what problems it can create.",
+          "bulletPoints": [
+            "Write a summary of the differences and similarities",
+            "Use clear references to both sources",
+            "Focus on what each writer says about the topic"
+          ],
+          "rubric": {
+            "name": "AO1/AO4 summary",
+            "maxScore": 8,
+            "notes": "Reward clear, comparative summary using relevant references from both sources."
+          }
+        },
+        {
+          "id": "p2-seaside-q3",
+          "questionNumber": "Question 3",
+          "section": "Section A: Reading",
+          "markCategory": 12,
+          "questionType": "writer-methods-viewpoint",
+          "assessmentObjective": "AO3",
+          "instructionsTop": "You now need to refer only to Source A from lines 1 to the end.",
+          "focusLines": "Whole Source A",
+          "questionText": "How does the writer use language and structure in Source A to present a complicated attitude towards visitors?",
+          "bulletPoints": [
+            "You could write about the writer's tone and viewpoint",
+            "You could write about language features and structural choices",
+            "You could write about how the writer shapes the reader's response"
+          ],
+          "rubric": {
+            "name": "AO3 analysis of viewpoint",
+            "maxScore": 12,
+            "notes": "Reward analysis of how the writer uses methods to present ideas and influence the reader."
+          }
+        },
+        {
+          "id": "p2-seaside-q4",
+          "questionNumber": "Question 4",
+          "section": "Section A: Reading",
+          "markCategory": 16,
+          "questionType": "compare-perspectives",
+          "assessmentObjective": "AO3",
+          "instructionsTop": "For this question, compare how the writers convey their different perspectives or feelings.",
+          "focusLines": "Both sources",
+          "questionText": "Compare how the writers convey their perspectives on the seaside in Source A and Source B.",
+          "bulletPoints": [
+            "Compare the writers' different ideas and perspectives",
+            "Compare how they use methods to convey these views",
+            "Support your answer with references to both sources"
+          ],
+          "rubric": {
+            "name": "AO3 comparison",
+            "maxScore": 16,
+            "notes": "Reward developed comparison of perspectives and methods across both sources."
+          }
+        },
+        {
+          "id": "p2-seaside-q5",
+          "questionNumber": "Question 5",
+          "section": "Section B: Writing",
+          "markCategory": 40,
+          "questionType": "viewpoint-writing",
+          "assessmentObjective": "AO5 / AO6",
+          "instructionsTop": "Write an article, letter, speech or essay presenting a viewpoint.",
+          "questionText": "“Tourism improves places more than it damages them.” Write an article for a local newspaper in which you present your viewpoint on this statement.",
+          "bulletPoints": [
+            "Present a clear viewpoint and develop your ideas",
+            "Use structure and language to influence your reader",
+            "Use accurate spelling, punctuation and grammar"
+          ],
+          "rubric": {
+            "name": "AO5/AO6 viewpoint writing",
+            "maxScore": 40,
+            "notes": "Award up to 24 marks for content and organisation and up to 16 marks for technical accuracy."
+          }
+        }
+      ]
+    },
+    {
+      "id": "p2-commute",
+      "paper": "Paper 2",
+      "title": "Travelling to Work",
+      "theme": "public transport and routine",
+      "sourceA": {
+        "label": "Source A",
+        "title": "Travelling to Work — modern text",
+        "genre": "Article / speech (original mock)",
+        "period": "21st-century non-fiction",
+        "lines": [
+          "Every weekday at 7:42, the platform becomes a lesson in silent cooperation.",
+          "Strangers who would never greet one another in the street line up with extraordinary discipline at the exact points where the carriage doors are expected to open.",
+          "Coffee cups are clutched like passports.",
+          "Backpacks slide from shoulders without discussion.",
+          "When the train arrives late, a current of irritation moves through the crowd before anyone speaks.",
+          "Screens are checked, watches are raised, private plans are recalculated.",
+          "Commuting is often mocked as dull, but there is something impressive about the tiny acts of adjustment on which an entire city depends.",
+          "The morning journey is not glamorous, yet it is one of the clearest demonstrations that modern life only works because millions of people tolerate inconvenience together.",
+          "That patience has limits, of course.",
+          "One cancelled service is enough to turn stoicism into fury."
+        ]
+      },
+      "sourceB": {
+        "label": "Source B",
+        "title": "Travelling to Work — older text",
+        "genre": "Literary non-fiction / memoir (original mock)",
+        "period": "19th- or 20th-century style non-fiction",
+        "lines": [
+          "Our clerk insisted that the omnibus was a democratic machine, for it mixed banker, dressmaker, porter and widow upon equal terms, though not always upon equal cushions.",
+          "I rode on its roof for economy and for spectacle.",
+          "From that height, the city performed itself before me: apprentices sprinting with parcels, chimney smoke climbing into fog, a flower seller scolding a cabman as if she owned the street.",
+          "The horse, poor philosopher, proceeded with a patience superior to all parties concerned.",
+          "Whenever the vehicle lurched, strangers leaned into accidental fellowship.",
+          "One lady apologised each time the wheel struck a rut, as though she personally had designed the road.",
+          "Though the journey was slow, I preferred it to haste.",
+          "Delay offered observation, and observation is the true fare of a traveller.",
+          "By the time we reached the Strand, I felt I had not merely crossed the city but read a chapter of it.",
+          "No private carriage could have given me so public an education."
+        ]
+      },
+      "questions": [
+        {
+          "id": "p2-commute-q1",
+          "questionNumber": "Question 1",
+          "section": "Section A: Reading",
+          "markCategory": 4,
+          "questionType": "select-true-statements",
+          "assessmentObjective": "AO1",
+          "instructionsTop": "Read again Source A, lines 1 to 8.",
+          "focusLines": "Source A, lines 1 to 8",
+          "questionText": "Choose four statements below which are TRUE.",
+          "options": [
+            "A. The modern writer says commuters chat cheerfully on the platform.",
+            "B. The modern writer says commuters stand where they expect the doors to open.",
+            "C. The modern writer says commuting depends on small acts of cooperation.",
+            "D. The modern writer says cancelled trains usually improve people's moods.",
+            "E. The modern writer mentions coffee cups.",
+            "F. The modern writer says commuting is glamorous.",
+            "G. The modern writer says patience can run out.",
+            "H. The modern writer says the platform is empty."
+          ],
+          "correctOptions": [
+            "B",
+            "C",
+            "E",
+            "G"
+          ],
+          "rubric": {
+            "name": "AO1 selection",
+            "maxScore": 4,
+            "notes": "Award 1 mark for each correct statement chosen, up to 4 marks."
+          }
+        },
+        {
+          "id": "p2-commute-q2",
+          "questionNumber": "Question 2",
+          "section": "Section A: Reading",
+          "markCategory": 8,
+          "questionType": "summary-compare",
+          "assessmentObjective": "AO1 / AO4",
+          "instructionsTop": "You need to refer to both Source A and Source B for this question.",
+          "focusLines": "Whole sources",
+          "questionText": "Use details from both sources to write a summary of what travelling with other people is like for the writers.",
+          "bulletPoints": [
+            "Write a summary of the differences and similarities",
+            "Use clear references to both sources",
+            "Focus on what each writer says about the topic"
+          ],
+          "rubric": {
+            "name": "AO1/AO4 summary",
+            "maxScore": 8,
+            "notes": "Reward clear, comparative summary using relevant references from both sources."
+          }
+        },
+        {
+          "id": "p2-commute-q3",
+          "questionNumber": "Question 3",
+          "section": "Section A: Reading",
+          "markCategory": 12,
+          "questionType": "writer-methods-viewpoint",
+          "assessmentObjective": "AO3",
+          "instructionsTop": "You now need to refer only to Source A from lines 1 to the end.",
+          "focusLines": "Whole Source A",
+          "questionText": "How does the writer use language and structure in Source A to present commuting as both ordinary and significant?",
+          "bulletPoints": [
+            "You could write about the writer's tone and viewpoint",
+            "You could write about language features and structural choices",
+            "You could write about how the writer shapes the reader's response"
+          ],
+          "rubric": {
+            "name": "AO3 analysis of viewpoint",
+            "maxScore": 12,
+            "notes": "Reward analysis of how the writer uses methods to present ideas and influence the reader."
+          }
+        },
+        {
+          "id": "p2-commute-q4",
+          "questionNumber": "Question 4",
+          "section": "Section A: Reading",
+          "markCategory": 16,
+          "questionType": "compare-perspectives",
+          "assessmentObjective": "AO3",
+          "instructionsTop": "For this question, compare how the writers convey their different perspectives or feelings.",
+          "focusLines": "Both sources",
+          "questionText": "Compare how the writers convey their attitudes to shared travel in Source A and Source B.",
+          "bulletPoints": [
+            "Compare the writers' different ideas and perspectives",
+            "Compare how they use methods to convey these views",
+            "Support your answer with references to both sources"
+          ],
+          "rubric": {
+            "name": "AO3 comparison",
+            "maxScore": 16,
+            "notes": "Reward developed comparison of perspectives and methods across both sources."
+          }
+        },
+        {
+          "id": "p2-commute-q5",
+          "questionNumber": "Question 5",
+          "section": "Section B: Writing",
+          "markCategory": 40,
+          "questionType": "viewpoint-writing",
+          "assessmentObjective": "AO5 / AO6",
+          "instructionsTop": "Write an article, letter, speech or essay presenting a viewpoint.",
+          "questionText": "“Public transport says a lot about a society.” Write an essay in which you present your viewpoint on this statement.",
+          "bulletPoints": [
+            "Present a clear viewpoint and develop your ideas",
+            "Use structure and language to influence your reader",
+            "Use accurate spelling, punctuation and grammar"
+          ],
+          "rubric": {
+            "name": "AO5/AO6 viewpoint writing",
+            "maxScore": 40,
+            "notes": "Award up to 24 marks for content and organisation and up to 16 marks for technical accuracy."
+          }
+        }
+      ]
+    },
+    {
+      "id": "p2-libraries",
+      "paper": "Paper 2",
+      "title": "Libraries and Community",
+      "theme": "public spaces and belonging",
+      "sourceA": {
+        "label": "Source A",
+        "title": "Libraries and Community — modern text",
+        "genre": "Article / speech (original mock)",
+        "period": "21st-century non-fiction",
+        "lines": [
+          "The easiest way to misunderstand a library is to imagine that it is mainly about books.",
+          "Books matter, of course, but in many towns the library is one of the last indoor places where you are welcome to stay without proving you intend to spend money.",
+          "Teenagers revise there because home is noisy.",
+          "Parents take toddlers there because flat walls are kinder than small flats.",
+          "Older visitors read newspapers there because conversation at home has become a rare event.",
+          "The modern library lends heat, light, tables, silence and company as much as it lends novels.",
+          "When funding is cut, officials often talk as if they are trimming a luxury.",
+          "They are not.",
+          "They are weakening a piece of social infrastructure that people notice most clearly only after it disappears.",
+          "A closed library does not merely remove shelves; it narrows a community's idea of who belongs in public."
+        ]
+      },
+      "sourceB": {
+        "label": "Source B",
+        "title": "Libraries and Community — older text",
+        "genre": "Literary non-fiction / memoir (original mock)",
+        "period": "19th- or 20th-century style non-fiction",
+        "lines": [
+          "In the winter of my apprenticeship, I discovered the mechanics' institute reading room and entered it first from cold, though I continued to return from ambition.",
+          "The room was plain enough: long tables, straight chairs, a coal fire too small for comfort and newspapers fastened to poles like reluctant flags.",
+          "Yet to me it possessed the dignity of a cathedral.",
+          "Men who laboured all day with iron filings in their cuffs bent there over atlases, manuals and speeches.",
+          "No one asked whether a blacksmith's son had business with history.",
+          "The very existence of the room answered that question on my behalf.",
+          "I learned as much from the silence of the place as from the print.",
+          "It suggested that self-improvement was not a joke or a private fantasy but an honourable public activity.",
+          "When I left each evening, the street appeared narrower than before, as if the room had enlarged me.",
+          "I owe to it not my trade, perhaps, but the appetite to outgrow it."
+        ]
+      },
+      "questions": [
+        {
+          "id": "p2-libraries-q1",
+          "questionNumber": "Question 1",
+          "section": "Section A: Reading",
+          "markCategory": 4,
+          "questionType": "select-true-statements",
+          "assessmentObjective": "AO1",
+          "instructionsTop": "Read again Source A, lines 1 to 8.",
+          "focusLines": "Source A, lines 1 to 8",
+          "questionText": "Choose four statements below which are TRUE.",
+          "options": [
+            "A. The modern writer says libraries are mainly about selling books.",
+            "B. The modern writer says some people use libraries because their homes are noisy.",
+            "C. The modern writer says officials always understand the true value of libraries.",
+            "D. The modern writer says libraries offer more than books.",
+            "E. The modern writer says a closed library can affect community belonging.",
+            "F. The modern writer says libraries should be silent at all times.",
+            "G. The modern writer mentions parents with toddlers.",
+            "H. The modern writer says libraries are never warm."
+          ],
+          "correctOptions": [
+            "B",
+            "D",
+            "E",
+            "G"
+          ],
+          "rubric": {
+            "name": "AO1 selection",
+            "maxScore": 4,
+            "notes": "Award 1 mark for each correct statement chosen, up to 4 marks."
+          }
+        },
+        {
+          "id": "p2-libraries-q2",
+          "questionNumber": "Question 2",
+          "section": "Section A: Reading",
+          "markCategory": 8,
+          "questionType": "summary-compare",
+          "assessmentObjective": "AO1 / AO4",
+          "instructionsTop": "You need to refer to both Source A and Source B for this question.",
+          "focusLines": "Whole sources",
+          "questionText": "Use details from both sources to write a summary of why shared reading spaces matter to the writers.",
+          "bulletPoints": [
+            "Write a summary of the differences and similarities",
+            "Use clear references to both sources",
+            "Focus on what each writer says about the topic"
+          ],
+          "rubric": {
+            "name": "AO1/AO4 summary",
+            "maxScore": 8,
+            "notes": "Reward clear, comparative summary using relevant references from both sources."
+          }
+        },
+        {
+          "id": "p2-libraries-q3",
+          "questionNumber": "Question 3",
+          "section": "Section A: Reading",
+          "markCategory": 12,
+          "questionType": "writer-methods-viewpoint",
+          "assessmentObjective": "AO3",
+          "instructionsTop": "You now need to refer only to Source A from lines 1 to the end.",
+          "focusLines": "Whole Source A",
+          "questionText": "How does the writer use language and structure in Source A to present libraries as important community spaces?",
+          "bulletPoints": [
+            "You could write about the writer's tone and viewpoint",
+            "You could write about language features and structural choices",
+            "You could write about how the writer shapes the reader's response"
+          ],
+          "rubric": {
+            "name": "AO3 analysis of viewpoint",
+            "maxScore": 12,
+            "notes": "Reward analysis of how the writer uses methods to present ideas and influence the reader."
+          }
+        },
+        {
+          "id": "p2-libraries-q4",
+          "questionNumber": "Question 4",
+          "section": "Section A: Reading",
+          "markCategory": 16,
+          "questionType": "compare-perspectives",
+          "assessmentObjective": "AO3",
+          "instructionsTop": "For this question, compare how the writers convey their different perspectives or feelings.",
+          "focusLines": "Both sources",
+          "questionText": "Compare how the writers convey their perspectives on reading rooms and libraries in Source A and Source B.",
+          "bulletPoints": [
+            "Compare the writers' different ideas and perspectives",
+            "Compare how they use methods to convey these views",
+            "Support your answer with references to both sources"
+          ],
+          "rubric": {
+            "name": "AO3 comparison",
+            "maxScore": 16,
+            "notes": "Reward developed comparison of perspectives and methods across both sources."
+          }
+        },
+        {
+          "id": "p2-libraries-q5",
+          "questionNumber": "Question 5",
+          "section": "Section B: Writing",
+          "markCategory": 40,
+          "questionType": "viewpoint-writing",
+          "assessmentObjective": "AO5 / AO6",
+          "instructionsTop": "Write an article, letter, speech or essay presenting a viewpoint.",
+          "questionText": "“Every town should protect free public spaces where people can simply be.” Write a letter to your local council in which you present your viewpoint.",
+          "bulletPoints": [
+            "Present a clear viewpoint and develop your ideas",
+            "Use structure and language to influence your reader",
+            "Use accurate spelling, punctuation and grammar"
+          ],
+          "rubric": {
+            "name": "AO5/AO6 viewpoint writing",
+            "maxScore": 40,
+            "notes": "Award up to 24 marks for content and organisation and up to 16 marks for technical accuracy."
+          }
+        }
+      ]
+    },
+    {
+      "id": "p2-weather",
+      "paper": "Paper 2",
+      "title": "Weather and Community",
+      "theme": "extreme weather and response",
+      "sourceA": {
+        "label": "Source A",
+        "title": "Weather and Community — modern text",
+        "genre": "Article / speech (original mock)",
+        "period": "21st-century non-fiction",
+        "lines": [
+          "The weather app on my phone declared the storm over before the town had even finished counting the damage.",
+          "Forecasts are tidy; aftermath is not.",
+          "By breakfast, neighbours were already outside, stepping around fallen branches and comparing roof tiles as if discussing exam results.",
+          "The road by the post office had become a shallow stream.",
+          "One shopkeeper set out a bucket to catch water leaking through a fresh crack in the ceiling and then opened anyway.",
+          "Extreme weather is often described in dramatic images, but what stays with me is its administrative side: forms, queues, missed deliveries, borrowed generators, shared kettles.",
+          "Storms test not only buildings but habits.",
+          "Do people check on one another?",
+          "Do they share tools, time and information?",
+          "That is where a community's real forecast is written."
+        ]
+      },
+      "sourceB": {
+        "label": "Source B",
+        "title": "Weather and Community — older text",
+        "genre": "Literary non-fiction / memoir (original mock)",
+        "period": "19th- or 20th-century style non-fiction",
+        "lines": [
+          "After the great snowfall, our lane became less a road than a negotiation.",
+          "Gates vanished, hedges rounded themselves into white sculpture and every familiar boundary grew uncertain.",
+          "For two days no cart reached us.",
+          "This inconvenience, which would have offended me in autumn, delighted me in January because it transformed neighbours into allies.",
+          "The baker's boy arrived on foot and was applauded as if he were an explorer.",
+          "A farmer lent his horse to pull free a trapped carriage and received six contradictory instructions and one heartfelt cheer.",
+          "Children, released from ordinary usefulness, carried messages between houses with the self-importance of diplomats.",
+          "Snow had isolated us, yes, but it had also obliged us to notice one another.",
+          "By the thaw, I almost regretted the return of independence.",
+          "Comfort makes us efficient; difficulty makes us visible."
+        ]
+      },
+      "questions": [
+        {
+          "id": "p2-weather-q1",
+          "questionNumber": "Question 1",
+          "section": "Section A: Reading",
+          "markCategory": 4,
+          "questionType": "select-true-statements",
+          "assessmentObjective": "AO1",
+          "instructionsTop": "Read again Source A, lines 1 to 8.",
+          "focusLines": "Source A, lines 1 to 8",
+          "questionText": "Choose four statements below which are TRUE.",
+          "options": [
+            "A. The modern writer says the storm caused no damage.",
+            "B. The modern writer says neighbours were outside by breakfast.",
+            "C. The modern writer says the post office road had become a stream.",
+            "D. The modern writer says the storm only matters because of dramatic pictures.",
+            "E. The modern writer says storms test habits as well as buildings.",
+            "F. The modern writer says nobody shared anything after the storm.",
+            "G. The modern writer says a shopkeeper opened despite damage.",
+            "H. The modern writer says forecasts are untidy."
+          ],
+          "correctOptions": [
+            "B",
+            "C",
+            "E",
+            "G"
+          ],
+          "rubric": {
+            "name": "AO1 selection",
+            "maxScore": 4,
+            "notes": "Award 1 mark for each correct statement chosen, up to 4 marks."
+          }
+        },
+        {
+          "id": "p2-weather-q2",
+          "questionNumber": "Question 2",
+          "section": "Section A: Reading",
+          "markCategory": 8,
+          "questionType": "summary-compare",
+          "assessmentObjective": "AO1 / AO4",
+          "instructionsTop": "You need to refer to both Source A and Source B for this question.",
+          "focusLines": "Whole sources",
+          "questionText": "Use details from both sources to write a summary of how difficult weather affects communities.",
+          "bulletPoints": [
+            "Write a summary of the differences and similarities",
+            "Use clear references to both sources",
+            "Focus on what each writer says about the topic"
+          ],
+          "rubric": {
+            "name": "AO1/AO4 summary",
+            "maxScore": 8,
+            "notes": "Reward clear, comparative summary using relevant references from both sources."
+          }
+        },
+        {
+          "id": "p2-weather-q3",
+          "questionNumber": "Question 3",
+          "section": "Section A: Reading",
+          "markCategory": 12,
+          "questionType": "writer-methods-viewpoint",
+          "assessmentObjective": "AO3",
+          "instructionsTop": "You now need to refer only to Source A from lines 1 to the end.",
+          "focusLines": "Whole Source A",
+          "questionText": "How does the writer use language and structure in Source A to present what really matters after a storm?",
+          "bulletPoints": [
+            "You could write about the writer's tone and viewpoint",
+            "You could write about language features and structural choices",
+            "You could write about how the writer shapes the reader's response"
+          ],
+          "rubric": {
+            "name": "AO3 analysis of viewpoint",
+            "maxScore": 12,
+            "notes": "Reward analysis of how the writer uses methods to present ideas and influence the reader."
+          }
+        },
+        {
+          "id": "p2-weather-q4",
+          "questionNumber": "Question 4",
+          "section": "Section A: Reading",
+          "markCategory": 16,
+          "questionType": "compare-perspectives",
+          "assessmentObjective": "AO3",
+          "instructionsTop": "For this question, compare how the writers convey their different perspectives or feelings.",
+          "focusLines": "Both sources",
+          "questionText": "Compare how the writers convey their perspectives on severe weather in Source A and Source B.",
+          "bulletPoints": [
+            "Compare the writers' different ideas and perspectives",
+            "Compare how they use methods to convey these views",
+            "Support your answer with references to both sources"
+          ],
+          "rubric": {
+            "name": "AO3 comparison",
+            "maxScore": 16,
+            "notes": "Reward developed comparison of perspectives and methods across both sources."
+          }
+        },
+        {
+          "id": "p2-weather-q5",
+          "questionNumber": "Question 5",
+          "section": "Section B: Writing",
+          "markCategory": 40,
+          "questionType": "viewpoint-writing",
+          "assessmentObjective": "AO5 / AO6",
+          "instructionsTop": "Write an article, letter, speech or essay presenting a viewpoint.",
+          "questionText": "“Bad weather reveals the best and worst of people.” Write a magazine article in which you present your viewpoint on this statement.",
+          "bulletPoints": [
+            "Present a clear viewpoint and develop your ideas",
+            "Use structure and language to influence your reader",
+            "Use accurate spelling, punctuation and grammar"
+          ],
+          "rubric": {
+            "name": "AO5/AO6 viewpoint writing",
+            "maxScore": 40,
+            "notes": "Award up to 24 marks for content and organisation and up to 16 marks for technical accuracy."
+          }
+        }
+      ]
+    },
+    {
+      "id": "p1-greenhouse",
+      "paper": "Paper 1",
+      "title": "The Rooftop Greenhouse",
+      "theme": "discovery and change",
+      "sourceA": {
+        "label": "Source A",
+        "title": "The Rooftop Greenhouse",
+        "genre": "Literature fiction (original mock)",
+        "period": "21st-century style fiction",
+        "lines": [
+          "The lift refused to climb beyond the eleventh floor, so Imani took the final flight of stairs alone.",
+          "At the landing, a narrow door stood open where she had expected a locked fire exit.",
+          "Warm, damp air breathed through the gap and misted her glasses.",
+          "Beyond it, a greenhouse stretched across the roof like a glass ship stranded above the city.",
+          "Leaves pressed against the panes, glossy and restless, while rain whispered over the roof.",
+          "Rows of clay pots crowded the paths, each labelled in the same careful handwriting.",
+          "Imani moved between them slowly, afraid that one careless step might disturb the secret order of the place.",
+          "On a bench lay a pair of gardening gloves, still dark with soil, beside a mug that held a thin ribbon of steam.",
+          "Someone had been here only moments ago.",
+          "A gust rattled the glass and, from behind the tallest vines, came the scrape of a chair.",
+          "Imani tightened her grip on the envelope in her pocket but did not turn back.",
+          "Instead, she followed the narrow path as the hidden garden opened around her."
+        ]
+      },
+      "questions": [
+        {
+          "id": "p1-greenhouse-q1",
+          "questionNumber": "Question 1",
+          "section": "Section A: Reading",
+          "markCategory": 4,
+          "questionType": "select-true-statements",
+          "assessmentObjective": "AO1",
+          "instructionsTop": "Read the opening of Source A.",
+          "focusLines": "Lines 1 to 4",
+          "questionText": "Choose four statements below which are TRUE.",
+          "rubric": {
+            "name": "AO1 selection",
+            "maxScore": 4,
+            "notes": "Award 1 mark for each correct statement selected, up to 4 marks."
+          },
+          "options": [
+            "A. The lift stops below the roof level.",
+            "B. Imani arrives with several friends.",
+            "C. A narrow door is already open.",
+            "D. Warm air mists Imani’s glasses.",
+            "E. The greenhouse is beneath the building.",
+            "F. The greenhouse stretches across the roof.",
+            "G. The fire exit is firmly locked.",
+            "H. Snow is falling over the greenhouse."
+          ],
+          "correctOptions": [
+            "A",
+            "C",
+            "D",
+            "F"
+          ]
+        },
+        {
+          "id": "p1-greenhouse-q2",
+          "questionNumber": "Question 2",
+          "section": "Section A: Reading",
+          "markCategory": 8,
+          "questionType": "language-analysis",
+          "assessmentObjective": "AO2",
+          "instructionsTop": "Read the middle section of Source A.",
+          "focusLines": "Lines 4 to 8",
+          "questionText": "How does the writer use language to describe the greenhouse and Imani’s reaction to it?",
+          "bulletPoints": [
+            "You could include the writer’s choice of words and phrases",
+            "You could include language features and techniques",
+            "You could include the effects on the reader"
+          ],
+          "rubric": {
+            "name": "AO2 language analysis",
+            "maxScore": 8,
+            "notes": "Reward clear explanation of language choices, precise references and relevant effects."
+          }
+        },
+        {
+          "id": "p1-greenhouse-q3",
+          "questionNumber": "Question 3",
+          "section": "Section A: Reading",
+          "markCategory": 8,
+          "questionType": "structure-analysis",
+          "assessmentObjective": "AO2",
+          "instructionsTop": "Think about the whole source.",
+          "focusLines": "Whole source",
+          "questionText": "How has the writer structured the source to interest you as a reader?",
+          "bulletPoints": [
+            "You could write about the opening focus",
+            "You could write about shifts in focus and pace",
+            "You could write about the ending"
+          ],
+          "rubric": {
+            "name": "AO2 structure analysis",
+            "maxScore": 8,
+            "notes": "Reward understanding of structural choices and effects across the source."
+          }
+        },
+        {
+          "id": "p1-greenhouse-q4",
+          "questionNumber": "Question 4",
+          "section": "Section A: Reading",
+          "markCategory": 20,
+          "questionType": "evaluation",
+          "assessmentObjective": "AO4",
+          "instructionsTop": "Focus on the second half of Source A.",
+          "focusLines": "Lines 7 to the end",
+          "statement": "A student said, “The greenhouse feels welcoming, but there are also signs that Imani may be walking into danger.”",
+          "questionText": "To what extent do you agree? Evaluate how the writer creates these impressions and support your ideas with references from the text.",
+          "rubric": {
+            "name": "AO4 evaluation",
+            "maxScore": 20,
+            "notes": "Reward a clear critical response, supported judgements, apt references and evaluation of methods."
+          }
+        },
+        {
+          "id": "p1-greenhouse-q5",
+          "questionNumber": "Question 5",
+          "section": "Section B: Writing",
+          "markCategory": 40,
+          "questionType": "creative-writing",
+          "assessmentObjective": "AO5 / AO6",
+          "instructionsTop": "Write a description or story suggested by the task.",
+          "questionText": "Either write a description of a hidden place above a busy town or city, or write a story about discovering that someone has just left.",
+          "bulletPoints": [
+            "Communicate clearly and imaginatively",
+            "Organise ideas and use a range of vocabulary and sentence forms",
+            "Use accurate spelling, punctuation and grammar"
+          ],
+          "rubric": {
+            "name": "AO5/AO6 creative writing",
+            "maxScore": 40,
+            "notes": "Award up to 24 marks for content and organisation and up to 16 marks for technical accuracy."
+          }
+        }
+      ]
+    },
+    {
+      "id": "p2-markets",
+      "paper": "Paper 2",
+      "title": "Markets and High Streets",
+      "theme": "community and change",
+      "sourceA": {
+        "label": "Source A",
+        "title": "Markets and High Streets — modern text",
+        "genre": "Article (original mock)",
+        "period": "21st-century non-fiction",
+        "lines": [
+          "Every Saturday, the empty square beside the library becomes the busiest place in town.",
+          "Canvas roofs appear before sunrise and traders arrange bread, fruit, flowers and second-hand books beneath them.",
+          "The market is not polished, predictable or silent, and that is precisely its value.",
+          "People stop to ask questions, exchange recommendations and speak to neighbours they normally pass without noticing.",
+          "A supermarket can sell the same vegetables more quickly, but it cannot recreate that human conversation.",
+          "Local stalls also give new businesses a place to test ideas without paying for a permanent shop.",
+          "Of course, markets can be crowded and inconvenient, especially when rain turns the square into a maze of umbrellas.",
+          "Yet a town centre without informal gathering places soon becomes nothing more than a route between car parks.",
+          "If councils want high streets to survive, they should protect markets rather than treating them as temporary clutter.",
+          "A lively town needs places where buying something is only one small part of being there."
+        ]
+      },
+      "sourceB": {
+        "label": "Source B",
+        "title": "Markets and High Streets — older text",
+        "genre": "Memoir (original mock)",
+        "period": "19th- or early-20th-century style non-fiction",
+        "lines": [
+          "On market mornings the whole street seemed to abandon its ordinary habits.",
+          "Carts blocked the road, dogs nosed among the baskets and every seller believed his own voice should rise above the rest.",
+          "My mother disliked the confusion and kept a firm hand upon my sleeve as we moved between the stalls.",
+          "To me, however, the place was a theatre whose scenery changed each week.",
+          "There were pyramids of apples, cages of indignant hens and bolts of cloth bright enough to shame the grey buildings.",
+          "The traders performed as much as they sold, praising bruised fruit as though it had arrived from a royal garden.",
+          "We returned home with less money than intended and several things we had not planned to buy.",
+          "Still, even my mother admitted that the quiet street on the following day appeared strangely lifeless.",
+          "The market caused disorder, certainly, but it also lent the town a pulse.",
+          "Without it, the shops and houses seemed to be holding their breath."
+        ]
+      },
+      "questions": [
+        {
+          "id": "p2-markets-q1",
+          "questionNumber": "Question 1",
+          "section": "Section A: Reading",
+          "markCategory": 4,
+          "questionType": "select-true-statements",
+          "assessmentObjective": "AO1",
+          "instructionsTop": "Read the opening of Source A.",
+          "focusLines": "Source A, lines 1 to 8",
+          "questionText": "Choose four statements below which are TRUE.",
+          "options": [
+            "A. The market appears every Saturday.",
+            "B. Traders arrive only after the library opens.",
+            "C. People talk to neighbours at the market.",
+            "D. The writer thinks supermarkets are always more valuable.",
+            "E. New businesses can test ideas at local stalls.",
+            "F. Rain can make the market inconvenient.",
+            "G. The writer wants the market replaced by a car park.",
+            "H. The square remains empty throughout the weekend."
+          ],
+          "correctOptions": [
+            "A",
+            "C",
+            "E",
+            "F"
+          ],
+          "rubric": {
+            "name": "AO1 selection",
+            "maxScore": 4,
+            "notes": "Award 1 mark for each correct statement selected, up to 4 marks."
+          }
+        },
+        {
+          "id": "p2-markets-q2",
+          "questionNumber": "Question 2",
+          "section": "Section A: Reading",
+          "markCategory": 8,
+          "questionType": "summary-compare",
+          "assessmentObjective": "AO1",
+          "instructionsTop": "Refer to both Source A and Source B.",
+          "focusLines": "Whole sources",
+          "questionText": "Use details from both sources to summarise the different experiences of visiting a market.",
+          "bulletPoints": [
+            "Identify clear similarities or differences",
+            "Use relevant evidence from both sources",
+            "Explain what the evidence suggests"
+          ],
+          "rubric": {
+            "name": "AO1 synthesis and inference",
+            "maxScore": 8,
+            "notes": "Reward accurate inference, synthesis and relevant evidence from both sources."
+          }
+        },
+        {
+          "id": "p2-markets-q3",
+          "questionNumber": "Question 3",
+          "section": "Section A: Reading",
+          "markCategory": 12,
+          "questionType": "writer-methods-viewpoint",
+          "assessmentObjective": "AO2",
+          "instructionsTop": "Refer only to Source B.",
+          "focusLines": "Whole Source B",
+          "questionText": "How does the writer use language to present the market in Source B?",
+          "bulletPoints": [
+            "You could write about tone and viewpoint",
+            "You could analyse language choices",
+            "You could explain effects on the reader"
+          ],
+          "rubric": {
+            "name": "AO2 language analysis",
+            "maxScore": 12,
+            "notes": "Reward developed analysis of methods, viewpoint and effects."
+          }
+        },
+        {
+          "id": "p2-markets-q4",
+          "questionNumber": "Question 4",
+          "section": "Section A: Reading",
+          "markCategory": 16,
+          "questionType": "compare-perspectives",
+          "assessmentObjective": "AO3",
+          "instructionsTop": "Compare both sources.",
+          "focusLines": "Both sources",
+          "questionText": "Compare how the writers convey their perspectives on markets and their value to a town.",
+          "bulletPoints": [
+            "Compare ideas and perspectives",
+            "Compare how methods convey those perspectives",
+            "Support your response with references to both sources"
+          ],
+          "rubric": {
+            "name": "AO3 comparison",
+            "maxScore": 16,
+            "notes": "Reward developed comparison of perspectives and methods across both sources."
+          }
+        },
+        {
+          "id": "p2-markets-q5",
+          "questionNumber": "Question 5",
+          "section": "Section B: Writing",
+          "markCategory": 40,
+          "questionType": "viewpoint-writing",
+          "assessmentObjective": "AO5 / AO6",
+          "instructionsTop": "Write a speech, article, letter or essay presenting a viewpoint.",
+          "questionText": "“Town centres should focus on community spaces, not just shops.” Write an article for a local website in which you present your viewpoint on this statement.",
+          "bulletPoints": [
+            "Present a clear viewpoint and develop your ideas",
+            "Use structure and language to influence your reader",
+            "Use accurate spelling, punctuation and grammar"
+          ],
+          "rubric": {
+            "name": "AO5/AO6 viewpoint writing",
+            "maxScore": 40,
+            "notes": "Award up to 24 marks for content and organisation and up to 16 marks for technical accuracy."
+          }
+        }
+      ]
+    }
+  ],
+  "allQuestions": [
+    {
+      "id": "p1-harbour-q1",
+      "questionNumber": "Question 1",
+      "section": "Section A: Reading",
+      "markCategory": 4,
+      "questionType": "select-true-statements",
+      "assessmentObjective": "AO1",
+      "instructionsTop": "Read again the first part of Source A, lines 1 to 4.",
+      "focusLines": "Lines 1 to 4",
+      "questionText": "Choose four statements below which are TRUE.",
+      "rubric": {
+        "name": "AO1 selection",
+        "maxScore": 4,
+        "notes": "Award 1 mark for each correct statement chosen, up to 4 marks. No explanation is required."
+      },
+      "options": [
+        "A. The harbour appears gradually out of the fog.",
+        "B. The water is shining brightly in the sun.",
+        "C. A bell is striking somewhere beyond the water.",
+        "D. The pier posts are black and wet with rain.",
+        "E. Mara is running along the pier.",
+        "F. Ropes knock softly against wooden masts.",
+        "G. A crowd is waiting by the harbour wall.",
+        "H. Boats are already leaving the harbour."
+      ],
+      "correctOptions": [
+        "A",
+        "C",
+        "D",
+        "F"
+      ],
+      "packId": "p1-harbour",
+      "paper": "Paper 1",
+      "packTitle": "Harbour at Dawn"
+    },
+    {
+      "id": "p1-harbour-q2",
+      "questionNumber": "Question 2",
+      "section": "Section A: Reading",
+      "markCategory": 8,
+      "questionType": "language-analysis",
+      "assessmentObjective": "AO2",
+      "instructionsTop": "Look in detail at Lines 4 to 8 of Source A.",
+      "focusLines": "Lines 4 to 8",
+      "questionText": "How does the writer use language to describe the harbour and Mara's feelings?",
+      "bulletPoints": [
+        "You could include the writer's choice of words and phrases",
+        "You could include language features and techniques",
+        "You could include the effects on the reader"
+      ],
+      "rubric": {
+        "name": "AO2 language analysis",
+        "maxScore": 8,
+        "notes": "Reward clear explanation of language choices, precise references, and relevant effects."
+      },
+      "packId": "p1-harbour",
+      "paper": "Paper 1",
+      "packTitle": "Harbour at Dawn"
+    },
+    {
+      "id": "p1-harbour-q3",
+      "questionNumber": "Question 3",
+      "section": "Section A: Reading",
+      "markCategory": 8,
+      "questionType": "structure-analysis",
+      "assessmentObjective": "AO2",
+      "instructionsTop": "You now need to think about the whole of the source.",
+      "focusLines": "Whole source",
+      "questionText": "How has the writer structured the source to interest you as a reader?",
+      "bulletPoints": [
+        "You could write about what the writer focuses your attention on at the beginning",
+        "You could write about how and why the writer changes this focus as the source develops",
+        "You could write about structural features, shifts, contrasts and endings"
+      ],
+      "rubric": {
+        "name": "AO2 structure analysis",
+        "maxScore": 8,
+        "notes": "Reward understanding of structural methods and their effects across the source, supported by relevant references."
+      },
+      "packId": "p1-harbour",
+      "paper": "Paper 1",
+      "packTitle": "Harbour at Dawn"
+    },
+    {
+      "id": "p1-harbour-q4",
+      "questionNumber": "Question 4",
+      "section": "Section A: Reading",
+      "markCategory": 20,
+      "questionType": "evaluation",
+      "assessmentObjective": "AO4",
+      "instructionsTop": "Focus this part of your answer on the second half of the source.",
+      "focusLines": "Lines 7 to the end",
+      "statement": "A student said, \"Mara seems frightened at first, but by the end of the source she seems drawn towards the harbour.\"",
+      "questionText": "To what extent do you agree? In your response, you could: write about your own impressions of the character or setting; evaluate how the writer has created these impressions; support your ideas with references from the text.",
+      "rubric": {
+        "name": "AO4 evaluation",
+        "maxScore": 20,
+        "notes": "Reward a clear, critical response to the statement with judgements supported by apt textual references and explanation of methods."
+      },
+      "packId": "p1-harbour",
+      "paper": "Paper 1",
+      "packTitle": "Harbour at Dawn"
+    },
+    {
+      "id": "p1-harbour-q5",
+      "questionNumber": "Question 5",
+      "section": "Section B: Writing",
+      "markCategory": 40,
+      "questionType": "creative-writing",
+      "assessmentObjective": "AO5 / AO6",
+      "instructionsTop": "Write a description suggested by this picture, or write a story suggested by this title.",
+      "questionText": "Either write a description of a place that seems strange or half-hidden, or write a story about arriving somewhere before sunrise.",
+      "bulletPoints": [
+        "Communicate clearly and imaginatively",
+        "Organise ideas and use a range of vocabulary and sentence forms",
+        "Use accurate spelling, punctuation and grammar"
+      ],
+      "rubric": {
+        "name": "AO5/AO6 creative writing",
+        "maxScore": 40,
+        "notes": "Award up to 24 marks for content and organisation and up to 16 marks for technical accuracy."
+      },
+      "packId": "p1-harbour",
+      "paper": "Paper 1",
+      "packTitle": "Harbour at Dawn"
+    },
+    {
+      "id": "p1-fairground-q1",
+      "questionNumber": "Question 1",
+      "section": "Section A: Reading",
+      "markCategory": 4,
+      "questionType": "select-true-statements",
+      "assessmentObjective": "AO1",
+      "instructionsTop": "Read again the first part of Source A, lines 1 to 4.",
+      "focusLines": "Lines 1 to 4",
+      "questionText": "Choose four statements below which are TRUE.",
+      "rubric": {
+        "name": "AO1 selection",
+        "maxScore": 4,
+        "notes": "Award 1 mark for each correct statement chosen, up to 4 marks. No explanation is required."
+      },
+      "options": [
+        "A. The gates are locked and wet with rain.",
+        "B. Music is playing across the fairground.",
+        "C. The rides are standing completely still.",
+        "D. The ferris wheel bulbs are brightly lit.",
+        "E. A torn poster slaps against a kiosk in the wind.",
+        "F. The ferris wheel bulbs are not lit.",
+        "G. Jonah is already inside the fairground.",
+        "H. Crowds are queuing at the gate."
+      ],
+      "correctOptions": [
+        "A",
+        "C",
+        "E",
+        "F"
+      ],
+      "packId": "p1-fairground",
+      "paper": "Paper 1",
+      "packTitle": "The Closed Fairground"
+    },
+    {
+      "id": "p1-fairground-q2",
+      "questionNumber": "Question 2",
+      "section": "Section A: Reading",
+      "markCategory": 8,
+      "questionType": "language-analysis",
+      "assessmentObjective": "AO2",
+      "instructionsTop": "Look in detail at Lines 5 to 9 of Source A.",
+      "focusLines": "Lines 5 to 9",
+      "questionText": "How does the writer use language to present the fairground as both familiar and unsettling?",
+      "bulletPoints": [
+        "You could include the writer's choice of words and phrases",
+        "You could include language features and techniques",
+        "You could include the effects on the reader"
+      ],
+      "rubric": {
+        "name": "AO2 language analysis",
+        "maxScore": 8,
+        "notes": "Reward clear explanation of language choices, precise references, and relevant effects."
+      },
+      "packId": "p1-fairground",
+      "paper": "Paper 1",
+      "packTitle": "The Closed Fairground"
+    },
+    {
+      "id": "p1-fairground-q3",
+      "questionNumber": "Question 3",
+      "section": "Section A: Reading",
+      "markCategory": 8,
+      "questionType": "structure-analysis",
+      "assessmentObjective": "AO2",
+      "instructionsTop": "You now need to think about the whole of the source.",
+      "focusLines": "Whole source",
+      "questionText": "How has the writer structured the source to hold your interest?",
+      "bulletPoints": [
+        "You could write about what the writer focuses your attention on at the beginning",
+        "You could write about how and why the writer changes this focus as the source develops",
+        "You could write about structural features, shifts, contrasts and endings"
+      ],
+      "rubric": {
+        "name": "AO2 structure analysis",
+        "maxScore": 8,
+        "notes": "Reward understanding of structural methods and their effects across the source, supported by relevant references."
+      },
+      "packId": "p1-fairground",
+      "paper": "Paper 1",
+      "packTitle": "The Closed Fairground"
+    },
+    {
+      "id": "p1-fairground-q4",
+      "questionNumber": "Question 4",
+      "section": "Section A: Reading",
+      "markCategory": 20,
+      "questionType": "evaluation",
+      "assessmentObjective": "AO4",
+      "instructionsTop": "Focus this part of your answer on the second half of the source.",
+      "focusLines": "Lines 7 to the end",
+      "statement": "A student said, \"The fairground feels lifeless, but it also seems ready to wake up at any moment.\"",
+      "questionText": "To what extent do you agree? In your response, you could: write about your own impressions of the character or setting; evaluate how the writer has created these impressions; support your ideas with references from the text.",
+      "rubric": {
+        "name": "AO4 evaluation",
+        "maxScore": 20,
+        "notes": "Reward a clear, critical response to the statement with judgements supported by apt textual references and explanation of methods."
+      },
+      "packId": "p1-fairground",
+      "paper": "Paper 1",
+      "packTitle": "The Closed Fairground"
+    },
+    {
+      "id": "p1-fairground-q5",
+      "questionNumber": "Question 5",
+      "section": "Section B: Writing",
+      "markCategory": 40,
+      "questionType": "creative-writing",
+      "assessmentObjective": "AO5 / AO6",
+      "instructionsTop": "Write a description suggested by this picture, or write a story suggested by this title.",
+      "questionText": "Either write a description of an abandoned place, or write a story about returning to somewhere full of memories.",
+      "bulletPoints": [
+        "Communicate clearly and imaginatively",
+        "Organise ideas and use a range of vocabulary and sentence forms",
+        "Use accurate spelling, punctuation and grammar"
+      ],
+      "rubric": {
+        "name": "AO5/AO6 creative writing",
+        "maxScore": 40,
+        "notes": "Award up to 24 marks for content and organisation and up to 16 marks for technical accuracy."
+      },
+      "packId": "p1-fairground",
+      "paper": "Paper 1",
+      "packTitle": "The Closed Fairground"
+    },
+    {
+      "id": "p1-library-q1",
+      "questionNumber": "Question 1",
+      "section": "Section A: Reading",
+      "markCategory": 4,
+      "questionType": "select-true-statements",
+      "assessmentObjective": "AO1",
+      "instructionsTop": "Read again the first part of Source A, lines 1 to 4.",
+      "focusLines": "Lines 1 to 4",
+      "questionText": "Choose four statements below which are TRUE.",
+      "rubric": {
+        "name": "AO1 selection",
+        "maxScore": 4,
+        "notes": "Award 1 mark for each correct statement chosen, up to 4 marks. No explanation is required."
+      },
+      "options": [
+        "A. The library had already closed.",
+        "B. There is a light under the basement door.",
+        "C. Every shelf upstairs is in shadow.",
+        "D. People are speaking loudly in the entrance hall.",
+        "E. The returns desk glows faintly from the streetlamp outside.",
+        "F. Lina is sitting at the returns desk.",
+        "G. Rain is hammering against the windows.",
+        "H. The basement door is hanging open."
+      ],
+      "correctOptions": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "packId": "p1-library",
+      "paper": "Paper 1",
+      "packTitle": "The Library Stairwell"
+    },
+    {
+      "id": "p1-library-q2",
+      "questionNumber": "Question 2",
+      "section": "Section A: Reading",
+      "markCategory": 8,
+      "questionType": "language-analysis",
+      "assessmentObjective": "AO2",
+      "instructionsTop": "Look in detail at Lines 5 to 8 of Source A.",
+      "focusLines": "Lines 5 to 8",
+      "questionText": "How does the writer use language to make Lina's descent into the basement seem tense and mysterious?",
+      "bulletPoints": [
+        "You could include the writer's choice of words and phrases",
+        "You could include language features and techniques",
+        "You could include the effects on the reader"
+      ],
+      "rubric": {
+        "name": "AO2 language analysis",
+        "maxScore": 8,
+        "notes": "Reward clear explanation of language choices, precise references, and relevant effects."
+      },
+      "packId": "p1-library",
+      "paper": "Paper 1",
+      "packTitle": "The Library Stairwell"
+    },
+    {
+      "id": "p1-library-q3",
+      "questionNumber": "Question 3",
+      "section": "Section A: Reading",
+      "markCategory": 8,
+      "questionType": "structure-analysis",
+      "assessmentObjective": "AO2",
+      "instructionsTop": "You now need to think about the whole of the source.",
+      "focusLines": "Whole source",
+      "questionText": "How has the writer structured the source to build suspense?",
+      "bulletPoints": [
+        "You could write about what the writer focuses your attention on at the beginning",
+        "You could write about how and why the writer changes this focus as the source develops",
+        "You could write about structural features, shifts, contrasts and endings"
+      ],
+      "rubric": {
+        "name": "AO2 structure analysis",
+        "maxScore": 8,
+        "notes": "Reward understanding of structural methods and their effects across the source, supported by relevant references."
+      },
+      "packId": "p1-library",
+      "paper": "Paper 1",
+      "packTitle": "The Library Stairwell"
+    },
+    {
+      "id": "p1-library-q4",
+      "questionNumber": "Question 4",
+      "section": "Section A: Reading",
+      "markCategory": 20,
+      "questionType": "evaluation",
+      "assessmentObjective": "AO4",
+      "instructionsTop": "Focus this part of your answer on the second half of the source.",
+      "focusLines": "Lines 7 to the end",
+      "statement": "A student said, \"The ending is effective because it turns curiosity into danger.\"",
+      "questionText": "To what extent do you agree? In your response, you could: write about your own impressions of the character or setting; evaluate how the writer has created these impressions; support your ideas with references from the text.",
+      "rubric": {
+        "name": "AO4 evaluation",
+        "maxScore": 20,
+        "notes": "Reward a clear, critical response to the statement with judgements supported by apt textual references and explanation of methods."
+      },
+      "packId": "p1-library",
+      "paper": "Paper 1",
+      "packTitle": "The Library Stairwell"
+    },
+    {
+      "id": "p1-library-q5",
+      "questionNumber": "Question 5",
+      "section": "Section B: Writing",
+      "markCategory": 40,
+      "questionType": "creative-writing",
+      "assessmentObjective": "AO5 / AO6",
+      "instructionsTop": "Write a description suggested by this picture, or write a story suggested by this title.",
+      "questionText": "Either write a description of exploring a building after hours, or write a story about discovering a hidden room.",
+      "bulletPoints": [
+        "Communicate clearly and imaginatively",
+        "Organise ideas and use a range of vocabulary and sentence forms",
+        "Use accurate spelling, punctuation and grammar"
+      ],
+      "rubric": {
+        "name": "AO5/AO6 creative writing",
+        "maxScore": 40,
+        "notes": "Award up to 24 marks for content and organisation and up to 16 marks for technical accuracy."
+      },
+      "packId": "p1-library",
+      "paper": "Paper 1",
+      "packTitle": "The Library Stairwell"
+    },
+    {
+      "id": "p1-bridge-q1",
+      "questionNumber": "Question 1",
+      "section": "Section A: Reading",
+      "markCategory": 4,
+      "questionType": "select-true-statements",
+      "assessmentObjective": "AO1",
+      "instructionsTop": "Read again the first part of Source A, lines 1 to 4.",
+      "focusLines": "Lines 1 to 4",
+      "questionText": "Choose four statements below which are TRUE.",
+      "rubric": {
+        "name": "AO1 selection",
+        "maxScore": 4,
+        "notes": "Award 1 mark for each correct statement chosen, up to 4 marks. No explanation is required."
+      },
+      "options": [
+        "A. The river has dropped enough for the bridge to show again.",
+        "B. The bridge is hidden by thick fog.",
+        "C. The bridge rises out of brown water.",
+        "D. Branches and plastic bottles cling to the arches.",
+        "E. Mud stripes the handrail.",
+        "F. The water is clear and shallow.",
+        "G. The bridge is made of metal.",
+        "H. Nadia is already sweeping the bridge."
+      ],
+      "correctOptions": [
+        "A",
+        "C",
+        "D",
+        "E"
+      ],
+      "packId": "p1-bridge",
+      "paper": "Paper 1",
+      "packTitle": "The Bridge After the Flood"
+    },
+    {
+      "id": "p1-bridge-q2",
+      "questionNumber": "Question 2",
+      "section": "Section A: Reading",
+      "markCategory": 8,
+      "questionType": "language-analysis",
+      "assessmentObjective": "AO2",
+      "instructionsTop": "Look in detail at Lines 6 to 10 of Source A.",
+      "focusLines": "Lines 6 to 10",
+      "questionText": "How does the writer use language to show both damage and hope in this part of the source?",
+      "bulletPoints": [
+        "You could include the writer's choice of words and phrases",
+        "You could include language features and techniques",
+        "You could include the effects on the reader"
+      ],
+      "rubric": {
+        "name": "AO2 language analysis",
+        "maxScore": 8,
+        "notes": "Reward clear explanation of language choices, precise references, and relevant effects."
+      },
+      "packId": "p1-bridge",
+      "paper": "Paper 1",
+      "packTitle": "The Bridge After the Flood"
+    },
+    {
+      "id": "p1-bridge-q3",
+      "questionNumber": "Question 3",
+      "section": "Section A: Reading",
+      "markCategory": 8,
+      "questionType": "structure-analysis",
+      "assessmentObjective": "AO2",
+      "instructionsTop": "You now need to think about the whole of the source.",
+      "focusLines": "Whole source",
+      "questionText": "How has the writer structured the source to move from destruction towards recovery?",
+      "bulletPoints": [
+        "You could write about what the writer focuses your attention on at the beginning",
+        "You could write about how and why the writer changes this focus as the source develops",
+        "You could write about structural features, shifts, contrasts and endings"
+      ],
+      "rubric": {
+        "name": "AO2 structure analysis",
+        "maxScore": 8,
+        "notes": "Reward understanding of structural methods and their effects across the source, supported by relevant references."
+      },
+      "packId": "p1-bridge",
+      "paper": "Paper 1",
+      "packTitle": "The Bridge After the Flood"
+    },
+    {
+      "id": "p1-bridge-q4",
+      "questionNumber": "Question 4",
+      "section": "Section A: Reading",
+      "markCategory": 20,
+      "questionType": "evaluation",
+      "assessmentObjective": "AO4",
+      "instructionsTop": "Focus this part of your answer on the second half of the source.",
+      "focusLines": "Lines 7 to the end",
+      "statement": "A student said, \"Although the source begins with flood damage, it becomes increasingly hopeful.\"",
+      "questionText": "To what extent do you agree? In your response, you could: write about your own impressions of the character or setting; evaluate how the writer has created these impressions; support your ideas with references from the text.",
+      "rubric": {
+        "name": "AO4 evaluation",
+        "maxScore": 20,
+        "notes": "Reward a clear, critical response to the statement with judgements supported by apt textual references and explanation of methods."
+      },
+      "packId": "p1-bridge",
+      "paper": "Paper 1",
+      "packTitle": "The Bridge After the Flood"
+    },
+    {
+      "id": "p1-bridge-q5",
+      "questionNumber": "Question 5",
+      "section": "Section B: Writing",
+      "markCategory": 40,
+      "questionType": "creative-writing",
+      "assessmentObjective": "AO5 / AO6",
+      "instructionsTop": "Write a description suggested by this picture, or write a story suggested by this title.",
+      "questionText": "Either write a description of a place after extreme weather, or write a story about a community rebuilding something important.",
+      "bulletPoints": [
+        "Communicate clearly and imaginatively",
+        "Organise ideas and use a range of vocabulary and sentence forms",
+        "Use accurate spelling, punctuation and grammar"
+      ],
+      "rubric": {
+        "name": "AO5/AO6 creative writing",
+        "maxScore": 40,
+        "notes": "Award up to 24 marks for content and organisation and up to 16 marks for technical accuracy."
+      },
+      "packId": "p1-bridge",
+      "paper": "Paper 1",
+      "packTitle": "The Bridge After the Flood"
+    },
+    {
+      "id": "p1-busdepot-q1",
+      "questionNumber": "Question 1",
+      "section": "Section A: Reading",
+      "markCategory": 4,
+      "questionType": "select-true-statements",
+      "assessmentObjective": "AO1",
+      "instructionsTop": "Read again the first part of Source A, lines 1 to 4.",
+      "focusLines": "Lines 1 to 4",
+      "questionText": "Choose four statements below which are TRUE.",
+      "rubric": {
+        "name": "AO1 selection",
+        "maxScore": 4,
+        "notes": "Award 1 mark for each correct statement chosen, up to 4 marks. No explanation is required."
+      },
+      "options": [
+        "A. Snow has frozen in ridges across the yard.",
+        "B. The buses look large, silent and blind.",
+        "C. Orange light comes from the maintenance shed.",
+        "D. Children are waiting at the depot gates.",
+        "E. A radio is whispering the early news.",
+        "F. The windows are wide open.",
+        "G. The buses are moving in and out of the depot.",
+        "H. The yard is filled with summer heat."
+      ],
+      "correctOptions": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "packId": "p1-busdepot",
+      "paper": "Paper 1",
+      "packTitle": "The Winter Bus Depot"
+    },
+    {
+      "id": "p1-busdepot-q2",
+      "questionNumber": "Question 2",
+      "section": "Section A: Reading",
+      "markCategory": 8,
+      "questionType": "language-analysis",
+      "assessmentObjective": "AO2",
+      "instructionsTop": "Look in detail at Lines 8 to 12 of Source A.",
+      "focusLines": "Lines 8 to 12",
+      "questionText": "How does the writer use language to present Imran's sense of duty in this part of the source?",
+      "bulletPoints": [
+        "You could include the writer's choice of words and phrases",
+        "You could include language features and techniques",
+        "You could include the effects on the reader"
+      ],
+      "rubric": {
+        "name": "AO2 language analysis",
+        "maxScore": 8,
+        "notes": "Reward clear explanation of language choices, precise references, and relevant effects."
+      },
+      "packId": "p1-busdepot",
+      "paper": "Paper 1",
+      "packTitle": "The Winter Bus Depot"
+    },
+    {
+      "id": "p1-busdepot-q3",
+      "questionNumber": "Question 3",
+      "section": "Section A: Reading",
+      "markCategory": 8,
+      "questionType": "structure-analysis",
+      "assessmentObjective": "AO2",
+      "instructionsTop": "You now need to think about the whole of the source.",
+      "focusLines": "Whole source",
+      "questionText": "How has the writer structured the source to show Imran moving from hesitation to action?",
+      "bulletPoints": [
+        "You could write about what the writer focuses your attention on at the beginning",
+        "You could write about how and why the writer changes this focus as the source develops",
+        "You could write about structural features, shifts, contrasts and endings"
+      ],
+      "rubric": {
+        "name": "AO2 structure analysis",
+        "maxScore": 8,
+        "notes": "Reward understanding of structural methods and their effects across the source, supported by relevant references."
+      },
+      "packId": "p1-busdepot",
+      "paper": "Paper 1",
+      "packTitle": "The Winter Bus Depot"
+    },
+    {
+      "id": "p1-busdepot-q4",
+      "questionNumber": "Question 4",
+      "section": "Section A: Reading",
+      "markCategory": 20,
+      "questionType": "evaluation",
+      "assessmentObjective": "AO4",
+      "instructionsTop": "Focus this part of your answer on the second half of the source.",
+      "focusLines": "Lines 7 to the end",
+      "statement": "A student said, \"Imran's final decision matters because the writer makes even a small action feel important.\"",
+      "questionText": "To what extent do you agree? In your response, you could: write about your own impressions of the character or setting; evaluate how the writer has created these impressions; support your ideas with references from the text.",
+      "rubric": {
+        "name": "AO4 evaluation",
+        "maxScore": 20,
+        "notes": "Reward a clear, critical response to the statement with judgements supported by apt textual references and explanation of methods."
+      },
+      "packId": "p1-busdepot",
+      "paper": "Paper 1",
+      "packTitle": "The Winter Bus Depot"
+    },
+    {
+      "id": "p1-busdepot-q5",
+      "questionNumber": "Question 5",
+      "section": "Section B: Writing",
+      "markCategory": 40,
+      "questionType": "creative-writing",
+      "assessmentObjective": "AO5 / AO6",
+      "instructionsTop": "Write a description suggested by this picture, or write a story suggested by this title.",
+      "questionText": "Either write a description of a cold morning at work, or write a story about making a difficult practical decision.",
+      "bulletPoints": [
+        "Communicate clearly and imaginatively",
+        "Organise ideas and use a range of vocabulary and sentence forms",
+        "Use accurate spelling, punctuation and grammar"
+      ],
+      "rubric": {
+        "name": "AO5/AO6 creative writing",
+        "maxScore": 40,
+        "notes": "Award up to 24 marks for content and organisation and up to 16 marks for technical accuracy."
+      },
+      "packId": "p1-busdepot",
+      "paper": "Paper 1",
+      "packTitle": "The Winter Bus Depot"
+    },
+    {
+      "id": "p2-schoolday-q1",
+      "questionNumber": "Question 1",
+      "section": "Section A: Reading",
+      "markCategory": 4,
+      "questionType": "select-true-statements",
+      "assessmentObjective": "AO1",
+      "instructionsTop": "Read again Source A, lines 1 to 8.",
+      "focusLines": "Source A, lines 1 to 8",
+      "questionText": "Choose four statements below which are TRUE.",
+      "options": [
+        "A. Students receive homework reminders on their phones.",
+        "B. The writer says teachers deliberately want to exhaust students.",
+        "C. Some students check their phones during dinner.",
+        "D. The writer argues that rest time is important.",
+        "E. The writer believes homework should be banned completely.",
+        "F. The writer thinks schools should protect recovery time.",
+        "G. The writer says students should spend every evening revising.",
+        "H. The writer thinks balance matters."
+      ],
+      "correctOptions": [
+        "A",
+        "C",
+        "D",
+        "F"
+      ],
+      "rubric": {
+        "name": "AO1 selection",
+        "maxScore": 4,
+        "notes": "Award 1 mark for each correct statement chosen, up to 4 marks."
+      },
+      "packId": "p2-schoolday",
+      "paper": "Paper 2",
+      "packTitle": "School and Rest"
+    },
+    {
+      "id": "p2-schoolday-q2",
+      "questionNumber": "Question 2",
+      "section": "Section A: Reading",
+      "markCategory": 8,
+      "questionType": "summary-compare",
+      "assessmentObjective": "AO1 / AO4",
+      "instructionsTop": "You need to refer to both Source A and Source B for this question.",
+      "focusLines": "Whole sources",
+      "questionText": "Use details from both sources to write a summary of the different ways the writers experience time away from school.",
+      "bulletPoints": [
+        "Write a summary of the differences and similarities",
+        "Use clear references to both sources",
+        "Focus on what each writer says about the topic"
+      ],
+      "rubric": {
+        "name": "AO1/AO4 summary",
+        "maxScore": 8,
+        "notes": "Reward clear, comparative summary using relevant references from both sources."
+      },
+      "packId": "p2-schoolday",
+      "paper": "Paper 2",
+      "packTitle": "School and Rest"
+    },
+    {
+      "id": "p2-schoolday-q3",
+      "questionNumber": "Question 3",
+      "section": "Section A: Reading",
+      "markCategory": 12,
+      "questionType": "writer-methods-viewpoint",
+      "assessmentObjective": "AO3",
+      "instructionsTop": "You now need to refer only to Source A from lines 1 to the end.",
+      "focusLines": "Whole Source A",
+      "questionText": "How does the writer use language and structure in Source A to present the pressure students feel outside school?",
+      "bulletPoints": [
+        "You could write about the writer's tone and viewpoint",
+        "You could write about language features and structural choices",
+        "You could write about how the writer shapes the reader's response"
+      ],
+      "rubric": {
+        "name": "AO3 analysis of viewpoint",
+        "maxScore": 12,
+        "notes": "Reward analysis of how the writer uses methods to present ideas and influence the reader."
+      },
+      "packId": "p2-schoolday",
+      "paper": "Paper 2",
+      "packTitle": "School and Rest"
+    },
+    {
+      "id": "p2-schoolday-q4",
+      "questionNumber": "Question 4",
+      "section": "Section A: Reading",
+      "markCategory": 16,
+      "questionType": "compare-perspectives",
+      "assessmentObjective": "AO3",
+      "instructionsTop": "For this question, compare how the writers convey their different perspectives or feelings.",
+      "focusLines": "Both sources",
+      "questionText": "Compare how the writers convey their different perspectives on time away from school in Source A and Source B.",
+      "bulletPoints": [
+        "Compare the writers' different ideas and perspectives",
+        "Compare how they use methods to convey these views",
+        "Support your answer with references to both sources"
+      ],
+      "rubric": {
+        "name": "AO3 comparison",
+        "maxScore": 16,
+        "notes": "Reward developed comparison of perspectives and methods across both sources."
+      },
+      "packId": "p2-schoolday",
+      "paper": "Paper 2",
+      "packTitle": "School and Rest"
+    },
+    {
+      "id": "p2-schoolday-q5",
+      "questionNumber": "Question 5",
+      "section": "Section B: Writing",
+      "markCategory": 40,
+      "questionType": "viewpoint-writing",
+      "assessmentObjective": "AO5 / AO6",
+      "instructionsTop": "Write an article, letter, speech or essay presenting a viewpoint.",
+      "questionText": "“Schools should do more to protect young people's free time.” Write a speech for your school or college in which you present your viewpoint on this statement.",
+      "bulletPoints": [
+        "Present a clear viewpoint and develop your ideas",
+        "Use structure and language to influence your reader",
+        "Use accurate spelling, punctuation and grammar"
+      ],
+      "rubric": {
+        "name": "AO5/AO6 viewpoint writing",
+        "maxScore": 40,
+        "notes": "Award up to 24 marks for content and organisation and up to 16 marks for technical accuracy."
+      },
+      "packId": "p2-schoolday",
+      "paper": "Paper 2",
+      "packTitle": "School and Rest"
+    },
+    {
+      "id": "p2-seaside-q1",
+      "questionNumber": "Question 1",
+      "section": "Section A: Reading",
+      "markCategory": 4,
+      "questionType": "select-true-statements",
+      "assessmentObjective": "AO1",
+      "instructionsTop": "Read again Source A, lines 1 to 8.",
+      "focusLines": "Source A, lines 1 to 8",
+      "questionText": "Choose four statements below which are TRUE.",
+      "options": [
+        "A. The modern writer says the chip shop queue starts late in the evening.",
+        "B. The modern writer suggests visitors can feel invasive to residents.",
+        "C. The modern writer says the beach is quiet again by Monday morning.",
+        "D. The modern writer thinks seaside towns could survive without visitors.",
+        "E. The modern writer says beauty attracts people.",
+        "F. The modern writer says visitors bring only benefits.",
+        "G. The modern writer says crowds create noise and litter.",
+        "H. The modern writer says the promenade is being rebuilt."
+      ],
+      "correctOptions": [
+        "B",
+        "C",
+        "E",
+        "G"
+      ],
+      "rubric": {
+        "name": "AO1 selection",
+        "maxScore": 4,
+        "notes": "Award 1 mark for each correct statement chosen, up to 4 marks."
+      },
+      "packId": "p2-seaside",
+      "paper": "Paper 2",
+      "packTitle": "The Seaside"
+    },
+    {
+      "id": "p2-seaside-q2",
+      "questionNumber": "Question 2",
+      "section": "Section A: Reading",
+      "markCategory": 8,
+      "questionType": "summary-compare",
+      "assessmentObjective": "AO1 / AO4",
+      "instructionsTop": "You need to refer to both Source A and Source B for this question.",
+      "focusLines": "Whole sources",
+      "questionText": "Use details from both sources to write a summary of what the seaside offers, and what problems it can create.",
+      "bulletPoints": [
+        "Write a summary of the differences and similarities",
+        "Use clear references to both sources",
+        "Focus on what each writer says about the topic"
+      ],
+      "rubric": {
+        "name": "AO1/AO4 summary",
+        "maxScore": 8,
+        "notes": "Reward clear, comparative summary using relevant references from both sources."
+      },
+      "packId": "p2-seaside",
+      "paper": "Paper 2",
+      "packTitle": "The Seaside"
+    },
+    {
+      "id": "p2-seaside-q3",
+      "questionNumber": "Question 3",
+      "section": "Section A: Reading",
+      "markCategory": 12,
+      "questionType": "writer-methods-viewpoint",
+      "assessmentObjective": "AO3",
+      "instructionsTop": "You now need to refer only to Source A from lines 1 to the end.",
+      "focusLines": "Whole Source A",
+      "questionText": "How does the writer use language and structure in Source A to present a complicated attitude towards visitors?",
+      "bulletPoints": [
+        "You could write about the writer's tone and viewpoint",
+        "You could write about language features and structural choices",
+        "You could write about how the writer shapes the reader's response"
+      ],
+      "rubric": {
+        "name": "AO3 analysis of viewpoint",
+        "maxScore": 12,
+        "notes": "Reward analysis of how the writer uses methods to present ideas and influence the reader."
+      },
+      "packId": "p2-seaside",
+      "paper": "Paper 2",
+      "packTitle": "The Seaside"
+    },
+    {
+      "id": "p2-seaside-q4",
+      "questionNumber": "Question 4",
+      "section": "Section A: Reading",
+      "markCategory": 16,
+      "questionType": "compare-perspectives",
+      "assessmentObjective": "AO3",
+      "instructionsTop": "For this question, compare how the writers convey their different perspectives or feelings.",
+      "focusLines": "Both sources",
+      "questionText": "Compare how the writers convey their perspectives on the seaside in Source A and Source B.",
+      "bulletPoints": [
+        "Compare the writers' different ideas and perspectives",
+        "Compare how they use methods to convey these views",
+        "Support your answer with references to both sources"
+      ],
+      "rubric": {
+        "name": "AO3 comparison",
+        "maxScore": 16,
+        "notes": "Reward developed comparison of perspectives and methods across both sources."
+      },
+      "packId": "p2-seaside",
+      "paper": "Paper 2",
+      "packTitle": "The Seaside"
+    },
+    {
+      "id": "p2-seaside-q5",
+      "questionNumber": "Question 5",
+      "section": "Section B: Writing",
+      "markCategory": 40,
+      "questionType": "viewpoint-writing",
+      "assessmentObjective": "AO5 / AO6",
+      "instructionsTop": "Write an article, letter, speech or essay presenting a viewpoint.",
+      "questionText": "“Tourism improves places more than it damages them.” Write an article for a local newspaper in which you present your viewpoint on this statement.",
+      "bulletPoints": [
+        "Present a clear viewpoint and develop your ideas",
+        "Use structure and language to influence your reader",
+        "Use accurate spelling, punctuation and grammar"
+      ],
+      "rubric": {
+        "name": "AO5/AO6 viewpoint writing",
+        "maxScore": 40,
+        "notes": "Award up to 24 marks for content and organisation and up to 16 marks for technical accuracy."
+      },
+      "packId": "p2-seaside",
+      "paper": "Paper 2",
+      "packTitle": "The Seaside"
+    },
+    {
+      "id": "p2-commute-q1",
+      "questionNumber": "Question 1",
+      "section": "Section A: Reading",
+      "markCategory": 4,
+      "questionType": "select-true-statements",
+      "assessmentObjective": "AO1",
+      "instructionsTop": "Read again Source A, lines 1 to 8.",
+      "focusLines": "Source A, lines 1 to 8",
+      "questionText": "Choose four statements below which are TRUE.",
+      "options": [
+        "A. The modern writer says commuters chat cheerfully on the platform.",
+        "B. The modern writer says commuters stand where they expect the doors to open.",
+        "C. The modern writer says commuting depends on small acts of cooperation.",
+        "D. The modern writer says cancelled trains usually improve people's moods.",
+        "E. The modern writer mentions coffee cups.",
+        "F. The modern writer says commuting is glamorous.",
+        "G. The modern writer says patience can run out.",
+        "H. The modern writer says the platform is empty."
+      ],
+      "correctOptions": [
+        "B",
+        "C",
+        "E",
+        "G"
+      ],
+      "rubric": {
+        "name": "AO1 selection",
+        "maxScore": 4,
+        "notes": "Award 1 mark for each correct statement chosen, up to 4 marks."
+      },
+      "packId": "p2-commute",
+      "paper": "Paper 2",
+      "packTitle": "Travelling to Work"
+    },
+    {
+      "id": "p2-commute-q2",
+      "questionNumber": "Question 2",
+      "section": "Section A: Reading",
+      "markCategory": 8,
+      "questionType": "summary-compare",
+      "assessmentObjective": "AO1 / AO4",
+      "instructionsTop": "You need to refer to both Source A and Source B for this question.",
+      "focusLines": "Whole sources",
+      "questionText": "Use details from both sources to write a summary of what travelling with other people is like for the writers.",
+      "bulletPoints": [
+        "Write a summary of the differences and similarities",
+        "Use clear references to both sources",
+        "Focus on what each writer says about the topic"
+      ],
+      "rubric": {
+        "name": "AO1/AO4 summary",
+        "maxScore": 8,
+        "notes": "Reward clear, comparative summary using relevant references from both sources."
+      },
+      "packId": "p2-commute",
+      "paper": "Paper 2",
+      "packTitle": "Travelling to Work"
+    },
+    {
+      "id": "p2-commute-q3",
+      "questionNumber": "Question 3",
+      "section": "Section A: Reading",
+      "markCategory": 12,
+      "questionType": "writer-methods-viewpoint",
+      "assessmentObjective": "AO3",
+      "instructionsTop": "You now need to refer only to Source A from lines 1 to the end.",
+      "focusLines": "Whole Source A",
+      "questionText": "How does the writer use language and structure in Source A to present commuting as both ordinary and significant?",
+      "bulletPoints": [
+        "You could write about the writer's tone and viewpoint",
+        "You could write about language features and structural choices",
+        "You could write about how the writer shapes the reader's response"
+      ],
+      "rubric": {
+        "name": "AO3 analysis of viewpoint",
+        "maxScore": 12,
+        "notes": "Reward analysis of how the writer uses methods to present ideas and influence the reader."
+      },
+      "packId": "p2-commute",
+      "paper": "Paper 2",
+      "packTitle": "Travelling to Work"
+    },
+    {
+      "id": "p2-commute-q4",
+      "questionNumber": "Question 4",
+      "section": "Section A: Reading",
+      "markCategory": 16,
+      "questionType": "compare-perspectives",
+      "assessmentObjective": "AO3",
+      "instructionsTop": "For this question, compare how the writers convey their different perspectives or feelings.",
+      "focusLines": "Both sources",
+      "questionText": "Compare how the writers convey their attitudes to shared travel in Source A and Source B.",
+      "bulletPoints": [
+        "Compare the writers' different ideas and perspectives",
+        "Compare how they use methods to convey these views",
+        "Support your answer with references to both sources"
+      ],
+      "rubric": {
+        "name": "AO3 comparison",
+        "maxScore": 16,
+        "notes": "Reward developed comparison of perspectives and methods across both sources."
+      },
+      "packId": "p2-commute",
+      "paper": "Paper 2",
+      "packTitle": "Travelling to Work"
+    },
+    {
+      "id": "p2-commute-q5",
+      "questionNumber": "Question 5",
+      "section": "Section B: Writing",
+      "markCategory": 40,
+      "questionType": "viewpoint-writing",
+      "assessmentObjective": "AO5 / AO6",
+      "instructionsTop": "Write an article, letter, speech or essay presenting a viewpoint.",
+      "questionText": "“Public transport says a lot about a society.” Write an essay in which you present your viewpoint on this statement.",
+      "bulletPoints": [
+        "Present a clear viewpoint and develop your ideas",
+        "Use structure and language to influence your reader",
+        "Use accurate spelling, punctuation and grammar"
+      ],
+      "rubric": {
+        "name": "AO5/AO6 viewpoint writing",
+        "maxScore": 40,
+        "notes": "Award up to 24 marks for content and organisation and up to 16 marks for technical accuracy."
+      },
+      "packId": "p2-commute",
+      "paper": "Paper 2",
+      "packTitle": "Travelling to Work"
+    },
+    {
+      "id": "p2-libraries-q1",
+      "questionNumber": "Question 1",
+      "section": "Section A: Reading",
+      "markCategory": 4,
+      "questionType": "select-true-statements",
+      "assessmentObjective": "AO1",
+      "instructionsTop": "Read again Source A, lines 1 to 8.",
+      "focusLines": "Source A, lines 1 to 8",
+      "questionText": "Choose four statements below which are TRUE.",
+      "options": [
+        "A. The modern writer says libraries are mainly about selling books.",
+        "B. The modern writer says some people use libraries because their homes are noisy.",
+        "C. The modern writer says officials always understand the true value of libraries.",
+        "D. The modern writer says libraries offer more than books.",
+        "E. The modern writer says a closed library can affect community belonging.",
+        "F. The modern writer says libraries should be silent at all times.",
+        "G. The modern writer mentions parents with toddlers.",
+        "H. The modern writer says libraries are never warm."
+      ],
+      "correctOptions": [
+        "B",
+        "D",
+        "E",
+        "G"
+      ],
+      "rubric": {
+        "name": "AO1 selection",
+        "maxScore": 4,
+        "notes": "Award 1 mark for each correct statement chosen, up to 4 marks."
+      },
+      "packId": "p2-libraries",
+      "paper": "Paper 2",
+      "packTitle": "Libraries and Community"
+    },
+    {
+      "id": "p2-libraries-q2",
+      "questionNumber": "Question 2",
+      "section": "Section A: Reading",
+      "markCategory": 8,
+      "questionType": "summary-compare",
+      "assessmentObjective": "AO1 / AO4",
+      "instructionsTop": "You need to refer to both Source A and Source B for this question.",
+      "focusLines": "Whole sources",
+      "questionText": "Use details from both sources to write a summary of why shared reading spaces matter to the writers.",
+      "bulletPoints": [
+        "Write a summary of the differences and similarities",
+        "Use clear references to both sources",
+        "Focus on what each writer says about the topic"
+      ],
+      "rubric": {
+        "name": "AO1/AO4 summary",
+        "maxScore": 8,
+        "notes": "Reward clear, comparative summary using relevant references from both sources."
+      },
+      "packId": "p2-libraries",
+      "paper": "Paper 2",
+      "packTitle": "Libraries and Community"
+    },
+    {
+      "id": "p2-libraries-q3",
+      "questionNumber": "Question 3",
+      "section": "Section A: Reading",
+      "markCategory": 12,
+      "questionType": "writer-methods-viewpoint",
+      "assessmentObjective": "AO3",
+      "instructionsTop": "You now need to refer only to Source A from lines 1 to the end.",
+      "focusLines": "Whole Source A",
+      "questionText": "How does the writer use language and structure in Source A to present libraries as important community spaces?",
+      "bulletPoints": [
+        "You could write about the writer's tone and viewpoint",
+        "You could write about language features and structural choices",
+        "You could write about how the writer shapes the reader's response"
+      ],
+      "rubric": {
+        "name": "AO3 analysis of viewpoint",
+        "maxScore": 12,
+        "notes": "Reward analysis of how the writer uses methods to present ideas and influence the reader."
+      },
+      "packId": "p2-libraries",
+      "paper": "Paper 2",
+      "packTitle": "Libraries and Community"
+    },
+    {
+      "id": "p2-libraries-q4",
+      "questionNumber": "Question 4",
+      "section": "Section A: Reading",
+      "markCategory": 16,
+      "questionType": "compare-perspectives",
+      "assessmentObjective": "AO3",
+      "instructionsTop": "For this question, compare how the writers convey their different perspectives or feelings.",
+      "focusLines": "Both sources",
+      "questionText": "Compare how the writers convey their perspectives on reading rooms and libraries in Source A and Source B.",
+      "bulletPoints": [
+        "Compare the writers' different ideas and perspectives",
+        "Compare how they use methods to convey these views",
+        "Support your answer with references to both sources"
+      ],
+      "rubric": {
+        "name": "AO3 comparison",
+        "maxScore": 16,
+        "notes": "Reward developed comparison of perspectives and methods across both sources."
+      },
+      "packId": "p2-libraries",
+      "paper": "Paper 2",
+      "packTitle": "Libraries and Community"
+    },
+    {
+      "id": "p2-libraries-q5",
+      "questionNumber": "Question 5",
+      "section": "Section B: Writing",
+      "markCategory": 40,
+      "questionType": "viewpoint-writing",
+      "assessmentObjective": "AO5 / AO6",
+      "instructionsTop": "Write an article, letter, speech or essay presenting a viewpoint.",
+      "questionText": "“Every town should protect free public spaces where people can simply be.” Write a letter to your local council in which you present your viewpoint.",
+      "bulletPoints": [
+        "Present a clear viewpoint and develop your ideas",
+        "Use structure and language to influence your reader",
+        "Use accurate spelling, punctuation and grammar"
+      ],
+      "rubric": {
+        "name": "AO5/AO6 viewpoint writing",
+        "maxScore": 40,
+        "notes": "Award up to 24 marks for content and organisation and up to 16 marks for technical accuracy."
+      },
+      "packId": "p2-libraries",
+      "paper": "Paper 2",
+      "packTitle": "Libraries and Community"
+    },
+    {
+      "id": "p2-weather-q1",
+      "questionNumber": "Question 1",
+      "section": "Section A: Reading",
+      "markCategory": 4,
+      "questionType": "select-true-statements",
+      "assessmentObjective": "AO1",
+      "instructionsTop": "Read again Source A, lines 1 to 8.",
+      "focusLines": "Source A, lines 1 to 8",
+      "questionText": "Choose four statements below which are TRUE.",
+      "options": [
+        "A. The modern writer says the storm caused no damage.",
+        "B. The modern writer says neighbours were outside by breakfast.",
+        "C. The modern writer says the post office road had become a stream.",
+        "D. The modern writer says the storm only matters because of dramatic pictures.",
+        "E. The modern writer says storms test habits as well as buildings.",
+        "F. The modern writer says nobody shared anything after the storm.",
+        "G. The modern writer says a shopkeeper opened despite damage.",
+        "H. The modern writer says forecasts are untidy."
+      ],
+      "correctOptions": [
+        "B",
+        "C",
+        "E",
+        "G"
+      ],
+      "rubric": {
+        "name": "AO1 selection",
+        "maxScore": 4,
+        "notes": "Award 1 mark for each correct statement chosen, up to 4 marks."
+      },
+      "packId": "p2-weather",
+      "paper": "Paper 2",
+      "packTitle": "Weather and Community"
+    },
+    {
+      "id": "p2-weather-q2",
+      "questionNumber": "Question 2",
+      "section": "Section A: Reading",
+      "markCategory": 8,
+      "questionType": "summary-compare",
+      "assessmentObjective": "AO1 / AO4",
+      "instructionsTop": "You need to refer to both Source A and Source B for this question.",
+      "focusLines": "Whole sources",
+      "questionText": "Use details from both sources to write a summary of how difficult weather affects communities.",
+      "bulletPoints": [
+        "Write a summary of the differences and similarities",
+        "Use clear references to both sources",
+        "Focus on what each writer says about the topic"
+      ],
+      "rubric": {
+        "name": "AO1/AO4 summary",
+        "maxScore": 8,
+        "notes": "Reward clear, comparative summary using relevant references from both sources."
+      },
+      "packId": "p2-weather",
+      "paper": "Paper 2",
+      "packTitle": "Weather and Community"
+    },
+    {
+      "id": "p2-weather-q3",
+      "questionNumber": "Question 3",
+      "section": "Section A: Reading",
+      "markCategory": 12,
+      "questionType": "writer-methods-viewpoint",
+      "assessmentObjective": "AO3",
+      "instructionsTop": "You now need to refer only to Source A from lines 1 to the end.",
+      "focusLines": "Whole Source A",
+      "questionText": "How does the writer use language and structure in Source A to present what really matters after a storm?",
+      "bulletPoints": [
+        "You could write about the writer's tone and viewpoint",
+        "You could write about language features and structural choices",
+        "You could write about how the writer shapes the reader's response"
+      ],
+      "rubric": {
+        "name": "AO3 analysis of viewpoint",
+        "maxScore": 12,
+        "notes": "Reward analysis of how the writer uses methods to present ideas and influence the reader."
+      },
+      "packId": "p2-weather",
+      "paper": "Paper 2",
+      "packTitle": "Weather and Community"
+    },
+    {
+      "id": "p2-weather-q4",
+      "questionNumber": "Question 4",
+      "section": "Section A: Reading",
+      "markCategory": 16,
+      "questionType": "compare-perspectives",
+      "assessmentObjective": "AO3",
+      "instructionsTop": "For this question, compare how the writers convey their different perspectives or feelings.",
+      "focusLines": "Both sources",
+      "questionText": "Compare how the writers convey their perspectives on severe weather in Source A and Source B.",
+      "bulletPoints": [
+        "Compare the writers' different ideas and perspectives",
+        "Compare how they use methods to convey these views",
+        "Support your answer with references to both sources"
+      ],
+      "rubric": {
+        "name": "AO3 comparison",
+        "maxScore": 16,
+        "notes": "Reward developed comparison of perspectives and methods across both sources."
+      },
+      "packId": "p2-weather",
+      "paper": "Paper 2",
+      "packTitle": "Weather and Community"
+    },
+    {
+      "id": "p2-weather-q5",
+      "questionNumber": "Question 5",
+      "section": "Section B: Writing",
+      "markCategory": 40,
+      "questionType": "viewpoint-writing",
+      "assessmentObjective": "AO5 / AO6",
+      "instructionsTop": "Write an article, letter, speech or essay presenting a viewpoint.",
+      "questionText": "“Bad weather reveals the best and worst of people.” Write a magazine article in which you present your viewpoint on this statement.",
+      "bulletPoints": [
+        "Present a clear viewpoint and develop your ideas",
+        "Use structure and language to influence your reader",
+        "Use accurate spelling, punctuation and grammar"
+      ],
+      "rubric": {
+        "name": "AO5/AO6 viewpoint writing",
+        "maxScore": 40,
+        "notes": "Award up to 24 marks for content and organisation and up to 16 marks for technical accuracy."
+      },
+      "packId": "p2-weather",
+      "paper": "Paper 2",
+      "packTitle": "Weather and Community"
+    },
+    {
+      "id": "p1-greenhouse-q1",
+      "questionNumber": "Question 1",
+      "section": "Section A: Reading",
+      "markCategory": 4,
+      "questionType": "select-true-statements",
+      "assessmentObjective": "AO1",
+      "instructionsTop": "Read the opening of Source A.",
+      "focusLines": "Lines 1 to 4",
+      "questionText": "Choose four statements below which are TRUE.",
+      "rubric": {
+        "name": "AO1 selection",
+        "maxScore": 4,
+        "notes": "Award 1 mark for each correct statement selected, up to 4 marks."
+      },
+      "options": [
+        "A. The lift stops below the roof level.",
+        "B. Imani arrives with several friends.",
+        "C. A narrow door is already open.",
+        "D. Warm air mists Imani’s glasses.",
+        "E. The greenhouse is beneath the building.",
+        "F. The greenhouse stretches across the roof.",
+        "G. The fire exit is firmly locked.",
+        "H. Snow is falling over the greenhouse."
+      ],
+      "correctOptions": [
+        "A",
+        "C",
+        "D",
+        "F"
+      ],
+      "packId": "p1-greenhouse",
+      "paper": "Paper 1",
+      "packTitle": "The Rooftop Greenhouse"
+    },
+    {
+      "id": "p1-greenhouse-q2",
+      "questionNumber": "Question 2",
+      "section": "Section A: Reading",
+      "markCategory": 8,
+      "questionType": "language-analysis",
+      "assessmentObjective": "AO2",
+      "instructionsTop": "Read the middle section of Source A.",
+      "focusLines": "Lines 4 to 8",
+      "questionText": "How does the writer use language to describe the greenhouse and Imani’s reaction to it?",
+      "bulletPoints": [
+        "You could include the writer’s choice of words and phrases",
+        "You could include language features and techniques",
+        "You could include the effects on the reader"
+      ],
+      "rubric": {
+        "name": "AO2 language analysis",
+        "maxScore": 8,
+        "notes": "Reward clear explanation of language choices, precise references and relevant effects."
+      },
+      "packId": "p1-greenhouse",
+      "paper": "Paper 1",
+      "packTitle": "The Rooftop Greenhouse"
+    },
+    {
+      "id": "p1-greenhouse-q3",
+      "questionNumber": "Question 3",
+      "section": "Section A: Reading",
+      "markCategory": 8,
+      "questionType": "structure-analysis",
+      "assessmentObjective": "AO2",
+      "instructionsTop": "Think about the whole source.",
+      "focusLines": "Whole source",
+      "questionText": "How has the writer structured the source to interest you as a reader?",
+      "bulletPoints": [
+        "You could write about the opening focus",
+        "You could write about shifts in focus and pace",
+        "You could write about the ending"
+      ],
+      "rubric": {
+        "name": "AO2 structure analysis",
+        "maxScore": 8,
+        "notes": "Reward understanding of structural choices and effects across the source."
+      },
+      "packId": "p1-greenhouse",
+      "paper": "Paper 1",
+      "packTitle": "The Rooftop Greenhouse"
+    },
+    {
+      "id": "p1-greenhouse-q4",
+      "questionNumber": "Question 4",
+      "section": "Section A: Reading",
+      "markCategory": 20,
+      "questionType": "evaluation",
+      "assessmentObjective": "AO4",
+      "instructionsTop": "Focus on the second half of Source A.",
+      "focusLines": "Lines 7 to the end",
+      "statement": "A student said, “The greenhouse feels welcoming, but there are also signs that Imani may be walking into danger.”",
+      "questionText": "To what extent do you agree? Evaluate how the writer creates these impressions and support your ideas with references from the text.",
+      "rubric": {
+        "name": "AO4 evaluation",
+        "maxScore": 20,
+        "notes": "Reward a clear critical response, supported judgements, apt references and evaluation of methods."
+      },
+      "packId": "p1-greenhouse",
+      "paper": "Paper 1",
+      "packTitle": "The Rooftop Greenhouse"
+    },
+    {
+      "id": "p1-greenhouse-q5",
+      "questionNumber": "Question 5",
+      "section": "Section B: Writing",
+      "markCategory": 40,
+      "questionType": "creative-writing",
+      "assessmentObjective": "AO5 / AO6",
+      "instructionsTop": "Write a description or story suggested by the task.",
+      "questionText": "Either write a description of a hidden place above a busy town or city, or write a story about discovering that someone has just left.",
+      "bulletPoints": [
+        "Communicate clearly and imaginatively",
+        "Organise ideas and use a range of vocabulary and sentence forms",
+        "Use accurate spelling, punctuation and grammar"
+      ],
+      "rubric": {
+        "name": "AO5/AO6 creative writing",
+        "maxScore": 40,
+        "notes": "Award up to 24 marks for content and organisation and up to 16 marks for technical accuracy."
+      },
+      "packId": "p1-greenhouse",
+      "paper": "Paper 1",
+      "packTitle": "The Rooftop Greenhouse"
+    },
+    {
+      "id": "p2-markets-q1",
+      "questionNumber": "Question 1",
+      "section": "Section A: Reading",
+      "markCategory": 4,
+      "questionType": "select-true-statements",
+      "assessmentObjective": "AO1",
+      "instructionsTop": "Read the opening of Source A.",
+      "focusLines": "Source A, lines 1 to 8",
+      "questionText": "Choose four statements below which are TRUE.",
+      "options": [
+        "A. The market appears every Saturday.",
+        "B. Traders arrive only after the library opens.",
+        "C. People talk to neighbours at the market.",
+        "D. The writer thinks supermarkets are always more valuable.",
+        "E. New businesses can test ideas at local stalls.",
+        "F. Rain can make the market inconvenient.",
+        "G. The writer wants the market replaced by a car park.",
+        "H. The square remains empty throughout the weekend."
+      ],
+      "correctOptions": [
+        "A",
+        "C",
+        "E",
+        "F"
+      ],
+      "rubric": {
+        "name": "AO1 selection",
+        "maxScore": 4,
+        "notes": "Award 1 mark for each correct statement selected, up to 4 marks."
+      },
+      "packId": "p2-markets",
+      "paper": "Paper 2",
+      "packTitle": "Markets and High Streets"
+    },
+    {
+      "id": "p2-markets-q2",
+      "questionNumber": "Question 2",
+      "section": "Section A: Reading",
+      "markCategory": 8,
+      "questionType": "summary-compare",
+      "assessmentObjective": "AO1",
+      "instructionsTop": "Refer to both Source A and Source B.",
+      "focusLines": "Whole sources",
+      "questionText": "Use details from both sources to summarise the different experiences of visiting a market.",
+      "bulletPoints": [
+        "Identify clear similarities or differences",
+        "Use relevant evidence from both sources",
+        "Explain what the evidence suggests"
+      ],
+      "rubric": {
+        "name": "AO1 synthesis and inference",
+        "maxScore": 8,
+        "notes": "Reward accurate inference, synthesis and relevant evidence from both sources."
+      },
+      "packId": "p2-markets",
+      "paper": "Paper 2",
+      "packTitle": "Markets and High Streets"
+    },
+    {
+      "id": "p2-markets-q3",
+      "questionNumber": "Question 3",
+      "section": "Section A: Reading",
+      "markCategory": 12,
+      "questionType": "writer-methods-viewpoint",
+      "assessmentObjective": "AO2",
+      "instructionsTop": "Refer only to Source B.",
+      "focusLines": "Whole Source B",
+      "questionText": "How does the writer use language to present the market in Source B?",
+      "bulletPoints": [
+        "You could write about tone and viewpoint",
+        "You could analyse language choices",
+        "You could explain effects on the reader"
+      ],
+      "rubric": {
+        "name": "AO2 language analysis",
+        "maxScore": 12,
+        "notes": "Reward developed analysis of methods, viewpoint and effects."
+      },
+      "packId": "p2-markets",
+      "paper": "Paper 2",
+      "packTitle": "Markets and High Streets"
+    },
+    {
+      "id": "p2-markets-q4",
+      "questionNumber": "Question 4",
+      "section": "Section A: Reading",
+      "markCategory": 16,
+      "questionType": "compare-perspectives",
+      "assessmentObjective": "AO3",
+      "instructionsTop": "Compare both sources.",
+      "focusLines": "Both sources",
+      "questionText": "Compare how the writers convey their perspectives on markets and their value to a town.",
+      "bulletPoints": [
+        "Compare ideas and perspectives",
+        "Compare how methods convey those perspectives",
+        "Support your response with references to both sources"
+      ],
+      "rubric": {
+        "name": "AO3 comparison",
+        "maxScore": 16,
+        "notes": "Reward developed comparison of perspectives and methods across both sources."
+      },
+      "packId": "p2-markets",
+      "paper": "Paper 2",
+      "packTitle": "Markets and High Streets"
+    },
+    {
+      "id": "p2-markets-q5",
+      "questionNumber": "Question 5",
+      "section": "Section B: Writing",
+      "markCategory": 40,
+      "questionType": "viewpoint-writing",
+      "assessmentObjective": "AO5 / AO6",
+      "instructionsTop": "Write a speech, article, letter or essay presenting a viewpoint.",
+      "questionText": "“Town centres should focus on community spaces, not just shops.” Write an article for a local website in which you present your viewpoint on this statement.",
+      "bulletPoints": [
+        "Present a clear viewpoint and develop your ideas",
+        "Use structure and language to influence your reader",
+        "Use accurate spelling, punctuation and grammar"
+      ],
+      "rubric": {
+        "name": "AO5/AO6 viewpoint writing",
+        "maxScore": 40,
+        "notes": "Award up to 24 marks for content and organisation and up to 16 marks for technical accuracy."
+      },
+      "packId": "p2-markets",
+      "paper": "Paper 2",
+      "packTitle": "Markets and High Streets"
+    }
+  ],
+  "manifest": {
+    "packCount": 12,
+    "questionCount": 60,
+    "papers": {
+      "Paper 1": 6,
+      "Paper 2": 6
+    }
+  }
+}

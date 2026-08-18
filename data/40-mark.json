@@ -1,0 +1,291 @@
+{
+  "meta": {
+    "title": "AQA GCSE English Language Mock Paper Bank",
+    "subtitle": "Original AQA-style GCSE English Language practice papers with secure OpenAI-assisted marking",
+    "version": "3.0.0",
+    "notes": [
+      "All sources, extracts and questions are original mock materials and are not official AQA papers.",
+      "Each generated paper contains four questions worth 4, 8, 20 and 40 marks and is designed for 1 hour 25 minutes.",
+      "The browser saves the selected paper pack and student responses locally on that device."
+    ]
+  },
+  "markCategory": 40,
+  "questions": [
+    {
+      "id": "p1-harbour-q5",
+      "questionNumber": "Question 5",
+      "section": "Section B: Writing",
+      "markCategory": 40,
+      "questionType": "creative-writing",
+      "assessmentObjective": "AO5 / AO6",
+      "instructionsTop": "Write a description suggested by this picture, or write a story suggested by this title.",
+      "questionText": "Either write a description of a place that seems strange or half-hidden, or write a story about arriving somewhere before sunrise.",
+      "bulletPoints": [
+        "Communicate clearly and imaginatively",
+        "Organise ideas and use a range of vocabulary and sentence forms",
+        "Use accurate spelling, punctuation and grammar"
+      ],
+      "rubric": {
+        "name": "AO5/AO6 creative writing",
+        "maxScore": 40,
+        "notes": "Award up to 24 marks for content and organisation and up to 16 marks for technical accuracy."
+      },
+      "packId": "p1-harbour",
+      "paper": "Paper 1",
+      "packTitle": "Harbour at Dawn"
+    },
+    {
+      "id": "p1-fairground-q5",
+      "questionNumber": "Question 5",
+      "section": "Section B: Writing",
+      "markCategory": 40,
+      "questionType": "creative-writing",
+      "assessmentObjective": "AO5 / AO6",
+      "instructionsTop": "Write a description suggested by this picture, or write a story suggested by this title.",
+      "questionText": "Either write a description of an abandoned place, or write a story about returning to somewhere full of memories.",
+      "bulletPoints": [
+        "Communicate clearly and imaginatively",
+        "Organise ideas and use a range of vocabulary and sentence forms",
+        "Use accurate spelling, punctuation and grammar"
+      ],
+      "rubric": {
+        "name": "AO5/AO6 creative writing",
+        "maxScore": 40,
+        "notes": "Award up to 24 marks for content and organisation and up to 16 marks for technical accuracy."
+      },
+      "packId": "p1-fairground",
+      "paper": "Paper 1",
+      "packTitle": "The Closed Fairground"
+    },
+    {
+      "id": "p1-library-q5",
+      "questionNumber": "Question 5",
+      "section": "Section B: Writing",
+      "markCategory": 40,
+      "questionType": "creative-writing",
+      "assessmentObjective": "AO5 / AO6",
+      "instructionsTop": "Write a description suggested by this picture, or write a story suggested by this title.",
+      "questionText": "Either write a description of exploring a building after hours, or write a story about discovering a hidden room.",
+      "bulletPoints": [
+        "Communicate clearly and imaginatively",
+        "Organise ideas and use a range of vocabulary and sentence forms",
+        "Use accurate spelling, punctuation and grammar"
+      ],
+      "rubric": {
+        "name": "AO5/AO6 creative writing",
+        "maxScore": 40,
+        "notes": "Award up to 24 marks for content and organisation and up to 16 marks for technical accuracy."
+      },
+      "packId": "p1-library",
+      "paper": "Paper 1",
+      "packTitle": "The Library Stairwell"
+    },
+    {
+      "id": "p1-bridge-q5",
+      "questionNumber": "Question 5",
+      "section": "Section B: Writing",
+      "markCategory": 40,
+      "questionType": "creative-writing",
+      "assessmentObjective": "AO5 / AO6",
+      "instructionsTop": "Write a description suggested by this picture, or write a story suggested by this title.",
+      "questionText": "Either write a description of a place after extreme weather, or write a story about a community rebuilding something important.",
+      "bulletPoints": [
+        "Communicate clearly and imaginatively",
+        "Organise ideas and use a range of vocabulary and sentence forms",
+        "Use accurate spelling, punctuation and grammar"
+      ],
+      "rubric": {
+        "name": "AO5/AO6 creative writing",
+        "maxScore": 40,
+        "notes": "Award up to 24 marks for content and organisation and up to 16 marks for technical accuracy."
+      },
+      "packId": "p1-bridge",
+      "paper": "Paper 1",
+      "packTitle": "The Bridge After the Flood"
+    },
+    {
+      "id": "p1-busdepot-q5",
+      "questionNumber": "Question 5",
+      "section": "Section B: Writing",
+      "markCategory": 40,
+      "questionType": "creative-writing",
+      "assessmentObjective": "AO5 / AO6",
+      "instructionsTop": "Write a description suggested by this picture, or write a story suggested by this title.",
+      "questionText": "Either write a description of a cold morning at work, or write a story about making a difficult practical decision.",
+      "bulletPoints": [
+        "Communicate clearly and imaginatively",
+        "Organise ideas and use a range of vocabulary and sentence forms",
+        "Use accurate spelling, punctuation and grammar"
+      ],
+      "rubric": {
+        "name": "AO5/AO6 creative writing",
+        "maxScore": 40,
+        "notes": "Award up to 24 marks for content and organisation and up to 16 marks for technical accuracy."
+      },
+      "packId": "p1-busdepot",
+      "paper": "Paper 1",
+      "packTitle": "The Winter Bus Depot"
+    },
+    {
+      "id": "p2-schoolday-q5",
+      "questionNumber": "Question 5",
+      "section": "Section B: Writing",
+      "markCategory": 40,
+      "questionType": "viewpoint-writing",
+      "assessmentObjective": "AO5 / AO6",
+      "instructionsTop": "Write an article, letter, speech or essay presenting a viewpoint.",
+      "questionText": "“Schools should do more to protect young people's free time.” Write a speech for your school or college in which you present your viewpoint on this statement.",
+      "bulletPoints": [
+        "Present a clear viewpoint and develop your ideas",
+        "Use structure and language to influence your reader",
+        "Use accurate spelling, punctuation and grammar"
+      ],
+      "rubric": {
+        "name": "AO5/AO6 viewpoint writing",
+        "maxScore": 40,
+        "notes": "Award up to 24 marks for content and organisation and up to 16 marks for technical accuracy."
+      },
+      "packId": "p2-schoolday",
+      "paper": "Paper 2",
+      "packTitle": "School and Rest"
+    },
+    {
+      "id": "p2-seaside-q5",
+      "questionNumber": "Question 5",
+      "section": "Section B: Writing",
+      "markCategory": 40,
+      "questionType": "viewpoint-writing",
+      "assessmentObjective": "AO5 / AO6",
+      "instructionsTop": "Write an article, letter, speech or essay presenting a viewpoint.",
+      "questionText": "“Tourism improves places more than it damages them.” Write an article for a local newspaper in which you present your viewpoint on this statement.",
+      "bulletPoints": [
+        "Present a clear viewpoint and develop your ideas",
+        "Use structure and language to influence your reader",
+        "Use accurate spelling, punctuation and grammar"
+      ],
+      "rubric": {
+        "name": "AO5/AO6 viewpoint writing",
+        "maxScore": 40,
+        "notes": "Award up to 24 marks for content and organisation and up to 16 marks for technical accuracy."
+      },
+      "packId": "p2-seaside",
+      "paper": "Paper 2",
+      "packTitle": "The Seaside"
+    },
+    {
+      "id": "p2-commute-q5",
+      "questionNumber": "Question 5",
+      "section": "Section B: Writing",
+      "markCategory": 40,
+      "questionType": "viewpoint-writing",
+      "assessmentObjective": "AO5 / AO6",
+      "instructionsTop": "Write an article, letter, speech or essay presenting a viewpoint.",
+      "questionText": "“Public transport says a lot about a society.” Write an essay in which you present your viewpoint on this statement.",
+      "bulletPoints": [
+        "Present a clear viewpoint and develop your ideas",
+        "Use structure and language to influence your reader",
+        "Use accurate spelling, punctuation and grammar"
+      ],
+      "rubric": {
+        "name": "AO5/AO6 viewpoint writing",
+        "maxScore": 40,
+        "notes": "Award up to 24 marks for content and organisation and up to 16 marks for technical accuracy."
+      },
+      "packId": "p2-commute",
+      "paper": "Paper 2",
+      "packTitle": "Travelling to Work"
+    },
+    {
+      "id": "p2-libraries-q5",
+      "questionNumber": "Question 5",
+      "section": "Section B: Writing",
+      "markCategory": 40,
+      "questionType": "viewpoint-writing",
+      "assessmentObjective": "AO5 / AO6",
+      "instructionsTop": "Write an article, letter, speech or essay presenting a viewpoint.",
+      "questionText": "“Every town should protect free public spaces where people can simply be.” Write a letter to your local council in which you present your viewpoint.",
+      "bulletPoints": [
+        "Present a clear viewpoint and develop your ideas",
+        "Use structure and language to influence your reader",
+        "Use accurate spelling, punctuation and grammar"
+      ],
+      "rubric": {
+        "name": "AO5/AO6 viewpoint writing",
+        "maxScore": 40,
+        "notes": "Award up to 24 marks for content and organisation and up to 16 marks for technical accuracy."
+      },
+      "packId": "p2-libraries",
+      "paper": "Paper 2",
+      "packTitle": "Libraries and Community"
+    },
+    {
+      "id": "p2-weather-q5",
+      "questionNumber": "Question 5",
+      "section": "Section B: Writing",
+      "markCategory": 40,
+      "questionType": "viewpoint-writing",
+      "assessmentObjective": "AO5 / AO6",
+      "instructionsTop": "Write an article, letter, speech or essay presenting a viewpoint.",
+      "questionText": "“Bad weather reveals the best and worst of people.” Write a magazine article in which you present your viewpoint on this statement.",
+      "bulletPoints": [
+        "Present a clear viewpoint and develop your ideas",
+        "Use structure and language to influence your reader",
+        "Use accurate spelling, punctuation and grammar"
+      ],
+      "rubric": {
+        "name": "AO5/AO6 viewpoint writing",
+        "maxScore": 40,
+        "notes": "Award up to 24 marks for content and organisation and up to 16 marks for technical accuracy."
+      },
+      "packId": "p2-weather",
+      "paper": "Paper 2",
+      "packTitle": "Weather and Community"
+    },
+    {
+      "id": "p1-greenhouse-q5",
+      "questionNumber": "Question 5",
+      "section": "Section B: Writing",
+      "markCategory": 40,
+      "questionType": "creative-writing",
+      "assessmentObjective": "AO5 / AO6",
+      "instructionsTop": "Write a description or story suggested by the task.",
+      "questionText": "Either write a description of a hidden place above a busy town or city, or write a story about discovering that someone has just left.",
+      "bulletPoints": [
+        "Communicate clearly and imaginatively",
+        "Organise ideas and use a range of vocabulary and sentence forms",
+        "Use accurate spelling, punctuation and grammar"
+      ],
+      "rubric": {
+        "name": "AO5/AO6 creative writing",
+        "maxScore": 40,
+        "notes": "Award up to 24 marks for content and organisation and up to 16 marks for technical accuracy."
+      },
+      "packId": "p1-greenhouse",
+      "paper": "Paper 1",
+      "packTitle": "The Rooftop Greenhouse"
+    },
+    {
+      "id": "p2-markets-q5",
+      "questionNumber": "Question 5",
+      "section": "Section B: Writing",
+      "markCategory": 40,
+      "questionType": "viewpoint-writing",
+      "assessmentObjective": "AO5 / AO6",
+      "instructionsTop": "Write a speech, article, letter or essay presenting a viewpoint.",
+      "questionText": "“Town centres should focus on community spaces, not just shops.” Write an article for a local website in which you present your viewpoint on this statement.",
+      "bulletPoints": [
+        "Present a clear viewpoint and develop your ideas",
+        "Use structure and language to influence your reader",
+        "Use accurate spelling, punctuation and grammar"
+      ],
+      "rubric": {
+        "name": "AO5/AO6 viewpoint writing",
+        "maxScore": 40,
+        "notes": "Award up to 24 marks for content and organisation and up to 16 marks for technical accuracy."
+      },
+      "packId": "p2-markets",
+      "paper": "Paper 2",
+      "packTitle": "Markets and High Streets"
+    }
+  ]
+}

@@ -1,0 +1,435 @@
+{
+  "meta": {
+    "title": "AQA GCSE English Language Mock Paper Bank",
+    "subtitle": "Original AQA-style GCSE English Language practice papers with secure OpenAI-assisted marking",
+    "version": "3.0.0",
+    "notes": [
+      "All sources, extracts and questions are original mock materials and are not official AQA papers.",
+      "Each generated paper contains four questions worth 4, 8, 20 and 40 marks and is designed for 1 hour 25 minutes.",
+      "The browser saves the selected paper pack and student responses locally on that device."
+    ]
+  },
+  "markCategory": 4,
+  "questions": [
+    {
+      "id": "p1-harbour-q1",
+      "questionNumber": "Question 1",
+      "section": "Section A: Reading",
+      "markCategory": 4,
+      "questionType": "select-true-statements",
+      "assessmentObjective": "AO1",
+      "instructionsTop": "Read again the first part of Source A, lines 1 to 4.",
+      "focusLines": "Lines 1 to 4",
+      "questionText": "Choose four statements below which are TRUE.",
+      "rubric": {
+        "name": "AO1 selection",
+        "maxScore": 4,
+        "notes": "Award 1 mark for each correct statement chosen, up to 4 marks. No explanation is required."
+      },
+      "options": [
+        "A. The harbour appears gradually out of the fog.",
+        "B. The water is shining brightly in the sun.",
+        "C. A bell is striking somewhere beyond the water.",
+        "D. The pier posts are black and wet with rain.",
+        "E. Mara is running along the pier.",
+        "F. Ropes knock softly against wooden masts.",
+        "G. A crowd is waiting by the harbour wall.",
+        "H. Boats are already leaving the harbour."
+      ],
+      "correctOptions": [
+        "A",
+        "C",
+        "D",
+        "F"
+      ],
+      "packId": "p1-harbour",
+      "paper": "Paper 1",
+      "packTitle": "Harbour at Dawn"
+    },
+    {
+      "id": "p1-fairground-q1",
+      "questionNumber": "Question 1",
+      "section": "Section A: Reading",
+      "markCategory": 4,
+      "questionType": "select-true-statements",
+      "assessmentObjective": "AO1",
+      "instructionsTop": "Read again the first part of Source A, lines 1 to 4.",
+      "focusLines": "Lines 1 to 4",
+      "questionText": "Choose four statements below which are TRUE.",
+      "rubric": {
+        "name": "AO1 selection",
+        "maxScore": 4,
+        "notes": "Award 1 mark for each correct statement chosen, up to 4 marks. No explanation is required."
+      },
+      "options": [
+        "A. The gates are locked and wet with rain.",
+        "B. Music is playing across the fairground.",
+        "C. The rides are standing completely still.",
+        "D. The ferris wheel bulbs are brightly lit.",
+        "E. A torn poster slaps against a kiosk in the wind.",
+        "F. The ferris wheel bulbs are not lit.",
+        "G. Jonah is already inside the fairground.",
+        "H. Crowds are queuing at the gate."
+      ],
+      "correctOptions": [
+        "A",
+        "C",
+        "E",
+        "F"
+      ],
+      "packId": "p1-fairground",
+      "paper": "Paper 1",
+      "packTitle": "The Closed Fairground"
+    },
+    {
+      "id": "p1-library-q1",
+      "questionNumber": "Question 1",
+      "section": "Section A: Reading",
+      "markCategory": 4,
+      "questionType": "select-true-statements",
+      "assessmentObjective": "AO1",
+      "instructionsTop": "Read again the first part of Source A, lines 1 to 4.",
+      "focusLines": "Lines 1 to 4",
+      "questionText": "Choose four statements below which are TRUE.",
+      "rubric": {
+        "name": "AO1 selection",
+        "maxScore": 4,
+        "notes": "Award 1 mark for each correct statement chosen, up to 4 marks. No explanation is required."
+      },
+      "options": [
+        "A. The library had already closed.",
+        "B. There is a light under the basement door.",
+        "C. Every shelf upstairs is in shadow.",
+        "D. People are speaking loudly in the entrance hall.",
+        "E. The returns desk glows faintly from the streetlamp outside.",
+        "F. Lina is sitting at the returns desk.",
+        "G. Rain is hammering against the windows.",
+        "H. The basement door is hanging open."
+      ],
+      "correctOptions": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "packId": "p1-library",
+      "paper": "Paper 1",
+      "packTitle": "The Library Stairwell"
+    },
+    {
+      "id": "p1-bridge-q1",
+      "questionNumber": "Question 1",
+      "section": "Section A: Reading",
+      "markCategory": 4,
+      "questionType": "select-true-statements",
+      "assessmentObjective": "AO1",
+      "instructionsTop": "Read again the first part of Source A, lines 1 to 4.",
+      "focusLines": "Lines 1 to 4",
+      "questionText": "Choose four statements below which are TRUE.",
+      "rubric": {
+        "name": "AO1 selection",
+        "maxScore": 4,
+        "notes": "Award 1 mark for each correct statement chosen, up to 4 marks. No explanation is required."
+      },
+      "options": [
+        "A. The river has dropped enough for the bridge to show again.",
+        "B. The bridge is hidden by thick fog.",
+        "C. The bridge rises out of brown water.",
+        "D. Branches and plastic bottles cling to the arches.",
+        "E. Mud stripes the handrail.",
+        "F. The water is clear and shallow.",
+        "G. The bridge is made of metal.",
+        "H. Nadia is already sweeping the bridge."
+      ],
+      "correctOptions": [
+        "A",
+        "C",
+        "D",
+        "E"
+      ],
+      "packId": "p1-bridge",
+      "paper": "Paper 1",
+      "packTitle": "The Bridge After the Flood"
+    },
+    {
+      "id": "p1-busdepot-q1",
+      "questionNumber": "Question 1",
+      "section": "Section A: Reading",
+      "markCategory": 4,
+      "questionType": "select-true-statements",
+      "assessmentObjective": "AO1",
+      "instructionsTop": "Read again the first part of Source A, lines 1 to 4.",
+      "focusLines": "Lines 1 to 4",
+      "questionText": "Choose four statements below which are TRUE.",
+      "rubric": {
+        "name": "AO1 selection",
+        "maxScore": 4,
+        "notes": "Award 1 mark for each correct statement chosen, up to 4 marks. No explanation is required."
+      },
+      "options": [
+        "A. Snow has frozen in ridges across the yard.",
+        "B. The buses look large, silent and blind.",
+        "C. Orange light comes from the maintenance shed.",
+        "D. Children are waiting at the depot gates.",
+        "E. A radio is whispering the early news.",
+        "F. The windows are wide open.",
+        "G. The buses are moving in and out of the depot.",
+        "H. The yard is filled with summer heat."
+      ],
+      "correctOptions": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "packId": "p1-busdepot",
+      "paper": "Paper 1",
+      "packTitle": "The Winter Bus Depot"
+    },
+    {
+      "id": "p2-schoolday-q1",
+      "questionNumber": "Question 1",
+      "section": "Section A: Reading",
+      "markCategory": 4,
+      "questionType": "select-true-statements",
+      "assessmentObjective": "AO1",
+      "instructionsTop": "Read again Source A, lines 1 to 8.",
+      "focusLines": "Source A, lines 1 to 8",
+      "questionText": "Choose four statements below which are TRUE.",
+      "options": [
+        "A. Students receive homework reminders on their phones.",
+        "B. The writer says teachers deliberately want to exhaust students.",
+        "C. Some students check their phones during dinner.",
+        "D. The writer argues that rest time is important.",
+        "E. The writer believes homework should be banned completely.",
+        "F. The writer thinks schools should protect recovery time.",
+        "G. The writer says students should spend every evening revising.",
+        "H. The writer thinks balance matters."
+      ],
+      "correctOptions": [
+        "A",
+        "C",
+        "D",
+        "F"
+      ],
+      "rubric": {
+        "name": "AO1 selection",
+        "maxScore": 4,
+        "notes": "Award 1 mark for each correct statement chosen, up to 4 marks."
+      },
+      "packId": "p2-schoolday",
+      "paper": "Paper 2",
+      "packTitle": "School and Rest"
+    },
+    {
+      "id": "p2-seaside-q1",
+      "questionNumber": "Question 1",
+      "section": "Section A: Reading",
+      "markCategory": 4,
+      "questionType": "select-true-statements",
+      "assessmentObjective": "AO1",
+      "instructionsTop": "Read again Source A, lines 1 to 8.",
+      "focusLines": "Source A, lines 1 to 8",
+      "questionText": "Choose four statements below which are TRUE.",
+      "options": [
+        "A. The modern writer says the chip shop queue starts late in the evening.",
+        "B. The modern writer suggests visitors can feel invasive to residents.",
+        "C. The modern writer says the beach is quiet again by Monday morning.",
+        "D. The modern writer thinks seaside towns could survive without visitors.",
+        "E. The modern writer says beauty attracts people.",
+        "F. The modern writer says visitors bring only benefits.",
+        "G. The modern writer says crowds create noise and litter.",
+        "H. The modern writer says the promenade is being rebuilt."
+      ],
+      "correctOptions": [
+        "B",
+        "C",
+        "E",
+        "G"
+      ],
+      "rubric": {
+        "name": "AO1 selection",
+        "maxScore": 4,
+        "notes": "Award 1 mark for each correct statement chosen, up to 4 marks."
+      },
+      "packId": "p2-seaside",
+      "paper": "Paper 2",
+      "packTitle": "The Seaside"
+    },
+    {
+      "id": "p2-commute-q1",
+      "questionNumber": "Question 1",
+      "section": "Section A: Reading",
+      "markCategory": 4,
+      "questionType": "select-true-statements",
+      "assessmentObjective": "AO1",
+      "instructionsTop": "Read again Source A, lines 1 to 8.",
+      "focusLines": "Source A, lines 1 to 8",
+      "questionText": "Choose four statements below which are TRUE.",
+      "options": [
+        "A. The modern writer says commuters chat cheerfully on the platform.",
+        "B. The modern writer says commuters stand where they expect the doors to open.",
+        "C. The modern writer says commuting depends on small acts of cooperation.",
+        "D. The modern writer says cancelled trains usually improve people's moods.",
+        "E. The modern writer mentions coffee cups.",
+        "F. The modern writer says commuting is glamorous.",
+        "G. The modern writer says patience can run out.",
+        "H. The modern writer says the platform is empty."
+      ],
+      "correctOptions": [
+        "B",
+        "C",
+        "E",
+        "G"
+      ],
+      "rubric": {
+        "name": "AO1 selection",
+        "maxScore": 4,
+        "notes": "Award 1 mark for each correct statement chosen, up to 4 marks."
+      },
+      "packId": "p2-commute",
+      "paper": "Paper 2",
+      "packTitle": "Travelling to Work"
+    },
+    {
+      "id": "p2-libraries-q1",
+      "questionNumber": "Question 1",
+      "section": "Section A: Reading",
+      "markCategory": 4,
+      "questionType": "select-true-statements",
+      "assessmentObjective": "AO1",
+      "instructionsTop": "Read again Source A, lines 1 to 8.",
+      "focusLines": "Source A, lines 1 to 8",
+      "questionText": "Choose four statements below which are TRUE.",
+      "options": [
+        "A. The modern writer says libraries are mainly about selling books.",
+        "B. The modern writer says some people use libraries because their homes are noisy.",
+        "C. The modern writer says officials always understand the true value of libraries.",
+        "D. The modern writer says libraries offer more than books.",
+        "E. The modern writer says a closed library can affect community belonging.",
+        "F. The modern writer says libraries should be silent at all times.",
+        "G. The modern writer mentions parents with toddlers.",
+        "H. The modern writer says libraries are never warm."
+      ],
+      "correctOptions": [
+        "B",
+        "D",
+        "E",
+        "G"
+      ],
+      "rubric": {
+        "name": "AO1 selection",
+        "maxScore": 4,
+        "notes": "Award 1 mark for each correct statement chosen, up to 4 marks."
+      },
+      "packId": "p2-libraries",
+      "paper": "Paper 2",
+      "packTitle": "Libraries and Community"
+    },
+    {
+      "id": "p2-weather-q1",
+      "questionNumber": "Question 1",
+      "section": "Section A: Reading",
+      "markCategory": 4,
+      "questionType": "select-true-statements",
+      "assessmentObjective": "AO1",
+      "instructionsTop": "Read again Source A, lines 1 to 8.",
+      "focusLines": "Source A, lines 1 to 8",
+      "questionText": "Choose four statements below which are TRUE.",
+      "options": [
+        "A. The modern writer says the storm caused no damage.",
+        "B. The modern writer says neighbours were outside by breakfast.",
+        "C. The modern writer says the post office road had become a stream.",
+        "D. The modern writer says the storm only matters because of dramatic pictures.",
+        "E. The modern writer says storms test habits as well as buildings.",
+        "F. The modern writer says nobody shared anything after the storm.",
+        "G. The modern writer says a shopkeeper opened despite damage.",
+        "H. The modern writer says forecasts are untidy."
+      ],
+      "correctOptions": [
+        "B",
+        "C",
+        "E",
+        "G"
+      ],
+      "rubric": {
+        "name": "AO1 selection",
+        "maxScore": 4,
+        "notes": "Award 1 mark for each correct statement chosen, up to 4 marks."
+      },
+      "packId": "p2-weather",
+      "paper": "Paper 2",
+      "packTitle": "Weather and Community"
+    },
+    {
+      "id": "p1-greenhouse-q1",
+      "questionNumber": "Question 1",
+      "section": "Section A: Reading",
+      "markCategory": 4,
+      "questionType": "select-true-statements",
+      "assessmentObjective": "AO1",
+      "instructionsTop": "Read the opening of Source A.",
+      "focusLines": "Lines 1 to 4",
+      "questionText": "Choose four statements below which are TRUE.",
+      "rubric": {
+        "name": "AO1 selection",
+        "maxScore": 4,
+        "notes": "Award 1 mark for each correct statement selected, up to 4 marks."
+      },
+      "options": [
+        "A. The lift stops below the roof level.",
+        "B. Imani arrives with several friends.",
+        "C. A narrow door is already open.",
+        "D. Warm air mists Imani’s glasses.",
+        "E. The greenhouse is beneath the building.",
+        "F. The greenhouse stretches across the roof.",
+        "G. The fire exit is firmly locked.",
+        "H. Snow is falling over the greenhouse."
+      ],
+      "correctOptions": [
+        "A",
+        "C",
+        "D",
+        "F"
+      ],
+      "packId": "p1-greenhouse",
+      "paper": "Paper 1",
+      "packTitle": "The Rooftop Greenhouse"
+    },
+    {
+      "id": "p2-markets-q1",
+      "questionNumber": "Question 1",
+      "section": "Section A: Reading",
+      "markCategory": 4,
+      "questionType": "select-true-statements",
+      "assessmentObjective": "AO1",
+      "instructionsTop": "Read the opening of Source A.",
+      "focusLines": "Source A, lines 1 to 8",
+      "questionText": "Choose four statements below which are TRUE.",
+      "options": [
+        "A. The market appears every Saturday.",
+        "B. Traders arrive only after the library opens.",
+        "C. People talk to neighbours at the market.",
+        "D. The writer thinks supermarkets are always more valuable.",
+        "E. New businesses can test ideas at local stalls.",
+        "F. Rain can make the market inconvenient.",
+        "G. The writer wants the market replaced by a car park.",
+        "H. The square remains empty throughout the weekend."
+      ],
+      "correctOptions": [
+        "A",
+        "C",
+        "E",
+        "F"
+      ],
+      "rubric": {
+        "name": "AO1 selection",
+        "maxScore": 4,
+        "notes": "Award 1 mark for each correct statement selected, up to 4 marks."
+      },
+      "packId": "p2-markets",
+      "paper": "Paper 2",
+      "packTitle": "Markets and High Streets"
+    }
+  ]
+}

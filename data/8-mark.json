@@ -1,0 +1,447 @@
+{
+  "meta": {
+    "title": "AQA GCSE English Language Mock Paper Bank",
+    "subtitle": "Original AQA-style GCSE English Language practice papers with secure OpenAI-assisted marking",
+    "version": "3.0.0",
+    "notes": [
+      "All sources, extracts and questions are original mock materials and are not official AQA papers.",
+      "Each generated paper contains four questions worth 4, 8, 20 and 40 marks and is designed for 1 hour 25 minutes.",
+      "The browser saves the selected paper pack and student responses locally on that device."
+    ]
+  },
+  "markCategory": 8,
+  "questions": [
+    {
+      "id": "p1-harbour-q2",
+      "questionNumber": "Question 2",
+      "section": "Section A: Reading",
+      "markCategory": 8,
+      "questionType": "language-analysis",
+      "assessmentObjective": "AO2",
+      "instructionsTop": "Look in detail at Lines 4 to 8 of Source A.",
+      "focusLines": "Lines 4 to 8",
+      "questionText": "How does the writer use language to describe the harbour and Mara's feelings?",
+      "bulletPoints": [
+        "You could include the writer's choice of words and phrases",
+        "You could include language features and techniques",
+        "You could include the effects on the reader"
+      ],
+      "rubric": {
+        "name": "AO2 language analysis",
+        "maxScore": 8,
+        "notes": "Reward clear explanation of language choices, precise references, and relevant effects."
+      },
+      "packId": "p1-harbour",
+      "paper": "Paper 1",
+      "packTitle": "Harbour at Dawn"
+    },
+    {
+      "id": "p1-harbour-q3",
+      "questionNumber": "Question 3",
+      "section": "Section A: Reading",
+      "markCategory": 8,
+      "questionType": "structure-analysis",
+      "assessmentObjective": "AO2",
+      "instructionsTop": "You now need to think about the whole of the source.",
+      "focusLines": "Whole source",
+      "questionText": "How has the writer structured the source to interest you as a reader?",
+      "bulletPoints": [
+        "You could write about what the writer focuses your attention on at the beginning",
+        "You could write about how and why the writer changes this focus as the source develops",
+        "You could write about structural features, shifts, contrasts and endings"
+      ],
+      "rubric": {
+        "name": "AO2 structure analysis",
+        "maxScore": 8,
+        "notes": "Reward understanding of structural methods and their effects across the source, supported by relevant references."
+      },
+      "packId": "p1-harbour",
+      "paper": "Paper 1",
+      "packTitle": "Harbour at Dawn"
+    },
+    {
+      "id": "p1-fairground-q2",
+      "questionNumber": "Question 2",
+      "section": "Section A: Reading",
+      "markCategory": 8,
+      "questionType": "language-analysis",
+      "assessmentObjective": "AO2",
+      "instructionsTop": "Look in detail at Lines 5 to 9 of Source A.",
+      "focusLines": "Lines 5 to 9",
+      "questionText": "How does the writer use language to present the fairground as both familiar and unsettling?",
+      "bulletPoints": [
+        "You could include the writer's choice of words and phrases",
+        "You could include language features and techniques",
+        "You could include the effects on the reader"
+      ],
+      "rubric": {
+        "name": "AO2 language analysis",
+        "maxScore": 8,
+        "notes": "Reward clear explanation of language choices, precise references, and relevant effects."
+      },
+      "packId": "p1-fairground",
+      "paper": "Paper 1",
+      "packTitle": "The Closed Fairground"
+    },
+    {
+      "id": "p1-fairground-q3",
+      "questionNumber": "Question 3",
+      "section": "Section A: Reading",
+      "markCategory": 8,
+      "questionType": "structure-analysis",
+      "assessmentObjective": "AO2",
+      "instructionsTop": "You now need to think about the whole of the source.",
+      "focusLines": "Whole source",
+      "questionText": "How has the writer structured the source to hold your interest?",
+      "bulletPoints": [
+        "You could write about what the writer focuses your attention on at the beginning",
+        "You could write about how and why the writer changes this focus as the source develops",
+        "You could write about structural features, shifts, contrasts and endings"
+      ],
+      "rubric": {
+        "name": "AO2 structure analysis",
+        "maxScore": 8,
+        "notes": "Reward understanding of structural methods and their effects across the source, supported by relevant references."
+      },
+      "packId": "p1-fairground",
+      "paper": "Paper 1",
+      "packTitle": "The Closed Fairground"
+    },
+    {
+      "id": "p1-library-q2",
+      "questionNumber": "Question 2",
+      "section": "Section A: Reading",
+      "markCategory": 8,
+      "questionType": "language-analysis",
+      "assessmentObjective": "AO2",
+      "instructionsTop": "Look in detail at Lines 5 to 8 of Source A.",
+      "focusLines": "Lines 5 to 8",
+      "questionText": "How does the writer use language to make Lina's descent into the basement seem tense and mysterious?",
+      "bulletPoints": [
+        "You could include the writer's choice of words and phrases",
+        "You could include language features and techniques",
+        "You could include the effects on the reader"
+      ],
+      "rubric": {
+        "name": "AO2 language analysis",
+        "maxScore": 8,
+        "notes": "Reward clear explanation of language choices, precise references, and relevant effects."
+      },
+      "packId": "p1-library",
+      "paper": "Paper 1",
+      "packTitle": "The Library Stairwell"
+    },
+    {
+      "id": "p1-library-q3",
+      "questionNumber": "Question 3",
+      "section": "Section A: Reading",
+      "markCategory": 8,
+      "questionType": "structure-analysis",
+      "assessmentObjective": "AO2",
+      "instructionsTop": "You now need to think about the whole of the source.",
+      "focusLines": "Whole source",
+      "questionText": "How has the writer structured the source to build suspense?",
+      "bulletPoints": [
+        "You could write about what the writer focuses your attention on at the beginning",
+        "You could write about how and why the writer changes this focus as the source develops",
+        "You could write about structural features, shifts, contrasts and endings"
+      ],
+      "rubric": {
+        "name": "AO2 structure analysis",
+        "maxScore": 8,
+        "notes": "Reward understanding of structural methods and their effects across the source, supported by relevant references."
+      },
+      "packId": "p1-library",
+      "paper": "Paper 1",
+      "packTitle": "The Library Stairwell"
+    },
+    {
+      "id": "p1-bridge-q2",
+      "questionNumber": "Question 2",
+      "section": "Section A: Reading",
+      "markCategory": 8,
+      "questionType": "language-analysis",
+      "assessmentObjective": "AO2",
+      "instructionsTop": "Look in detail at Lines 6 to 10 of Source A.",
+      "focusLines": "Lines 6 to 10",
+      "questionText": "How does the writer use language to show both damage and hope in this part of the source?",
+      "bulletPoints": [
+        "You could include the writer's choice of words and phrases",
+        "You could include language features and techniques",
+        "You could include the effects on the reader"
+      ],
+      "rubric": {
+        "name": "AO2 language analysis",
+        "maxScore": 8,
+        "notes": "Reward clear explanation of language choices, precise references, and relevant effects."
+      },
+      "packId": "p1-bridge",
+      "paper": "Paper 1",
+      "packTitle": "The Bridge After the Flood"
+    },
+    {
+      "id": "p1-bridge-q3",
+      "questionNumber": "Question 3",
+      "section": "Section A: Reading",
+      "markCategory": 8,
+      "questionType": "structure-analysis",
+      "assessmentObjective": "AO2",
+      "instructionsTop": "You now need to think about the whole of the source.",
+      "focusLines": "Whole source",
+      "questionText": "How has the writer structured the source to move from destruction towards recovery?",
+      "bulletPoints": [
+        "You could write about what the writer focuses your attention on at the beginning",
+        "You could write about how and why the writer changes this focus as the source develops",
+        "You could write about structural features, shifts, contrasts and endings"
+      ],
+      "rubric": {
+        "name": "AO2 structure analysis",
+        "maxScore": 8,
+        "notes": "Reward understanding of structural methods and their effects across the source, supported by relevant references."
+      },
+      "packId": "p1-bridge",
+      "paper": "Paper 1",
+      "packTitle": "The Bridge After the Flood"
+    },
+    {
+      "id": "p1-busdepot-q2",
+      "questionNumber": "Question 2",
+      "section": "Section A: Reading",
+      "markCategory": 8,
+      "questionType": "language-analysis",
+      "assessmentObjective": "AO2",
+      "instructionsTop": "Look in detail at Lines 8 to 12 of Source A.",
+      "focusLines": "Lines 8 to 12",
+      "questionText": "How does the writer use language to present Imran's sense of duty in this part of the source?",
+      "bulletPoints": [
+        "You could include the writer's choice of words and phrases",
+        "You could include language features and techniques",
+        "You could include the effects on the reader"
+      ],
+      "rubric": {
+        "name": "AO2 language analysis",
+        "maxScore": 8,
+        "notes": "Reward clear explanation of language choices, precise references, and relevant effects."
+      },
+      "packId": "p1-busdepot",
+      "paper": "Paper 1",
+      "packTitle": "The Winter Bus Depot"
+    },
+    {
+      "id": "p1-busdepot-q3",
+      "questionNumber": "Question 3",
+      "section": "Section A: Reading",
+      "markCategory": 8,
+      "questionType": "structure-analysis",
+      "assessmentObjective": "AO2",
+      "instructionsTop": "You now need to think about the whole of the source.",
+      "focusLines": "Whole source",
+      "questionText": "How has the writer structured the source to show Imran moving from hesitation to action?",
+      "bulletPoints": [
+        "You could write about what the writer focuses your attention on at the beginning",
+        "You could write about how and why the writer changes this focus as the source develops",
+        "You could write about structural features, shifts, contrasts and endings"
+      ],
+      "rubric": {
+        "name": "AO2 structure analysis",
+        "maxScore": 8,
+        "notes": "Reward understanding of structural methods and their effects across the source, supported by relevant references."
+      },
+      "packId": "p1-busdepot",
+      "paper": "Paper 1",
+      "packTitle": "The Winter Bus Depot"
+    },
+    {
+      "id": "p2-schoolday-q2",
+      "questionNumber": "Question 2",
+      "section": "Section A: Reading",
+      "markCategory": 8,
+      "questionType": "summary-compare",
+      "assessmentObjective": "AO1 / AO4",
+      "instructionsTop": "You need to refer to both Source A and Source B for this question.",
+      "focusLines": "Whole sources",
+      "questionText": "Use details from both sources to write a summary of the different ways the writers experience time away from school.",
+      "bulletPoints": [
+        "Write a summary of the differences and similarities",
+        "Use clear references to both sources",
+        "Focus on what each writer says about the topic"
+      ],
+      "rubric": {
+        "name": "AO1/AO4 summary",
+        "maxScore": 8,
+        "notes": "Reward clear, comparative summary using relevant references from both sources."
+      },
+      "packId": "p2-schoolday",
+      "paper": "Paper 2",
+      "packTitle": "School and Rest"
+    },
+    {
+      "id": "p2-seaside-q2",
+      "questionNumber": "Question 2",
+      "section": "Section A: Reading",
+      "markCategory": 8,
+      "questionType": "summary-compare",
+      "assessmentObjective": "AO1 / AO4",
+      "instructionsTop": "You need to refer to both Source A and Source B for this question.",
+      "focusLines": "Whole sources",
+      "questionText": "Use details from both sources to write a summary of what the seaside offers, and what problems it can create.",
+      "bulletPoints": [
+        "Write a summary of the differences and similarities",
+        "Use clear references to both sources",
+        "Focus on what each writer says about the topic"
+      ],
+      "rubric": {
+        "name": "AO1/AO4 summary",
+        "maxScore": 8,
+        "notes": "Reward clear, comparative summary using relevant references from both sources."
+      },
+      "packId": "p2-seaside",
+      "paper": "Paper 2",
+      "packTitle": "The Seaside"
+    },
+    {
+      "id": "p2-commute-q2",
+      "questionNumber": "Question 2",
+      "section": "Section A: Reading",
+      "markCategory": 8,
+      "questionType": "summary-compare",
+      "assessmentObjective": "AO1 / AO4",
+      "instructionsTop": "You need to refer to both Source A and Source B for this question.",
+      "focusLines": "Whole sources",
+      "questionText": "Use details from both sources to write a summary of what travelling with other people is like for the writers.",
+      "bulletPoints": [
+        "Write a summary of the differences and similarities",
+        "Use clear references to both sources",
+        "Focus on what each writer says about the topic"
+      ],
+      "rubric": {
+        "name": "AO1/AO4 summary",
+        "maxScore": 8,
+        "notes": "Reward clear, comparative summary using relevant references from both sources."
+      },
+      "packId": "p2-commute",
+      "paper": "Paper 2",
+      "packTitle": "Travelling to Work"
+    },
+    {
+      "id": "p2-libraries-q2",
+      "questionNumber": "Question 2",
+      "section": "Section A: Reading",
+      "markCategory": 8,
+      "questionType": "summary-compare",
+      "assessmentObjective": "AO1 / AO4",
+      "instructionsTop": "You need to refer to both Source A and Source B for this question.",
+      "focusLines": "Whole sources",
+      "questionText": "Use details from both sources to write a summary of why shared reading spaces matter to the writers.",
+      "bulletPoints": [
+        "Write a summary of the differences and similarities",
+        "Use clear references to both sources",
+        "Focus on what each writer says about the topic"
+      ],
+      "rubric": {
+        "name": "AO1/AO4 summary",
+        "maxScore": 8,
+        "notes": "Reward clear, comparative summary using relevant references from both sources."
+      },
+      "packId": "p2-libraries",
+      "paper": "Paper 2",
+      "packTitle": "Libraries and Community"
+    },
+    {
+      "id": "p2-weather-q2",
+      "questionNumber": "Question 2",
+      "section": "Section A: Reading",
+      "markCategory": 8,
+      "questionType": "summary-compare",
+      "assessmentObjective": "AO1 / AO4",
+      "instructionsTop": "You need to refer to both Source A and Source B for this question.",
+      "focusLines": "Whole sources",
+      "questionText": "Use details from both sources to write a summary of how difficult weather affects communities.",
+      "bulletPoints": [
+        "Write a summary of the differences and similarities",
+        "Use clear references to both sources",
+        "Focus on what each writer says about the topic"
+      ],
+      "rubric": {
+        "name": "AO1/AO4 summary",
+        "maxScore": 8,
+        "notes": "Reward clear, comparative summary using relevant references from both sources."
+      },
+      "packId": "p2-weather",
+      "paper": "Paper 2",
+      "packTitle": "Weather and Community"
+    },
+    {
+      "id": "p1-greenhouse-q2",
+      "questionNumber": "Question 2",
+      "section": "Section A: Reading",
+      "markCategory": 8,
+      "questionType": "language-analysis",
+      "assessmentObjective": "AO2",
+      "instructionsTop": "Read the middle section of Source A.",
+      "focusLines": "Lines 4 to 8",
+      "questionText": "How does the writer use language to describe the greenhouse and Imani’s reaction to it?",
+      "bulletPoints": [
+        "You could include the writer’s choice of words and phrases",
+        "You could include language features and techniques",
+        "You could include the effects on the reader"
+      ],
+      "rubric": {
+        "name": "AO2 language analysis",
+        "maxScore": 8,
+        "notes": "Reward clear explanation of language choices, precise references and relevant effects."
+      },
+      "packId": "p1-greenhouse",
+      "paper": "Paper 1",
+      "packTitle": "The Rooftop Greenhouse"
+    },
+    {
+      "id": "p1-greenhouse-q3",
+      "questionNumber": "Question 3",
+      "section": "Section A: Reading",
+      "markCategory": 8,
+      "questionType": "structure-analysis",
+      "assessmentObjective": "AO2",
+      "instructionsTop": "Think about the whole source.",
+      "focusLines": "Whole source",
+      "questionText": "How has the writer structured the source to interest you as a reader?",
+      "bulletPoints": [
+        "You could write about the opening focus",
+        "You could write about shifts in focus and pace",
+        "You could write about the ending"
+      ],
+      "rubric": {
+        "name": "AO2 structure analysis",
+        "maxScore": 8,
+        "notes": "Reward understanding of structural choices and effects across the source."
+      },
+      "packId": "p1-greenhouse",
+      "paper": "Paper 1",
+      "packTitle": "The Rooftop Greenhouse"
+    },
+    {
+      "id": "p2-markets-q2",
+      "questionNumber": "Question 2",
+      "section": "Section A: Reading",
+      "markCategory": 8,
+      "questionType": "summary-compare",
+      "assessmentObjective": "AO1",
+      "instructionsTop": "Refer to both Source A and Source B.",
+      "focusLines": "Whole sources",
+      "questionText": "Use details from both sources to summarise the different experiences of visiting a market.",
+      "bulletPoints": [
+        "Identify clear similarities or differences",
+        "Use relevant evidence from both sources",
+        "Explain what the evidence suggests"
+      ],
+      "rubric": {
+        "name": "AO1 synthesis and inference",
+        "maxScore": 8,
+        "notes": "Reward accurate inference, synthesis and relevant evidence from both sources."
+      },
+      "packId": "p2-markets",
+      "paper": "Paper 2",
+      "packTitle": "Markets and High Streets"
+    }
+  ]
+}

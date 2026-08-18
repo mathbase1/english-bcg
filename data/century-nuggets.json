@@ -1,0 +1,596 @@
+{
+  "title": "English Language GCSE (AQA) - CENTURY nugget targets",
+  "count": 118,
+  "targets": [
+    {
+      "code": "EN1.01",
+      "name": "Implicit and Explicit",
+      "topic": "Reading skills"
+    },
+    {
+      "code": "EN1.02",
+      "name": "Selecting Evidence",
+      "topic": "Reading skills"
+    },
+    {
+      "code": "EN1.03",
+      "name": "Skimming and Scanning",
+      "topic": "Reading skills"
+    },
+    {
+      "code": "EN1.04",
+      "name": "Synthesising Evidence - differences",
+      "topic": "Reading skills"
+    },
+    {
+      "code": "EN1.05",
+      "name": "Synthesising Evidence - Similarities",
+      "topic": "Reading skills"
+    },
+    {
+      "code": "EN2.01",
+      "name": "Similes",
+      "topic": "Introduction to language devices"
+    },
+    {
+      "code": "EN2.02",
+      "name": "Metaphors",
+      "topic": "Introduction to language devices"
+    },
+    {
+      "code": "EN2.03",
+      "name": "Personification",
+      "topic": "Introduction to language devices"
+    },
+    {
+      "code": "EN2.04",
+      "name": "Pathetic Fallacy",
+      "topic": "Introduction to language devices"
+    },
+    {
+      "code": "EN2.05",
+      "name": "Emotive Language",
+      "topic": "Introduction to language devices"
+    },
+    {
+      "code": "EN2.06",
+      "name": "Flattery",
+      "topic": "Introduction to language devices"
+    },
+    {
+      "code": "EN2.07",
+      "name": "Facts and Statistics",
+      "topic": "Introduction to language devices"
+    },
+    {
+      "code": "EN2.08",
+      "name": "Hyperbole",
+      "topic": "Introduction to language devices"
+    },
+    {
+      "code": "EN2.09",
+      "name": "Imperatives",
+      "topic": "Introduction to language devices"
+    },
+    {
+      "code": "EN2.10",
+      "name": "Onomatopoeia",
+      "topic": "Introduction to language devices"
+    },
+    {
+      "code": "EN2.11",
+      "name": "Direct Address",
+      "topic": "Introduction to language devices"
+    },
+    {
+      "code": "EN2.12",
+      "name": "Rule of Three",
+      "topic": "Introduction to language devices"
+    },
+    {
+      "code": "EN2.13",
+      "name": "Repetition",
+      "topic": "Introduction to language devices"
+    },
+    {
+      "code": "EN2.14",
+      "name": "Rhetorical Questions",
+      "topic": "Introduction to language devices"
+    },
+    {
+      "code": "EN2.15",
+      "name": "Sensory Language",
+      "topic": "Introduction to language devices"
+    },
+    {
+      "code": "EN2.16",
+      "name": "Symbolism",
+      "topic": "Introduction to language devices"
+    },
+    {
+      "code": "EN2.17",
+      "name": "Contrasting",
+      "topic": "Introduction to language devices"
+    },
+    {
+      "code": "EN2.18",
+      "name": "Alliteration",
+      "topic": "Introduction to language devices"
+    },
+    {
+      "code": "EN2.19",
+      "name": "Irony/Sarcasm/Satire",
+      "topic": "Introduction to language devices"
+    },
+    {
+      "code": "EN2.20",
+      "name": "Idioms",
+      "topic": "Introduction to language devices"
+    },
+    {
+      "code": "EN2.21",
+      "name": "Listing",
+      "topic": "Introduction to language devices"
+    },
+    {
+      "code": "EN2.22",
+      "name": "Anecdotes",
+      "topic": "Introduction to language devices"
+    },
+    {
+      "code": "EN2.23",
+      "name": "Cliches",
+      "topic": "Introduction to language devices"
+    },
+    {
+      "code": "EN2.24",
+      "name": "Tension and Suspense",
+      "topic": "Introduction to language devices"
+    },
+    {
+      "code": "EN2.25",
+      "name": "Atmosphere, Mood and Tone",
+      "topic": "Introduction to language devices"
+    },
+    {
+      "code": "EN3.01",
+      "name": "Writing: Similes",
+      "topic": "Writing - language devices"
+    },
+    {
+      "code": "EN3.02",
+      "name": "Writing: Metaphors",
+      "topic": "Writing - language devices"
+    },
+    {
+      "code": "EN3.03",
+      "name": "Writing: Personification",
+      "topic": "Writing - language devices"
+    },
+    {
+      "code": "EN3.04",
+      "name": "Writing: Pathetic Fallacy",
+      "topic": "Writing - language devices"
+    },
+    {
+      "code": "EN3.05",
+      "name": "Writing: Emotive Language",
+      "topic": "Writing - language devices"
+    },
+    {
+      "code": "EN3.06",
+      "name": "Writing: Flattery",
+      "topic": "Writing - language devices"
+    },
+    {
+      "code": "EN3.07",
+      "name": "Writing: Facts and Statistics",
+      "topic": "Writing - language devices"
+    },
+    {
+      "code": "EN3.08",
+      "name": "Writing: Hyperbole",
+      "topic": "Writing - language devices"
+    },
+    {
+      "code": "EN3.09",
+      "name": "Writing: Imperatives",
+      "topic": "Writing - language devices"
+    },
+    {
+      "code": "EN3.10",
+      "name": "Writing: Onomatopoeia",
+      "topic": "Writing - language devices"
+    },
+    {
+      "code": "EN3.11",
+      "name": "Writing: Direct Address",
+      "topic": "Writing - language devices"
+    },
+    {
+      "code": "EN3.12",
+      "name": "Writing: Rule of Three",
+      "topic": "Writing - language devices"
+    },
+    {
+      "code": "EN3.13",
+      "name": "Writing: Repetition",
+      "topic": "Writing - language devices"
+    },
+    {
+      "code": "EN3.14",
+      "name": "Writing: Rhetorical Questions",
+      "topic": "Writing - language devices"
+    },
+    {
+      "code": "EN3.15",
+      "name": "Writing: Sensory Language",
+      "topic": "Writing - language devices"
+    },
+    {
+      "code": "EN3.16",
+      "name": "Writing: Symbolism",
+      "topic": "Writing - language devices"
+    },
+    {
+      "code": "EN3.17",
+      "name": "Writing: Irony/Sarcasm/Satire",
+      "topic": "Writing - language devices"
+    },
+    {
+      "code": "EN3.18",
+      "name": "Writing: Idioms",
+      "topic": "Writing - language devices"
+    },
+    {
+      "code": "EN3.19",
+      "name": "Writing: Contrasting",
+      "topic": "Writing - language devices"
+    },
+    {
+      "code": "EN3.20",
+      "name": "Writing: Alliteration",
+      "topic": "Writing - language devices"
+    },
+    {
+      "code": "EN3.21",
+      "name": "Writing: Listing",
+      "topic": "Writing - language devices"
+    },
+    {
+      "code": "EN3.22",
+      "name": "Writing: Anecdotes",
+      "topic": "Writing - language devices"
+    },
+    {
+      "code": "EN3.23",
+      "name": "Writing: Vocabulary",
+      "topic": "Writing - language devices"
+    },
+    {
+      "code": "EN3.24",
+      "name": "Counter Arguments",
+      "topic": "Writing - language devices"
+    },
+    {
+      "code": "EN4.01",
+      "name": "Reading: Similes",
+      "topic": "Reading - language devices"
+    },
+    {
+      "code": "EN4.02",
+      "name": "Reading: Metaphors",
+      "topic": "Reading - language devices"
+    },
+    {
+      "code": "EN4.03",
+      "name": "Reading: Personification",
+      "topic": "Reading - language devices"
+    },
+    {
+      "code": "EN4.04",
+      "name": "Reading: Pathetic Fallacy",
+      "topic": "Reading - language devices"
+    },
+    {
+      "code": "EN4.05",
+      "name": "Reading: Emotive Language",
+      "topic": "Reading - language devices"
+    },
+    {
+      "code": "EN4.06",
+      "name": "Reading: Flattery",
+      "topic": "Reading - language devices"
+    },
+    {
+      "code": "EN4.07",
+      "name": "Reading: Facts and Statistics",
+      "topic": "Reading - language devices"
+    },
+    {
+      "code": "EN4.08",
+      "name": "Reading: Hyperbole",
+      "topic": "Reading - language devices"
+    },
+    {
+      "code": "EN4.09",
+      "name": "Reading: Imperatives",
+      "topic": "Reading - language devices"
+    },
+    {
+      "code": "EN4.10",
+      "name": "Reading: Onomatopoeia",
+      "topic": "Reading - language devices"
+    },
+    {
+      "code": "EN4.11",
+      "name": "Reading: Direct Address",
+      "topic": "Reading - language devices"
+    },
+    {
+      "code": "EN4.12",
+      "name": "Reading: Rule of Three",
+      "topic": "Reading - language devices"
+    },
+    {
+      "code": "EN4.13",
+      "name": "Reading: Repetition",
+      "topic": "Reading - language devices"
+    },
+    {
+      "code": "EN4.14",
+      "name": "Reading: Rhetorical Questions",
+      "topic": "Reading - language devices"
+    },
+    {
+      "code": "EN4.15",
+      "name": "Reading: Sensory Language",
+      "topic": "Reading - language devices"
+    },
+    {
+      "code": "EN4.16",
+      "name": "Reading: Symbolism",
+      "topic": "Reading - language devices"
+    },
+    {
+      "code": "EN4.17",
+      "name": "Reading: Irony/Sarcasm/Satire",
+      "topic": "Reading - language devices"
+    },
+    {
+      "code": "EN4.18",
+      "name": "Reading: Idioms",
+      "topic": "Reading - language devices"
+    },
+    {
+      "code": "EN4.19",
+      "name": "Reading: Contrasting",
+      "topic": "Reading - language devices"
+    },
+    {
+      "code": "EN4.20",
+      "name": "Reading: Alliteration",
+      "topic": "Reading - language devices"
+    },
+    {
+      "code": "EN4.21",
+      "name": "Reading: Listing",
+      "topic": "Reading - language devices"
+    },
+    {
+      "code": "EN4.22",
+      "name": "Reading: Anecdotes",
+      "topic": "Reading - language devices"
+    },
+    {
+      "code": "EN5.01",
+      "name": "Connectives",
+      "topic": "Structure"
+    },
+    {
+      "code": "EN5.02",
+      "name": "Narrative Structure",
+      "topic": "Structure"
+    },
+    {
+      "code": "EN5.03",
+      "name": "Circular Structure",
+      "topic": "Structure"
+    },
+    {
+      "code": "EN5.04",
+      "name": "Flashback and Flash Forward",
+      "topic": "Structure"
+    },
+    {
+      "code": "EN5.05",
+      "name": "Foreshadowing",
+      "topic": "Structure"
+    },
+    {
+      "code": "EN5.06",
+      "name": "Plot Twists",
+      "topic": "Structure"
+    },
+    {
+      "code": "EN6.01",
+      "name": "AO2",
+      "topic": "Reading AO2 and AO3 skills"
+    },
+    {
+      "code": "EN6.02",
+      "name": "What is Structure?",
+      "topic": "Reading AO2 and AO3 skills"
+    },
+    {
+      "code": "EN6.03",
+      "name": "Connotations",
+      "topic": "Reading AO2 and AO3 skills"
+    },
+    {
+      "code": "EN6.04",
+      "name": "AO3",
+      "topic": "Reading AO2 and AO3 skills"
+    },
+    {
+      "code": "EN7.01",
+      "name": "Evaluative Language",
+      "topic": "Evaluation and analytical writing"
+    },
+    {
+      "code": "EN7.02",
+      "name": "Writing an Analytical Paragraph",
+      "topic": "Evaluation and analytical writing"
+    },
+    {
+      "code": "EN7.03",
+      "name": "Embedding Quotations",
+      "topic": "Evaluation and analytical writing"
+    },
+    {
+      "code": "EN7.04",
+      "name": "AO4",
+      "topic": "Evaluation and analytical writing"
+    },
+    {
+      "code": "EN8.01",
+      "name": "Purpose, Audience and Form",
+      "topic": "Writing skills"
+    },
+    {
+      "code": "EN8.02",
+      "name": "Planning",
+      "topic": "Writing skills"
+    },
+    {
+      "code": "EN8.03",
+      "name": "Proofreading",
+      "topic": "Writing skills"
+    },
+    {
+      "code": "EN8.04",
+      "name": "Sentence Variety",
+      "topic": "Writing skills"
+    },
+    {
+      "code": "EN9.01",
+      "name": "Letters",
+      "topic": "Form and text types"
+    },
+    {
+      "code": "EN9.02",
+      "name": "Articles",
+      "topic": "Form and text types"
+    },
+    {
+      "code": "EN9.03",
+      "name": "Reviews",
+      "topic": "Form and text types"
+    },
+    {
+      "code": "EN9.04",
+      "name": "Speeches",
+      "topic": "Form and text types"
+    },
+    {
+      "code": "EN9.05",
+      "name": "Travel Writing",
+      "topic": "Form and text types"
+    },
+    {
+      "code": "EN9.06",
+      "name": "Blogs",
+      "topic": "Form and text types"
+    },
+    {
+      "code": "EN9.07",
+      "name": "Reports",
+      "topic": "Form and text types"
+    },
+    {
+      "code": "EN9.08",
+      "name": "Fiction Writing",
+      "topic": "Form and text types"
+    },
+    {
+      "code": "EN9.09",
+      "name": "Leaflets",
+      "topic": "Form and text types"
+    },
+    {
+      "code": "EN9.10",
+      "name": "Nonfiction Writing",
+      "topic": "Form and text types"
+    },
+    {
+      "code": "EN10.01",
+      "name": "AQA: Paper 1, Question 1",
+      "topic": "AQA paper questions"
+    },
+    {
+      "code": "EN10.02",
+      "name": "AQA: Paper 1, Question 2",
+      "topic": "AQA paper questions"
+    },
+    {
+      "code": "EN10.03",
+      "name": "AQA: Paper 1, Question 3",
+      "topic": "AQA paper questions"
+    },
+    {
+      "code": "EN10.04",
+      "name": "AQA: Paper 1, Question 4",
+      "topic": "AQA paper questions"
+    },
+    {
+      "code": "EN10.05",
+      "name": "AQA: Paper 1, Question 5 - Image",
+      "topic": "AQA paper questions"
+    },
+    {
+      "code": "EN10.06",
+      "name": "AQA: Paper 1, Question 5 - Statement",
+      "topic": "AQA paper questions"
+    },
+    {
+      "code": "EN10.07",
+      "name": "AQA: Paper 2, Question 1",
+      "topic": "AQA paper questions"
+    },
+    {
+      "code": "EN10.08",
+      "name": "AQA: Paper 2, Question 2 - Similarities",
+      "topic": "AQA paper questions"
+    },
+    {
+      "code": "EN10.09",
+      "name": "AQA: Paper 2, Question 2 - Differences",
+      "topic": "AQA paper questions"
+    },
+    {
+      "code": "EN10.10",
+      "name": "AQA: Paper 2, Question 3",
+      "topic": "AQA paper questions"
+    },
+    {
+      "code": "EN10.11",
+      "name": "AQA: Paper 2, Question 4",
+      "topic": "AQA paper questions"
+    },
+    {
+      "code": "EN10.12",
+      "name": "AQA: Paper 2, Question 5",
+      "topic": "AQA paper questions"
+    },
+    {
+      "code": "EN11.01",
+      "name": "Practice Paper A: Paper 1",
+      "topic": "AQA practice papers"
+    },
+    {
+      "code": "EN11.02",
+      "name": "Practice Paper A: Paper 2",
+      "topic": "AQA practice papers"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="AQA-style GCSE English Language practice papers with secure AI-assisted feedback." />
+  <meta name="robots" content="noindex, nofollow, noarchive" />
+  <title>BCG GCSE English Language Practice</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <section id="auth-gate" class="auth-gate" aria-labelledby="access-title">
+    <div class="auth-card">
+      <div class="brand-mark" aria-hidden="true">BCG</div>
+      <p class="eyebrow">GCSE English Language</p>
+      <h1 id="access-title">Teacher access required</h1>
+      <p class="auth-copy">Ask your teacher to enter the session password before you begin.</p>
+      <form id="access-form" class="access-form" autocomplete="off">
+        <label for="access-password">Session password</label>
+        <input id="access-password" name="password" type="password" autocomplete="current-password" required />
+        <button id="access-submit" class="primary-btn full-width" type="submit">Open practice paper</button>
+      </form>
+      <p id="access-status" class="form-status" aria-live="polite"></p>
+      <p class="privacy-note">Your answers are saved only in this browser. Do not include your full name, email address or candidate number in an answer.</p>
+    </div>
+  </section>
+
+  <div id="app" class="app-shell" hidden>
+    <header class="topbar">
+      <div class="topbar-inner">
+        <div class="brand-row">
+          <div class="brand-mark small" aria-hidden="true">BCG</div>
+          <div>
+            <p class="eyebrow">AQA-style GCSE English Language practice</p>
+            <h1>English Language Practice Papers</h1>
+          </div>
+        </div>
+        <div class="topbar-status">
+          <span class="status-chip secure">Secure session</span>
+          <span id="save-status" class="status-chip">Answers saved</span>
+        </div>
+      </div>
+    </header>
+
+    <div class="layout">
+      <aside class="sidebar">
+        <section class="panel control-panel">
+          <p class="panel-kicker">Paper setup</p>
+          <h2>Choose a paper</h2>
+          <label class="field-label" for="paper-mode">Paper selection</label>
+          <select id="paper-mode">
+            <option value="Paper 1">Paper 1 — Explorations in Creative Reading and Writing</option>
+            <option value="Paper 2">Paper 2 — Writers' Viewpoints and Perspectives</option>
+          </select>
+          <div class="button-stack">
+            <button id="generate-paper-btn" class="primary-btn" type="button">Generate a new paper</button>
+            <button id="clear-answers-btn" class="ghost-btn" type="button">Clear this paper's saved answers</button>
+          </div>
+        </section>
+
+        <section class="panel details-panel">
+          <p class="panel-kicker">Current paper</p>
+          <h2>Paper details</h2>
+          <div id="current-paper-meta" class="meta-grid">
+            <div class="meta-card">Loading…</div>
+          </div>
+        </section>
+
+        <section class="panel autosave-panel">
+          <h2>Autosave</h2>
+          <p>Your selected scenario and written responses are saved on this browser as you work.</p>
+        </section>
+      </aside>
+
+      <main class="main-content">
+        <section class="panel exam-paper">
+          <div id="paper-view">
+            <div class="notice">Loading paper…</div>
+          </div>
+        </section>
+
+        <section class="panel result-panel" aria-labelledby="marking-title">
+          <div class="paper-toolbar">
+            <div>
+              <p class="panel-kicker">Examiner feedback</p>
+              <h2 id="marking-title">Marking and targets</h2>
+              <p class="muted">Mark the paper first, then generate four CENTURY Nugget targets.</p>
+            </div>
+            <div class="button-row action-buttons">
+              <button id="mark-paper-btn" class="primary-btn" type="button">Mark this paper</button>
+              <button id="generate-targets-btn" class="secondary-btn" type="button">Generate targets</button>
+              <button id="copy-feedback-btn" class="dark-btn" type="button" disabled>Copy to clipboard</button>
+            </div>
+          </div>
+
+          <div id="result-window" class="result-window" aria-live="polite">
+            <p class="muted">Marked work will appear here.</p>
+          </div>
+
+          <section id="targets-panel" class="targets-panel" hidden>
+            <div class="targets-heading">
+              <div>
+                <p class="panel-kicker">Next steps</p>
+                <h3>Your CENTURY Nugget targets</h3>
+              </div>
+            </div>
+            <div id="targets-window" class="targets-grid"></div>
+          </section>
+        </section>
+
+        <footer class="site-footer">
+          <p>This is original AQA-style practice material, not an official AQA examination paper. AI-generated feedback is for practice and should be reviewed by a teacher.</p>
+        </footer>
+      </main>
+    </div>
+  </div>
+
+  <div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+
+  <script src="config.js"></script>
+  <script src="data/question-bank.js"></script>
+  <script src="app.js" defer></script>
+</body>
+</html>

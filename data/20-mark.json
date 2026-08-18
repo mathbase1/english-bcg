@@ -1,0 +1,135 @@
+{
+  "meta": {
+    "title": "AQA GCSE English Language Mock Paper Bank",
+    "subtitle": "Original AQA-style GCSE English Language practice papers with secure OpenAI-assisted marking",
+    "version": "3.0.0",
+    "notes": [
+      "All sources, extracts and questions are original mock materials and are not official AQA papers.",
+      "Each generated paper contains four questions worth 4, 8, 20 and 40 marks and is designed for 1 hour 25 minutes.",
+      "The browser saves the selected paper pack and student responses locally on that device."
+    ]
+  },
+  "markCategory": 20,
+  "questions": [
+    {
+      "id": "p1-harbour-q4",
+      "questionNumber": "Question 4",
+      "section": "Section A: Reading",
+      "markCategory": 20,
+      "questionType": "evaluation",
+      "assessmentObjective": "AO4",
+      "instructionsTop": "Focus this part of your answer on the second half of the source.",
+      "focusLines": "Lines 7 to the end",
+      "statement": "A student said, \"Mara seems frightened at first, but by the end of the source she seems drawn towards the harbour.\"",
+      "questionText": "To what extent do you agree? In your response, you could: write about your own impressions of the character or setting; evaluate how the writer has created these impressions; support your ideas with references from the text.",
+      "rubric": {
+        "name": "AO4 evaluation",
+        "maxScore": 20,
+        "notes": "Reward a clear, critical response to the statement with judgements supported by apt textual references and explanation of methods."
+      },
+      "packId": "p1-harbour",
+      "paper": "Paper 1",
+      "packTitle": "Harbour at Dawn"
+    },
+    {
+      "id": "p1-fairground-q4",
+      "questionNumber": "Question 4",
+      "section": "Section A: Reading",
+      "markCategory": 20,
+      "questionType": "evaluation",
+      "assessmentObjective": "AO4",
+      "instructionsTop": "Focus this part of your answer on the second half of the source.",
+      "focusLines": "Lines 7 to the end",
+      "statement": "A student said, \"The fairground feels lifeless, but it also seems ready to wake up at any moment.\"",
+      "questionText": "To what extent do you agree? In your response, you could: write about your own impressions of the character or setting; evaluate how the writer has created these impressions; support your ideas with references from the text.",
+      "rubric": {
+        "name": "AO4 evaluation",
+        "maxScore": 20,
+        "notes": "Reward a clear, critical response to the statement with judgements supported by apt textual references and explanation of methods."
+      },
+      "packId": "p1-fairground",
+      "paper": "Paper 1",
+      "packTitle": "The Closed Fairground"
+    },
+    {
+      "id": "p1-library-q4",
+      "questionNumber": "Question 4",
+      "section": "Section A: Reading",
+      "markCategory": 20,
+      "questionType": "evaluation",
+      "assessmentObjective": "AO4",
+      "instructionsTop": "Focus this part of your answer on the second half of the source.",
+      "focusLines": "Lines 7 to the end",
+      "statement": "A student said, \"The ending is effective because it turns curiosity into danger.\"",
+      "questionText": "To what extent do you agree? In your response, you could: write about your own impressions of the character or setting; evaluate how the writer has created these impressions; support your ideas with references from the text.",
+      "rubric": {
+        "name": "AO4 evaluation",
+        "maxScore": 20,
+        "notes": "Reward a clear, critical response to the statement with judgements supported by apt textual references and explanation of methods."
+      },
+      "packId": "p1-library",
+      "paper": "Paper 1",
+      "packTitle": "The Library Stairwell"
+    },
+    {
+      "id": "p1-bridge-q4",
+      "questionNumber": "Question 4",
+      "section": "Section A: Reading",
+      "markCategory": 20,
+      "questionType": "evaluation",
+      "assessmentObjective": "AO4",
+      "instructionsTop": "Focus this part of your answer on the second half of the source.",
+      "focusLines": "Lines 7 to the end",
+      "statement": "A student said, \"Although the source begins with flood damage, it becomes increasingly hopeful.\"",
+      "questionText": "To what extent do you agree? In your response, you could: write about your own impressions of the character or setting; evaluate how the writer has created these impressions; support your ideas with references from the text.",
+      "rubric": {
+        "name": "AO4 evaluation",
+        "maxScore": 20,
+        "notes": "Reward a clear, critical response to the statement with judgements supported by apt textual references and explanation of methods."
+      },
+      "packId": "p1-bridge",
+      "paper": "Paper 1",
+      "packTitle": "The Bridge After the Flood"
+    },
+    {
+      "id": "p1-busdepot-q4",
+      "questionNumber": "Question 4",
+      "section": "Section A: Reading",
+      "markCategory": 20,
+      "questionType": "evaluation",
+      "assessmentObjective": "AO4",
+      "instructionsTop": "Focus this part of your answer on the second half of the source.",
+      "focusLines": "Lines 7 to the end",
+      "statement": "A student said, \"Imran's final decision matters because the writer makes even a small action feel important.\"",
+      "questionText": "To what extent do you agree? In your response, you could: write about your own impressions of the character or setting; evaluate how the writer has created these impressions; support your ideas with references from the text.",
+      "rubric": {
+        "name": "AO4 evaluation",
+        "maxScore": 20,
+        "notes": "Reward a clear, critical response to the statement with judgements supported by apt textual references and explanation of methods."
+      },
+      "packId": "p1-busdepot",
+      "paper": "Paper 1",
+      "packTitle": "The Winter Bus Depot"
+    },
+    {
+      "id": "p1-greenhouse-q4",
+      "questionNumber": "Question 4",
+      "section": "Section A: Reading",
+      "markCategory": 20,
+      "questionType": "evaluation",
+      "assessmentObjective": "AO4",
+      "instructionsTop": "Focus on the second half of Source A.",
+      "focusLines": "Lines 7 to the end",
+      "statement": "A student said, “The greenhouse feels welcoming, but there are also signs that Imani may be walking into danger.”",
+      "questionText": "To what extent do you agree? Evaluate how the writer creates these impressions and support your ideas with references from the text.",
+      "rubric": {
+        "name": "AO4 evaluation",
+        "maxScore": 20,
+        "notes": "Reward a clear critical response, supported judgements, apt references and evaluation of methods."
+      },
+      "packId": "p1-greenhouse",
+      "paper": "Paper 1",
+      "packTitle": "The Rooftop Greenhouse"
+    }
+  ]
+}

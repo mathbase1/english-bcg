@@ -1,0 +1,159 @@
+{
+  "meta": {
+    "title": "AQA GCSE English Language Mock Paper Bank",
+    "subtitle": "Original AQA-style GCSE English Language practice papers with secure OpenAI-assisted marking",
+    "version": "3.0.0",
+    "notes": [
+      "All sources, extracts and questions are original mock materials and are not official AQA papers.",
+      "Each generated paper contains four questions worth 4, 8, 20 and 40 marks and is designed for 1 hour 25 minutes.",
+      "The browser saves the selected paper pack and student responses locally on that device."
+    ]
+  },
+  "markCategory": 16,
+  "questions": [
+    {
+      "id": "p2-schoolday-q4",
+      "questionNumber": "Question 4",
+      "section": "Section A: Reading",
+      "markCategory": 16,
+      "questionType": "compare-perspectives",
+      "assessmentObjective": "AO3",
+      "instructionsTop": "For this question, compare how the writers convey their different perspectives or feelings.",
+      "focusLines": "Both sources",
+      "questionText": "Compare how the writers convey their different perspectives on time away from school in Source A and Source B.",
+      "bulletPoints": [
+        "Compare the writers' different ideas and perspectives",
+        "Compare how they use methods to convey these views",
+        "Support your answer with references to both sources"
+      ],
+      "rubric": {
+        "name": "AO3 comparison",
+        "maxScore": 16,
+        "notes": "Reward developed comparison of perspectives and methods across both sources."
+      },
+      "packId": "p2-schoolday",
+      "paper": "Paper 2",
+      "packTitle": "School and Rest"
+    },
+    {
+      "id": "p2-seaside-q4",
+      "questionNumber": "Question 4",
+      "section": "Section A: Reading",
+      "markCategory": 16,
+      "questionType": "compare-perspectives",
+      "assessmentObjective": "AO3",
+      "instructionsTop": "For this question, compare how the writers convey their different perspectives or feelings.",
+      "focusLines": "Both sources",
+      "questionText": "Compare how the writers convey their perspectives on the seaside in Source A and Source B.",
+      "bulletPoints": [
+        "Compare the writers' different ideas and perspectives",
+        "Compare how they use methods to convey these views",
+        "Support your answer with references to both sources"
+      ],
+      "rubric": {
+        "name": "AO3 comparison",
+        "maxScore": 16,
+        "notes": "Reward developed comparison of perspectives and methods across both sources."
+      },
+      "packId": "p2-seaside",
+      "paper": "Paper 2",
+      "packTitle": "The Seaside"
+    },
+    {
+      "id": "p2-commute-q4",
+      "questionNumber": "Question 4",
+      "section": "Section A: Reading",
+      "markCategory": 16,
+      "questionType": "compare-perspectives",
+      "assessmentObjective": "AO3",
+      "instructionsTop": "For this question, compare how the writers convey their different perspectives or feelings.",
+      "focusLines": "Both sources",
+      "questionText": "Compare how the writers convey their attitudes to shared travel in Source A and Source B.",
+      "bulletPoints": [
+        "Compare the writers' different ideas and perspectives",
+        "Compare how they use methods to convey these views",
+        "Support your answer with references to both sources"
+      ],
+      "rubric": {
+        "name": "AO3 comparison",
+        "maxScore": 16,
+        "notes": "Reward developed comparison of perspectives and methods across both sources."
+      },
+      "packId": "p2-commute",
+      "paper": "Paper 2",
+      "packTitle": "Travelling to Work"
+    },
+    {
+      "id": "p2-libraries-q4",
+      "questionNumber": "Question 4",
+      "section": "Section A: Reading",
+      "markCategory": 16,
+      "questionType": "compare-perspectives",
+      "assessmentObjective": "AO3",
+      "instructionsTop": "For this question, compare how the writers convey their different perspectives or feelings.",
+      "focusLines": "Both sources",
+      "questionText": "Compare how the writers convey their perspectives on reading rooms and libraries in Source A and Source B.",
+      "bulletPoints": [
+        "Compare the writers' different ideas and perspectives",
+        "Compare how they use methods to convey these views",
+        "Support your answer with references to both sources"
+      ],
+      "rubric": {
+        "name": "AO3 comparison",
+        "maxScore": 16,
+        "notes": "Reward developed comparison of perspectives and methods across both sources."
+      },
+      "packId": "p2-libraries",
+      "paper": "Paper 2",
+      "packTitle": "Libraries and Community"
+    },
+    {
+      "id": "p2-weather-q4",
+      "questionNumber": "Question 4",
+      "section": "Section A: Reading",
+      "markCategory": 16,
+      "questionType": "compare-perspectives",
+      "assessmentObjective": "AO3",
+      "instructionsTop": "For this question, compare how the writers convey their different perspectives or feelings.",
+      "focusLines": "Both sources",
+      "questionText": "Compare how the writers convey their perspectives on severe weather in Source A and Source B.",
+      "bulletPoints": [
+        "Compare the writers' different ideas and perspectives",
+        "Compare how they use methods to convey these views",
+        "Support your answer with references to both sources"
+      ],
+      "rubric": {
+        "name": "AO3 comparison",
+        "maxScore": 16,
+        "notes": "Reward developed comparison of perspectives and methods across both sources."
+      },
+      "packId": "p2-weather",
+      "paper": "Paper 2",
+      "packTitle": "Weather and Community"
+    },
+    {
+      "id": "p2-markets-q4",
+      "questionNumber": "Question 4",
+      "section": "Section A: Reading",
+      "markCategory": 16,
+      "questionType": "compare-perspectives",
+      "assessmentObjective": "AO3",
+      "instructionsTop": "Compare both sources.",
+      "focusLines": "Both sources",
+      "questionText": "Compare how the writers convey their perspectives on markets and their value to a town.",
+      "bulletPoints": [
+        "Compare ideas and perspectives",
+        "Compare how methods convey those perspectives",
+        "Support your response with references to both sources"
+      ],
+      "rubric": {
+        "name": "AO3 comparison",
+        "maxScore": 16,
+        "notes": "Reward developed comparison of perspectives and methods across both sources."
+      },
+      "packId": "p2-markets",
+      "paper": "Paper 2",
+      "packTitle": "Markets and High Streets"
+    }
+  ]
+}

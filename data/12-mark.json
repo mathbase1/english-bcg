@@ -1,0 +1,159 @@
+{
+  "meta": {
+    "title": "AQA GCSE English Language Mock Paper Bank",
+    "subtitle": "Original AQA-style GCSE English Language practice papers with secure OpenAI-assisted marking",
+    "version": "3.0.0",
+    "notes": [
+      "All sources, extracts and questions are original mock materials and are not official AQA papers.",
+      "Each generated paper contains four questions worth 4, 8, 20 and 40 marks and is designed for 1 hour 25 minutes.",
+      "The browser saves the selected paper pack and student responses locally on that device."
+    ]
+  },
+  "markCategory": 12,
+  "questions": [
+    {
+      "id": "p2-schoolday-q3",
+      "questionNumber": "Question 3",
+      "section": "Section A: Reading",
+      "markCategory": 12,
+      "questionType": "writer-methods-viewpoint",
+      "assessmentObjective": "AO3",
+      "instructionsTop": "You now need to refer only to Source A from lines 1 to the end.",
+      "focusLines": "Whole Source A",
+      "questionText": "How does the writer use language and structure in Source A to present the pressure students feel outside school?",
+      "bulletPoints": [
+        "You could write about the writer's tone and viewpoint",
+        "You could write about language features and structural choices",
+        "You could write about how the writer shapes the reader's response"
+      ],
+      "rubric": {
+        "name": "AO3 analysis of viewpoint",
+        "maxScore": 12,
+        "notes": "Reward analysis of how the writer uses methods to present ideas and influence the reader."
+      },
+      "packId": "p2-schoolday",
+      "paper": "Paper 2",
+      "packTitle": "School and Rest"
+    },
+    {
+      "id": "p2-seaside-q3",
+      "questionNumber": "Question 3",
+      "section": "Section A: Reading",
+      "markCategory": 12,
+      "questionType": "writer-methods-viewpoint",
+      "assessmentObjective": "AO3",
+      "instructionsTop": "You now need to refer only to Source A from lines 1 to the end.",
+      "focusLines": "Whole Source A",
+      "questionText": "How does the writer use language and structure in Source A to present a complicated attitude towards visitors?",
+      "bulletPoints": [
+        "You could write about the writer's tone and viewpoint",
+        "You could write about language features and structural choices",
+        "You could write about how the writer shapes the reader's response"
+      ],
+      "rubric": {
+        "name": "AO3 analysis of viewpoint",
+        "maxScore": 12,
+        "notes": "Reward analysis of how the writer uses methods to present ideas and influence the reader."
+      },
+      "packId": "p2-seaside",
+      "paper": "Paper 2",
+      "packTitle": "The Seaside"
+    },
+    {
+      "id": "p2-commute-q3",
+      "questionNumber": "Question 3",
+      "section": "Section A: Reading",
+      "markCategory": 12,
+      "questionType": "writer-methods-viewpoint",
+      "assessmentObjective": "AO3",
+      "instructionsTop": "You now need to refer only to Source A from lines 1 to the end.",
+      "focusLines": "Whole Source A",
+      "questionText": "How does the writer use language and structure in Source A to present commuting as both ordinary and significant?",
+      "bulletPoints": [
+        "You could write about the writer's tone and viewpoint",
+        "You could write about language features and structural choices",
+        "You could write about how the writer shapes the reader's response"
+      ],
+      "rubric": {
+        "name": "AO3 analysis of viewpoint",
+        "maxScore": 12,
+        "notes": "Reward analysis of how the writer uses methods to present ideas and influence the reader."
+      },
+      "packId": "p2-commute",
+      "paper": "Paper 2",
+      "packTitle": "Travelling to Work"
+    },
+    {
+      "id": "p2-libraries-q3",
+      "questionNumber": "Question 3",
+      "section": "Section A: Reading",
+      "markCategory": 12,
+      "questionType": "writer-methods-viewpoint",
+      "assessmentObjective": "AO3",
+      "instructionsTop": "You now need to refer only to Source A from lines 1 to the end.",
+      "focusLines": "Whole Source A",
+      "questionText": "How does the writer use language and structure in Source A to present libraries as important community spaces?",
+      "bulletPoints": [
+        "You could write about the writer's tone and viewpoint",
+        "You could write about language features and structural choices",
+        "You could write about how the writer shapes the reader's response"
+      ],
+      "rubric": {
+        "name": "AO3 analysis of viewpoint",
+        "maxScore": 12,
+        "notes": "Reward analysis of how the writer uses methods to present ideas and influence the reader."
+      },
+      "packId": "p2-libraries",
+      "paper": "Paper 2",
+      "packTitle": "Libraries and Community"
+    },
+    {
+      "id": "p2-weather-q3",
+      "questionNumber": "Question 3",
+      "section": "Section A: Reading",
+      "markCategory": 12,
+      "questionType": "writer-methods-viewpoint",
+      "assessmentObjective": "AO3",
+      "instructionsTop": "You now need to refer only to Source A from lines 1 to the end.",
+      "focusLines": "Whole Source A",
+      "questionText": "How does the writer use language and structure in Source A to present what really matters after a storm?",
+      "bulletPoints": [
+        "You could write about the writer's tone and viewpoint",
+        "You could write about language features and structural choices",
+        "You could write about how the writer shapes the reader's response"
+      ],
+      "rubric": {
+        "name": "AO3 analysis of viewpoint",
+        "maxScore": 12,
+        "notes": "Reward analysis of how the writer uses methods to present ideas and influence the reader."
+      },
+      "packId": "p2-weather",
+      "paper": "Paper 2",
+      "packTitle": "Weather and Community"
+    },
+    {
+      "id": "p2-markets-q3",
+      "questionNumber": "Question 3",
+      "section": "Section A: Reading",
+      "markCategory": 12,
+      "questionType": "writer-methods-viewpoint",
+      "assessmentObjective": "AO2",
+      "instructionsTop": "Refer only to Source B.",
+      "focusLines": "Whole Source B",
+      "questionText": "How does the writer use language to present the market in Source B?",
+      "bulletPoints": [
+        "You could write about tone and viewpoint",
+        "You could analyse language choices",
+        "You could explain effects on the reader"
+      ],
+      "rubric": {
+        "name": "AO2 language analysis",
+        "maxScore": 12,
+        "notes": "Reward developed analysis of methods, viewpoint and effects."
+      },
+      "packId": "p2-markets",
+      "paper": "Paper 2",
+      "packTitle": "Markets and High Streets"
+    }
+  ]
+}
