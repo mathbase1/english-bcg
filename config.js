@@ -7,5 +7,5 @@ window.ENGLISH_MARKER_CONFIG = Object.freeze({
   backendBaseUrl:
     window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1"
       ? window.location.origin
-      : "ff"
+      : "https://english-bcg.vercel.app"
 });
